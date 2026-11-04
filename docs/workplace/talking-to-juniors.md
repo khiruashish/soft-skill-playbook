@@ -85,11 +85,11 @@ juniors decides whether they come to you with problems or hide them from you.
 
 ## Mistakes to avoid
 
-- :x: "This is easy, just do X" (it isn't easy for them)
-- :x: Taking the keyboard and fixing it yourself
-- :x: Sarcasm in code reviews
-- :x: Only giving feedback when something goes wrong
-- :x: Answering in jargon without checking they understand
+- ❌ "This is easy, just do X" (it isn't easy for them)
+- ❌ Taking the keyboard and fixing it yourself
+- ❌ Sarcasm in code reviews
+- ❌ Only giving feedback when something goes wrong
+- ❌ Answering in jargon without checking they understand
 
 ## Questions to ask juniors regularly
 

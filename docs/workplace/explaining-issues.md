@@ -110,8 +110,8 @@ Use **one analogy + one number + one action**.
 
 ## Mistakes when explaining issues
 
-- :x: "It's broken" (what is? for whom? since when?)
-- :x: Mixing guesses with facts. Say "We **know**…" and "We **suspect**…"
-- :x: Going silent during an incident. Silence feels worse than bad news.
-- :x: Blaming a person or team in public
-- :x: Too much detail for the audience (see [altitude rule](../foundations/communication-principles.md#2-know-your-audience-the-altitude-rule))
+- ❌ "It's broken" (what is? for whom? since when?)
+- ❌ Mixing guesses with facts. Say "We **know**…" and "We **suspect**…"
+- ❌ Going silent during an incident. Silence feels worse than bad news.
+- ❌ Blaming a person or team in public
+- ❌ Too much detail for the audience (see [altitude rule](../foundations/communication-principles.md#2-know-your-audience-the-altitude-rule))

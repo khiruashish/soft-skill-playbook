@@ -36,7 +36,7 @@ A simple note you update every Friday (5 minutes):
 
 Use **Action → Impact → Evidence** for every point:
 
-| :x: Weak | :white_check_mark: Strong |
+| ❌ Weak | ✅ Strong |
 |---|---|
 | "Worked on the checkout service." | "**Re-architected** checkout to use the outbox pattern, **cutting failed orders by 60%** (dashboard link)." |
 | "Helped juniors." | "**Mentored 3 engineers** with weekly sessions; **2 now independently own services**." |

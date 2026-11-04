@@ -25,7 +25,7 @@ Each layer depends on the one under it. Hover a layer to bring it forward.
 Developers often tell the story in order: *"So I was looking at the logs, and then I noticed..."*. Busy
 listeners stop paying attention before the point arrives.
 
-| :x: Story first | :white_check_mark: Point first |
+| ❌ Story first | ✅ Point first |
 |---|---|
 | "So yesterday I was debugging and I found the cache wasn't… and then I checked the config and…" | "**The release is blocked by a cache bug. I need 1 more day.** Here's what happened…" |
 

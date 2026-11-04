@@ -73,10 +73,10 @@ retros that people find useful rather than tiring.
 
     ## Mistakes to avoid
 
-    - :x: Showing up to the 1:1 with nothing to discuss
-    - :x: Bringing problems without any proposed solution
-    - :x: Agreeing in the meeting and complaining after it
-    - :x: Using the 1:1 only for status (that's what stand-up is for)
+    - ❌ Showing up to the 1:1 with nothing to discuss
+    - ❌ Bringing problems without any proposed solution
+    - ❌ Agreeing in the meeting and complaining after it
+    - ❌ Using the 1:1 only for status (that's what stand-up is for)
 
 === ":material-account-group: Running meetings as a team lead"
 

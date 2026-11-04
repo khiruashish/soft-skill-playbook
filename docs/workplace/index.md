@@ -71,14 +71,6 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](difficult-conversations.md)
 
--   :material-account-search:{ .lg .middle } __Interviews__
-
-    ---
-
-    Introduce yourself, STAR answers, questions to ask.
-
-    [:octicons-arrow-right-24: Open](interviews.md)
-
 -   :material-party-popper:{ .lg .middle } __Office Party__
 
     ---
@@ -95,22 +87,6 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](client-meeting.md)
 
--   :material-cash-multiple:{ .lg .middle } __Salary Negotiation__
-
-    ---
-
-    Know your numbers, counter offers, ask for a raise.
-
-    [:octicons-arrow-right-24: Open](salary-negotiation.md)
-
--   :material-chart-line:{ .lg .middle } __Performance Review__
-
-    ---
-
-    Wins file, self-assessment, the review meeting, disagreeing with a rating.
-
-    [:octicons-arrow-right-24: Open](performance-review.md)
-
 -   :material-account-supervisor-circle:{ .lg .middle } __Team Lead Meetings__
 
     ---
@@ -118,5 +94,29 @@ and notes for **beginners** and **experienced** engineers.
     Meeting your lead, or running 1:1s, stand-ups, planning and retros as one.
 
     [:octicons-arrow-right-24: Open](team-lead-meetings.md)
+
+-   :material-earth:{ .lg .middle } __Global & Remote Teams__
+
+    ---
+
+    Time zones, async writing, cultural styles, being understood.
+
+    [:octicons-arrow-right-24: Open](global-and-remote-teams.md)
+
+-   :material-beach:{ .lg .middle } __Leave & Boundaries__
+
+    ---
+
+    Ask for leave, hand over, say no to after-hours work.
+
+    [:octicons-arrow-right-24: Open](leave-and-boundaries.md)
+
+-   :material-briefcase-variant:{ .lg .middle } __Career Moments__
+
+    ---
+
+    Interviews, reviews, appraisals, salary, resignation: now in their own section.
+
+    [:octicons-arrow-right-24: Open](../career/index.md)
 
 </div>

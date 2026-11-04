@@ -117,7 +117,7 @@ you have to speak up.
 
     Write a strong self-review, handle the review meeting, and plan for the next level.
 
-    [:octicons-arrow-right-24: Open](workplace/performance-review.md)
+    [:octicons-arrow-right-24: Open](career/performance-review.md)
 
 -   :material-account-supervisor-circle:{ .lg .middle } __Team lead meetings__
 
@@ -141,7 +141,7 @@ you have to speak up.
 
     Market research, scripts for offers and raises, negotiating the whole package.
 
-    [:octicons-arrow-right-24: Open](workplace/salary-negotiation.md)
+    [:octicons-arrow-right-24: Open](career/salary-negotiation.md)
 
 -   :material-party-popper:{ .lg .middle } __Office party__
 
@@ -150,6 +150,30 @@ you have to speak up.
     Talking to people outside your team and to leaders, giving toasts, party etiquette.
 
     [:octicons-arrow-right-24: Open](workplace/office-party.md)
+
+-   :material-trending-up:{ .lg .middle } __Appraisal discussion__
+
+    ---
+
+    Read your hike letter properly, respond to a low hike, and escalate the right way.
+
+    [:octicons-arrow-right-24: Open](career/appraisal-discussion.md)
+
+-   :material-exit-run:{ .lg .middle } __Resignation__
+
+    ---
+
+    Tell your manager, write the email, handle a counter-offer, and leave well.
+
+    [:octicons-arrow-right-24: Open](career/resignation.md)
+
+-   :material-earth:{ .lg .middle } __Global & remote teams__
+
+    ---
+
+    Time zones, async writing, and communicating across cultures.
+
+    [:octicons-arrow-right-24: Open](workplace/global-and-remote-teams.md)
 
 -   :material-airplane:{ .lg .middle } __Airport__
 

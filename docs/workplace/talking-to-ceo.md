@@ -113,11 +113,11 @@ answer, translate tech into business, and make the decision easy for them.
 
 ## Mistakes to avoid
 
-- :x: Starting with background ("So, in 2023 we chose MongoDB because…")
-- :x: Jargon without translation
-- :x: Showing 30 slides when 3 will do
-- :x: Surprising your manager by going over their head
-- :x: Getting defensive when interrupted. Interruptions are normal. Answer and move on.
+- ❌ Starting with background ("So, in 2023 we chose MongoDB because…")
+- ❌ Jargon without translation
+- ❌ Showing 30 slides when 3 will do
+- ❌ Surprising your manager by going over their head
+- ❌ Getting defensive when interrupted. Interruptions are normal. Answer and move on.
 
 ## For experienced engineers
 

@@ -145,7 +145,7 @@ Ashish
 
 ## Client etiquette
 
-| :white_check_mark: Do | :x: Don't |
+| ✅ Do | ❌ Don't |
 |---|---|
 | Join 2–3 minutes early, camera on | Argue with your own team in front of the client |
 | Use the client's terms ("orders", not "OrderAggregate") | Criticise the client's existing systems or vendors |

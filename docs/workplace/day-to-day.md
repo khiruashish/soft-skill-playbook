@@ -17,9 +17,9 @@ description.** These habits build your reputation faster than one big presentati
 
     **Rules:** 30–60 seconds. Outcomes, not activities. Take blockers offline.
 
-=== ":x: Weak vs :white_check_mark: strong"
+=== "❌ Weak vs ✅ strong"
 
-    | :x: Weak | :white_check_mark: Strong |
+    | ❌ Weak | ✅ Strong |
     |---|---|
     | "Yesterday I was working on the bug, still working on it." | "The login bug is narrowed to the token refresh. Fix by noon today." |
     | "No blockers." (when you're stuck) | "I'm stuck on the PDF library. 10 minutes with anyone who's used it?" |
@@ -35,7 +35,7 @@ description.** These habits build your reputation faster than one big presentati
 4. **Say how urgent it is:** "FYI", "When you get a chance", or "Urgent: blocking the release".
 5. **Close the loop:** "Resolved, thanks!" so nobody else spends time on it.
 
-| :x: Instead of | :white_check_mark: Write |
+| ❌ Instead of | ✅ Write |
 |---|---|
 | "Hi" … (waits 10 min) … "are you there?" | "Hi Ravi, quick one: is the `orders` topic partitioned by customerId or orderId? Writing a consumer and want to keep ordering." |
 | "The build is broken" | "Main build failing since 11:20 on `InventoryIT`, looks like a Testcontainers timeout. Looking into it; will update here." |

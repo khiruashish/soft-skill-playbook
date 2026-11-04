@@ -84,7 +84,7 @@ you said about Kafka. Turn up, mix with people, be warm, and leave on a good not
 
 ## Etiquette: do's and don'ts
 
-| :white_check_mark: Do | :x: Don't |
+| ✅ Do | ❌ Don't |
 |---|---|
 | Dress one step smarter than the dress code | Drink too much; know your limit (or stick to mocktails) |
 | Put your phone away | Talk about work problems, salaries or appraisals |

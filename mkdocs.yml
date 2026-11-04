@@ -85,12 +85,19 @@ nav:
       - Day-to-Day Communication: workplace/day-to-day.md
       - Meetings & Presentations: workplace/meetings-and-presentations.md
       - Difficult Conversations: workplace/difficult-conversations.md
-      - Interviews: workplace/interviews.md
-      - Performance Review: workplace/performance-review.md
       - Team Lead Meetings: workplace/team-lead-meetings.md
-      - Salary Negotiation: workplace/salary-negotiation.md
+      - Global & Remote Teams: workplace/global-and-remote-teams.md
+      - Leave & Boundaries: workplace/leave-and-boundaries.md
       - Client Meetings: workplace/client-meeting.md
       - Office Party & Team Events: workplace/office-party.md
+  - Career:
+      - career/index.md
+      - Interviews: career/interviews.md
+      - First 90 Days: career/first-90-days.md
+      - Performance Review: career/performance-review.md
+      - Appraisal Discussion: career/appraisal-discussion.md
+      - Salary Negotiation: career/salary-negotiation.md
+      - Resignation: career/resignation.md
   - Everyday Life:
       - everyday/index.md
       - Airport: everyday/airport.md

@@ -140,7 +140,7 @@ Write down 3–5 achievements **with numbers**:
 
 ## Phrases that help and phrases that hurt
 
-| :x: Avoid | :white_check_mark: Use instead |
+| ❌ Avoid | ✅ Use instead |
 |---|---|
 | "I need more money because my rent went up." | "Based on my impact and market data…" |
 | "Whatever you think is fair." | "I'm looking for around ₹58 lakh." |

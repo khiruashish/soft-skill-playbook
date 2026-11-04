@@ -107,11 +107,11 @@ them those three things and they'll trust you.
 
 ## Mistakes to avoid
 
-- :x: Hiding bad news until the deadline
-- :x: "It's almost done" for 3 weeks running (give percentages or remaining tasks instead)
-- :x: Complaining about teammates without a suggestion
-- :x: Treating every 1:1 as a status report
-- :x: Waiting for your manager to bring up your career
+- ❌ Hiding bad news until the deadline
+- ❌ "It's almost done" for 3 weeks running (give percentages or remaining tasks instead)
+- ❌ Complaining about teammates without a suggestion
+- ❌ Treating every 1:1 as a status report
+- ❌ Waiting for your manager to bring up your career
 
 ## Beginner vs experienced
 
