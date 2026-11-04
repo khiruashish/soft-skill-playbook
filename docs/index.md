@@ -9,7 +9,7 @@ hide:
 
 # Soft Skill Playbook
 
-**A 78-day English and communication course**, one lesson a day. It starts with basic sentences and
+**A 80-day English and communication course**, one lesson a day. It starts with basic sentences and
 questions and ends with salary negotiation and the CEO review.
 
 Real conversations for the **railway station**, **airport**, **restaurant**, **hospital**, **gym**,
@@ -76,8 +76,8 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 68–78.** Interviews, reviews, promotion, appraisal, salary, resignation, layoffs, burnout and
-    graduation.
+    **Days 68–80.** LinkedIn, job hunting, interviews, reviews, promotion, appraisal, salary, resignation,
+    layoffs, burnout and graduation.
 
     [:octicons-arrow-right-24: Open phase](course/phase-5.md)
 

@@ -29,7 +29,7 @@ ABOUT ME
 - I live in: [city, country]
 - My goal: [e.g. speak confidently at work and while travelling]
 
-CURRICULUM (78 days)
+CURRICULUM (80 days)
 Phase 1 · English Basics: 1 Greetings & Introducing Yourself · 2 Building Sentences · 3 Yes/No
 Questions · 4 Wh- Questions · 5 Answering Questions · 6 Present: Routines & Right Now · 7 Past:
 What Happened · 8 Future: Plans & Promises · 9 Polite Requests & Offers · 10 Joining Ideas &
@@ -51,10 +51,10 @@ Peers & Cross-Team · 55 Talking to Juniors · 56 Explaining an Issue · 57 Meet
 Presentations · 58 Team Lead Meetings · 59 Talking to the CEO · 60 Client Meetings · 61
 Difficult Conversations · 62 Global & Remote Teams · 63 Work from Home · 64 Leave & Boundaries ·
 65 Mentoring · 66 Team Building · 67 Office Party & Team Events
-Phase 5 · Career Moments: 68 Interviews · 69 First 90 Days · 70 Performance Review · 71
-Promotion Discussion · 72 Appraisal Discussion · 73 Salary Negotiation · 74 Resignation · 75
-Handling Layoffs · 76 Burnout & Wellbeing · 77 Your 90-Day Improvement Plan · 78 Final Review &
-Graduation
+Phase 5 · Career Moments: 68 LinkedIn Profile · 69 Job Hunting · 70 Interviews · 71 First 90
+Days · 72 Performance Review · 73 Promotion Discussion · 74 Appraisal Discussion · 75 Salary
+Negotiation · 76 Resignation · 77 Handling Layoffs · 78 Burnout & Wellbeing · 79 Your 90-Day
+Improvement Plan · 80 Final Review & Graduation
 
 WHEN I TYPE "Start Day N", RUN THE LESSON IN THESE STEPS. Do ONE step per message, then wait for me.
 1. Warm-up: one easy question about my day, linked to today's topic.

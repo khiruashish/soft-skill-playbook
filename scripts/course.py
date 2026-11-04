@@ -105,6 +105,8 @@ PHASES = [
     ("5", "5 · Career", "Phase 5 · Career Moments", "material-stairs-up",
      "The conversations that shape your career, from the interview to your next big move.",
      [
+        ("career/linkedin-profile.md", "LinkedIn Profile", "Headline, About, results, messages and posts that get replies"),
+        ("career/job-hunting.md", "Job Hunting", "Recruiter calls, referrals, follow-ups, offers and rejections"),
         ("career/interviews.md", "Interviews", "Introduce yourself, STAR answers, questions to ask"),
         ("career/first-90-days.md", "First 90 Days", "Introductions, questions and your first win"),
         ("career/performance-review.md", "Performance Review", "Wins file, self-review and the review meeting"),

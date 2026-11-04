@@ -29,7 +29,7 @@ mkdocs serve        # http://127.0.0.1:8000
 mkdocs build --strict   # output in ./site
 ```
 
-## What's inside: a 78-day course
+## What's inside: a 80-day course
 
 | Phase | Days | Topics |
 |---|---|---|
@@ -38,7 +38,7 @@ mkdocs build --strict   # output in ./site
 | 2 · Communication | 14–18 | Principles, listening, confidence, small talk, phone calls |
 | 3 · Everyday Life | 19–51 | Train, metro & bus, travel visa, airport, flight, cab, hotel, sightseeing, restaurant, food delivery, grocery, shopping, bank, bank locker, insurance, post, hospital, doctor, dentist & eye, gym, yoga, sports, renting, neighbours, home services, salon, customer care, government office, police, school, celebrations, movies, vehicle |
 | 4 · Workplace | 52–67 | Day-to-day, manager, peers, juniors, issues, meetings, team lead, CEO, clients, difficult conversations, remote teams, WFH, leave, mentoring, team building, office party |
-| 5 · Career | 68–78 | Interviews, first 90 days, review, promotion, appraisal, salary, resignation, layoffs, burnout, improvement plan, graduation |
+| 5 · Career | 68–80 | LinkedIn profile, job hunting, interviews, first 90 days, review, promotion, appraisal, salary, resignation, layoffs, burnout, improvement plan, graduation |
 
 Every lesson has key language, a pattern, real conversations, practice with answers, a "speak today"
 task, and an AI role-play prompt. Learners can tick days as done (stored in their browser).
