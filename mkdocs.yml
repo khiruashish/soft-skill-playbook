@@ -1,0 +1,103 @@
+site_name: Soft Skill Playbook
+site_description: A practical communication & confidence playbook for software developers — from first job to 15+ years.
+site_author: Ashish
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/account-voice
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+extra_css:
+  - assets/css/3d.css
+extra_javascript:
+  - assets/js/tilt.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Master Prompt: master-prompt.md
+  - Foundations:
+      - foundations/index.md
+      - Communication Principles: foundations/communication-principles.md
+      - Listening & Asking Questions: foundations/listening-and-questions.md
+      - Building Confidence: foundations/building-confidence.md
+      - Improving Soft Skills (90-Day Plan): foundations/improving-soft-skills.md
+  - Workplace:
+      - workplace/index.md
+      - Talking to Your Manager: workplace/talking-to-manager.md
+      - Talking to Juniors: workplace/talking-to-juniors.md
+      - Talking to the CEO & Executives: workplace/talking-to-ceo.md
+      - Peers & Cross-Team: workplace/peers-and-cross-team.md
+      - Explaining an Issue: workplace/explaining-issues.md
+      - Day-to-Day Communication: workplace/day-to-day.md
+      - Meetings & Presentations: workplace/meetings-and-presentations.md
+      - Difficult Conversations: workplace/difficult-conversations.md
+      - Interviews: workplace/interviews.md
+  - Everyday Life:
+      - everyday/index.md
+      - Airport: everyday/airport.md
+      - Train: everyday/train.md
+      - Hotel: everyday/hotel.md
+      - Restaurant & Café: everyday/restaurant.md
+      - Cab & Directions: everyday/cab-and-directions.md
+      - Doctor & Pharmacy: everyday/doctor-and-pharmacy.md
+      - Bank & Shopping: everyday/bank-and-shopping.md
+      - Phone Calls: everyday/phone-calls.md
+      - Small Talk & Networking: everyday/small-talk-networking.md
+  - Reference:
+      - reference/index.md
+      - Phrase Bank: reference/phrase-bank.md
+      - Daily Practice Checklist: reference/daily-practice-checklist.md
