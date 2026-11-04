@@ -79,4 +79,28 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](interviews.md)
 
+-   :material-party-popper:{ .lg .middle } __Office Party__
+
+    ---
+
+    Mingle, talk to leaders, toasts, etiquette.
+
+    [:octicons-arrow-right-24: Open](office-party.md)
+
+-   :material-briefcase-account:{ .lg .middle } __Client Meetings__
+
+    ---
+
+    Prepare, discover, handle delays & scope creep, follow up.
+
+    [:octicons-arrow-right-24: Open](client-meeting.md)
+
+-   :material-cash-multiple:{ .lg .middle } __Salary Negotiation__
+
+    ---
+
+    Know your numbers, counter offers, ask for a raise.
+
+    [:octicons-arrow-right-24: Open](salary-negotiation.md)
+
 </div>

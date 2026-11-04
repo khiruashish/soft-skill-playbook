@@ -111,6 +111,30 @@ you have to speak up.
 
     [:octicons-arrow-right-24: Open](workplace/day-to-day.md)
 
+-   :material-briefcase-account:{ .lg .middle } __Client meetings__
+
+    ---
+
+    Run the meeting, report delays, handle scope creep, send minutes.
+
+    [:octicons-arrow-right-24: Open](workplace/client-meeting.md)
+
+-   :material-cash-multiple:{ .lg .middle } __Salary negotiation__
+
+    ---
+
+    Market research, scripts for offers and raises, negotiating the whole package.
+
+    [:octicons-arrow-right-24: Open](workplace/salary-negotiation.md)
+
+-   :material-party-popper:{ .lg .middle } __Office party__
+
+    ---
+
+    Talking to people outside your team and to leaders, giving toasts, party etiquette.
+
+    [:octicons-arrow-right-24: Open](workplace/office-party.md)
+
 -   :material-airplane:{ .lg .middle } __Airport__
 
     ---
