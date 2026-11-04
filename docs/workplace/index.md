@@ -103,6 +103,14 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](global-and-remote-teams.md)
 
+-   :material-account-heart:{ .lg .middle } __Team Building__
+
+    ---
+
+    Trust, psychological safety, team rituals, activities, team problems.
+
+    [:octicons-arrow-right-24: Open](team-building.md)
+
 -   :material-home-account:{ .lg .middle } __Work from Home__
 
     ---

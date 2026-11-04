@@ -63,4 +63,12 @@ review, the appraisal, the salary talk, and the day you resign. Prepare for each
 
     [:octicons-arrow-right-24: Open](resignation.md)
 
+-   :material-lifebuoy:{ .lg .middle } __Handling Layoffs__
+
+    ---
+
+    Questions to ask HR, telling family, interviews after a layoff, delivering the news as a lead.
+
+    [:octicons-arrow-right-24: Open](handling-layoffs.md)
+
 </div>

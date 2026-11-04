@@ -191,6 +191,22 @@ you have to speak up.
 
     [:octicons-arrow-right-24: Open](workplace/global-and-remote-teams.md)
 
+-   :material-account-heart:{ .lg .middle } __Team building__
+
+    ---
+
+    Build trust and psychological safety, with rituals and activities that people actually enjoy.
+
+    [:octicons-arrow-right-24: Open](workplace/team-building.md)
+
+-   :material-lifebuoy:{ .lg .middle } __Handling layoffs__
+
+    ---
+
+    What to ask and say if you're laid off, if you stay, or if you have to deliver the news.
+
+    [:octicons-arrow-right-24: Open](career/handling-layoffs.md)
+
 -   :material-airplane:{ .lg .middle } __Airport__
 
     ---
