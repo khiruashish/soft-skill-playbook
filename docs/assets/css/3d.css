@@ -175,3 +175,195 @@
   .md-typeset .grid.cards > ul > li,
   .md-typeset .admonition, .md-typeset details { transition: none; }
 }
+
+/* =====================================================================
+   SITE-WIDE 3D LAYER — applies to every page automatically
+   ===================================================================== */
+
+/* ---------- 3D perspective floor behind every page ---------- */
+body::before {
+  content: "";
+  position: fixed;
+  left: -50%; right: -50%; bottom: -10vh;
+  height: 70vh;
+  background-image:
+    linear-gradient(rgba(126, 87, 194, .16) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(126, 87, 194, .16) 1px, transparent 1px);
+  background-size: 56px 56px;
+  transform: perspective(500px) rotateX(62deg);
+  transform-origin: bottom center;
+  -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,.9), transparent 85%);
+          mask-image: linear-gradient(to top, rgba(0,0,0,.9), transparent 85%);
+  pointer-events: none;
+  z-index: 0;
+}
+.md-container { position: relative; z-index: 1; }
+
+/* ---------- Header & tabs with depth ---------- */
+.md-header {
+  background: linear-gradient(120deg, #4527a0, #6a1b9a 60%, #8e24aa);
+  box-shadow: 0 4px 10px rgba(20,10,50,.25), 0 12px 30px rgba(20,10,50,.18);
+}
+.md-tabs { background: linear-gradient(120deg, #4527a0, #6a1b9a 60%, #8e24aa); }
+.md-tabs__link { transition: transform .2s ease, text-shadow .2s ease; }
+.md-tabs__link:hover,
+.md-tabs__item--active .md-tabs__link {
+  transform: translateY(-2px);
+  text-shadow: 0 3px 6px rgba(0,0,0,.35);
+}
+
+/* ---------- Main content as a raised 3D panel ---------- */
+.md-main__inner { perspective: 1600px; }
+.md-content {
+  background: var(--md-default-bg-color);
+  border-radius: 1.2rem;
+  box-shadow: var(--ssp-depth-3);
+  margin: 1.2rem .8rem 2rem;
+  transform-origin: top center;
+}
+.md-content__inner { padding-top: .4rem; }
+@media screen and (min-width: 76.25em) {
+  .md-content { animation: ssp-panel-in .7s cubic-bezier(.2,.8,.2,1) both; }
+}
+@keyframes ssp-panel-in {
+  from { opacity: 0; transform: rotateX(8deg) translateY(24px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ---------- 3D headings ---------- */
+.md-typeset h1 {
+  font-weight: 800;
+  color: #4527a0;
+  text-shadow:
+    1px 1px 0 #d1c4e9, 2px 2px 0 #b39ddb, 3px 3px 0 #9575cd,
+    4px 6px 10px rgba(69, 39, 160, .25);
+  letter-spacing: -.01em;
+}
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #d1c4e9;
+  text-shadow:
+    1px 1px 0 #5e35b1, 2px 2px 0 #4527a0, 3px 3px 0 #311b92,
+    4px 6px 12px rgba(0, 0, 0, .6);
+}
+.md-typeset h2 {
+  position: relative;
+  padding: .45rem .9rem .45rem 1.1rem;
+  border-radius: .7rem;
+  background: linear-gradient(90deg, rgba(126,87,194,.14), rgba(255,143,0,.04) 70%, transparent);
+  box-shadow: var(--ssp-depth-1);
+  transform: perspective(800px) rotateX(4deg);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.md-typeset h2::before {
+  content: "";
+  position: absolute; left: 0; top: 15%; bottom: 15%;
+  width: 5px; border-radius: 4px;
+  background: var(--ssp-grad);
+}
+.md-typeset h2:hover { transform: perspective(800px) rotateX(0) translateZ(8px); box-shadow: var(--ssp-depth-2); }
+.md-typeset h3 {
+  display: inline-block;
+  border-bottom: 3px solid transparent;
+  border-image: var(--ssp-grad) 1;
+  padding-bottom: .1rem;
+}
+
+/* ---------- Mini cube in every page banner ---------- */
+.ssp-banner { position: relative; padding-right: 5.4rem; overflow: hidden; }
+.ssp-banner::after {
+  content: "";
+  position: absolute; right: 1.6rem; top: 50%;
+  width: 2.4rem; height: 2.4rem;
+  margin-top: -1.2rem;
+  border: 2px solid rgba(255,255,255,.75);
+  border-radius: .35rem;
+  background: rgba(255,255,255,.12);
+  box-shadow: .5rem -.5rem 0 -2px rgba(255,255,255,.35), 1rem -1rem 0 -4px rgba(255,255,255,.18);
+  animation: ssp-mini-spin 7s infinite linear;
+}
+@keyframes ssp-mini-spin {
+  from { transform: perspective(300px) rotateX(25deg) rotateY(0); }
+  to   { transform: perspective(300px) rotateX(25deg) rotateY(360deg); }
+}
+
+/* ---------- Code blocks, script blocks & tabs: depth + lift ---------- */
+.md-typeset pre {
+  border-radius: .8rem;
+  box-shadow: var(--ssp-depth-2);
+  transition: transform .25s ease;
+}
+.md-typeset pre:hover { transform: perspective(900px) rotateX(2deg) translateY(-2px); }
+.md-typeset pre > code { border-radius: .8rem; }
+.ssp-say { transition: transform .25s ease, box-shadow .25s ease; }
+.ssp-say:hover { transform: perspective(800px) rotateY(-2deg) translateX(4px); box-shadow: var(--ssp-depth-2); }
+.md-typeset .tabbed-labels > label { transition: transform .2s ease; }
+.md-typeset .tabbed-labels > label:hover { transform: translateY(-2px); }
+
+/* ---------- Task lists & ordinary lists ---------- */
+.md-typeset .task-list-item { transition: transform .2s ease; }
+.md-typeset .task-list-item:hover { transform: translateX(4px); }
+
+/* ---------- Sidebars: layered navigation ---------- */
+.md-nav__link { transition: transform .2s ease, color .2s ease; }
+.md-sidebar--primary .md-nav__item .md-nav__link:hover { transform: translateX(4px); }
+.md-sidebar--primary .md-nav__link--active {
+  font-weight: 700;
+  padding: .15rem .5rem;
+  margin-left: -.5rem;
+  border-radius: .5rem;
+  background: rgba(126,87,194,.12);
+  box-shadow: var(--ssp-depth-1);
+}
+
+/* ---------- Footer prev/next as 3D buttons ---------- */
+.md-footer__link {
+  border-radius: .8rem;
+  margin: .4rem;
+  transition: transform .25s ease, background .25s ease, box-shadow .25s ease;
+}
+.md-footer__link:hover {
+  background: rgba(255,255,255,.08);
+  box-shadow: 0 10px 24px rgba(0,0,0,.35);
+  transform: perspective(600px) translateZ(14px) rotateX(4deg);
+  opacity: 1;
+}
+
+/* ---------- Scroll reveal (only when JS is active) ---------- */
+.ssp-js .ssp-reveal {
+  opacity: 0;
+  transform: perspective(900px) rotateX(14deg) translateY(28px);
+  transition: opacity .6s ease, transform .6s cubic-bezier(.2,.8,.2,1);
+}
+.ssp-js .ssp-reveal.ssp-in { opacity: 1; transform: none; }
+
+/* ---------- Banner parallax (set by JS) ---------- */
+.ssp-banner, .ssp-hero { transition: transform .3s ease; }
+
+/* ---------- Mobile + reduced motion overrides for the site-wide layer ---------- */
+@media screen and (max-width: 60em) {
+  .md-content { margin: .6rem 0 1.2rem; border-radius: .8rem; box-shadow: var(--ssp-depth-2); }
+  .md-typeset h2 { transform: none; }
+  .ssp-banner { padding-right: 4.2rem; }
+  .ssp-banner::after { right: 1rem; width: 1.8rem; height: 1.8rem; margin-top: -.9rem; }
+  body::before { display: none; }
+}
+@media print {
+  body::before, .ssp-banner::after { display: none; }
+  .md-content { box-shadow: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .md-content, .ssp-banner::after { animation: none !important; }
+  .ssp-js .ssp-reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+  .md-typeset h2, .md-typeset pre, .ssp-say, .md-footer__link,
+  .md-typeset h2:hover, .md-typeset pre:hover, .ssp-say:hover, .md-footer__link:hover { transform: none !important; }
+}
+
+/* ---------- Containment: 3D projections must never cause sideways scroll ---------- */
+.md-main, .md-content { overflow-x: clip; }
+.md-typeset h2 { padding-right: 2rem; }
+.md-typeset h2 .headerlink { position: absolute; right: .6rem; top: 50%; transform: translateY(-50%); margin: 0; }
+.md-typeset .ssp-hero h1,
+[data-md-color-scheme="slate"] .md-typeset .ssp-hero h1 {
+  color: #fff;
+  text-shadow: 1px 1px 0 #b39ddb, 2px 2px 0 #7e57c2, 3px 3px 0 #4527a0, 4px 8px 14px rgba(0,0,0,.35);
+}
