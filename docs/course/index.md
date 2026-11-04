@@ -1,7 +1,7 @@
 # Course Roadmap
 
 <div class="ssp-banner" markdown>
-**84 days, five phases, about 20–30 minutes a day.** Do one lesson a day, in order. Each
+**94 days, five phases, about 20–30 minutes a day.** Do one lesson a day, in order. Each
 lesson has a goal, the key language, a real conversation, and a practice task. Tick off each day
 as you finish it; your browser remembers your progress.
 </div>
@@ -30,7 +30,7 @@ as you finish it; your browser remembers your progress.
 
     ---
 
-    **Days 1–13.** Build sentences, ask and answer any question, and use the tenses and polite forms you need every day.
+    **Days 1–15.** Build sentences, ask and answer any question, and use the tenses and polite forms you need every day.
 
     [:octicons-arrow-right-24: Open phase](phase-1.md)
 
@@ -38,7 +38,7 @@ as you finish it; your browser remembers your progress.
 
     ---
 
-    **Days 14–20.** The principles behind every good conversation, and the confidence to start one.
+    **Days 16–24.** The principles behind every good conversation, and the confidence to start one.
 
     [:octicons-arrow-right-24: Open phase](phase-2.md)
 
@@ -46,7 +46,7 @@ as you finish it; your browser remembers your progress.
 
     ---
 
-    **Days 21–53.** Real conversations for travel, food, shopping, health, fitness, home, offices and social life.
+    **Days 25–58.** Real conversations for travel, food, shopping, health, fitness, home, offices and social life.
 
     [:octicons-arrow-right-24: Open phase](phase-3.md)
 
@@ -54,7 +54,7 @@ as you finish it; your browser remembers your progress.
 
     ---
 
-    **Days 54–69.** Stand-ups, managers, juniors, CEOs, clients and every hard conversation in between.
+    **Days 59–78.** Stand-ups, managers, juniors, CEOs, clients and every hard conversation in between.
 
     [:octicons-arrow-right-24: Open phase](phase-4.md)
 
@@ -62,7 +62,7 @@ as you finish it; your browser remembers your progress.
 
     ---
 
-    **Days 70–84.** The conversations that shape your career, from the interview to your next big move.
+    **Days 79–94.** The conversations that shape your career, from the interview to your next big move.
 
     [:octicons-arrow-right-24: Open phase](phase-5.md)
 
@@ -86,95 +86,105 @@ as you finish it; your browser remembers your progress.
 | **10** | [Joining Ideas & Opinions](../english/10-joining-ideas.md) | And, but, because, so, if, when; agree, disagree, give opinions | <input type="checkbox" class="ssp-done" data-day="english/10-joining-ideas" aria-label="Day 10 done"> |
 | **11** | [Numbers, Time, Dates & Money](../english/11-numbers-time-money.md) | Prices, phone numbers, times, dates and spelling out loud | <input type="checkbox" class="ssp-done" data-day="english/11-numbers-time-money" aria-label="Day 11 done"> |
 | **12** | [Describing People, Places & Problems](../english/12-describing.md) | Adjectives, comparisons, and describing what's wrong | <input type="checkbox" class="ssp-done" data-day="english/12-describing" aria-label="Day 12 done"> |
-| **13** | [Common Mistakes & Fixes](../english/13-common-mistakes.md) | Articles, prepositions, tenses and Indian-English habits | <input type="checkbox" class="ssp-done" data-day="english/13-common-mistakes" aria-label="Day 13 done"> |
+| **13** | [Phrasal Verbs & Idioms](../english/phrasal-verbs-and-idioms.md) | Follow up, sort out, on the same page: words you hear every day | <input type="checkbox" class="ssp-done" data-day="english/phrasal-verbs-and-idioms" aria-label="Day 13 done"> |
+| **14** | [Pronunciation & Accent](../english/pronunciation.md) | Word stress, tricky sounds and being clearly understood | <input type="checkbox" class="ssp-done" data-day="english/pronunciation" aria-label="Day 14 done"> |
+| **15** | [Common Mistakes & Fixes](../english/13-common-mistakes.md) | Articles, prepositions, tenses and Indian-English habits | <input type="checkbox" class="ssp-done" data-day="english/13-common-mistakes" aria-label="Day 15 done"> |
 
 ### Phase 2 · Communication & Confidence
 
 | Day | Lesson | What you'll learn | Done |
 |---|---|---|---|
-| **14** | [Communication Principles](../foundations/communication-principles.md) | Point first, know your audience, PREP, SBAR, STAR | <input type="checkbox" class="ssp-done" data-day="foundations/communication-principles" aria-label="Day 14 done"> |
-| **15** | [Listening & Asking Questions](../foundations/listening-and-questions.md) | Active listening and the question types that unblock anything | <input type="checkbox" class="ssp-done" data-day="foundations/listening-and-questions" aria-label="Day 15 done"> |
-| **16** | [Building Confidence](../foundations/building-confidence.md) | Habits, body language and voice that make you sound sure | <input type="checkbox" class="ssp-done" data-day="foundations/building-confidence" aria-label="Day 16 done"> |
-| **17** | [Public Speaking](../foundations/public-speaking.md) | Structure a talk, steady your voice and handle questions | <input type="checkbox" class="ssp-done" data-day="foundations/public-speaking" aria-label="Day 17 done"> |
-| **18** | [Small Talk & Networking](../everyday/small-talk-networking.md) | Start, continue and politely end any conversation | <input type="checkbox" class="ssp-done" data-day="everyday/small-talk-networking" aria-label="Day 18 done"> |
-| **19** | [Phone Calls](../everyday/phone-calls.md) | Prepare, open, confirm and close a call with confidence | <input type="checkbox" class="ssp-done" data-day="everyday/phone-calls" aria-label="Day 19 done"> |
-| **20** | [Negotiation Skills](../foundations/negotiation-skills.md) | Prepare, trade, hold firm and close a fair deal | <input type="checkbox" class="ssp-done" data-day="foundations/negotiation-skills" aria-label="Day 20 done"> |
+| **16** | [Communication Principles](../foundations/communication-principles.md) | Point first, know your audience, PREP, SBAR, STAR | <input type="checkbox" class="ssp-done" data-day="foundations/communication-principles" aria-label="Day 16 done"> |
+| **17** | [Listening & Asking Questions](../foundations/listening-and-questions.md) | Active listening and the question types that unblock anything | <input type="checkbox" class="ssp-done" data-day="foundations/listening-and-questions" aria-label="Day 17 done"> |
+| **18** | [Giving & Receiving Feedback](../foundations/feedback.md) | Specific, kind feedback with SBI, and receiving it calmly | <input type="checkbox" class="ssp-done" data-day="foundations/feedback" aria-label="Day 18 done"> |
+| **19** | [Building Confidence](../foundations/building-confidence.md) | Habits, body language and voice that make you sound sure | <input type="checkbox" class="ssp-done" data-day="foundations/building-confidence" aria-label="Day 19 done"> |
+| **20** | [Public Speaking](../foundations/public-speaking.md) | Structure a talk, steady your voice and handle questions | <input type="checkbox" class="ssp-done" data-day="foundations/public-speaking" aria-label="Day 20 done"> |
+| **21** | [Storytelling](../foundations/storytelling.md) | Turn facts into short stories people remember | <input type="checkbox" class="ssp-done" data-day="foundations/storytelling" aria-label="Day 21 done"> |
+| **22** | [Small Talk & Networking](../everyday/small-talk-networking.md) | Start, continue and politely end any conversation | <input type="checkbox" class="ssp-done" data-day="everyday/small-talk-networking" aria-label="Day 22 done"> |
+| **23** | [Phone Calls](../everyday/phone-calls.md) | Prepare, open, confirm and close a call with confidence | <input type="checkbox" class="ssp-done" data-day="everyday/phone-calls" aria-label="Day 23 done"> |
+| **24** | [Negotiation Skills](../foundations/negotiation-skills.md) | Prepare, trade, hold firm and close a fair deal | <input type="checkbox" class="ssp-done" data-day="foundations/negotiation-skills" aria-label="Day 24 done"> |
 
 ### Phase 3 · Everyday Conversations
 
 | Day | Lesson | What you'll learn | Done |
 |---|---|---|---|
-| **21** | [Train & Railway Station](../everyday/train.md) | Tickets, platforms, seats, the TTE, and missed trains | <input type="checkbox" class="ssp-done" data-day="everyday/train" aria-label="Day 21 done"> |
-| **22** | [Metro & Bus](../everyday/metro-and-bus.md) | Cards, routes, stops, changes and crowded rides | <input type="checkbox" class="ssp-done" data-day="everyday/metro-and-bus" aria-label="Day 22 done"> |
-| **23** | [Travel Visa](../everyday/travel-visa.md) | Visa types, documents, the visa centre and interview questions | <input type="checkbox" class="ssp-done" data-day="everyday/travel-visa" aria-label="Day 23 done"> |
-| **24** | [Airport](../everyday/airport.md) | Check-in, security, immigration, boarding and lost bags | <input type="checkbox" class="ssp-done" data-day="everyday/airport" aria-label="Day 24 done"> |
-| **25** | [On the Flight & Arrival](../everyday/flight.md) | Seats, cabin crew, connections, immigration and customs | <input type="checkbox" class="ssp-done" data-day="everyday/flight" aria-label="Day 25 done"> |
-| **26** | [Cab, Auto & Directions](../everyday/cab-and-directions.md) | Booking, talking to drivers, asking the way | <input type="checkbox" class="ssp-done" data-day="everyday/cab-and-directions" aria-label="Day 26 done"> |
-| **27** | [Hotel](../everyday/hotel.md) | Check-in, room problems, requests and check-out | <input type="checkbox" class="ssp-done" data-day="everyday/hotel" aria-label="Day 27 done"> |
-| **28** | [Sightseeing & Tourist Places](../everyday/sightseeing.md) | Tickets, guides, photos and asking about places | <input type="checkbox" class="ssp-done" data-day="everyday/sightseeing" aria-label="Day 28 done"> |
-| **29** | [Restaurant & Café](../everyday/restaurant.md) | Tables, ordering, dietary needs, complaints and the bill | <input type="checkbox" class="ssp-done" data-day="everyday/restaurant" aria-label="Day 29 done"> |
-| **30** | [Food Delivery & Takeaway](../everyday/food-delivery.md) | Ordering by phone, delivery issues and refunds | <input type="checkbox" class="ssp-done" data-day="everyday/food-delivery" aria-label="Day 30 done"> |
-| **31** | [Grocery & Vegetable Market](../everyday/grocery-shopping.md) | Supermarket, kirana, sabzi market, weights and prices | <input type="checkbox" class="ssp-done" data-day="everyday/grocery-shopping" aria-label="Day 31 done"> |
-| **32** | [Shopping & Returns](../everyday/shopping.md) | Clothes, electronics, trial rooms, bargaining and returns | <input type="checkbox" class="ssp-done" data-day="everyday/shopping" aria-label="Day 32 done"> |
-| **33** | [Bank & Money](../everyday/bank-and-shopping.md) | Accounts, cards, disputes, loans and transfers | <input type="checkbox" class="ssp-done" data-day="everyday/bank-and-shopping" aria-label="Day 33 done"> |
-| **34** | [Bank Locker](../everyday/bank-locker.md) | Applying, rent and rules, joint holders, lost keys | <input type="checkbox" class="ssp-done" data-day="everyday/bank-locker" aria-label="Day 34 done"> |
-| **35** | [Insurance](../everyday/insurance.md) | Health, life, motor and travel cover, claims and follow-ups | <input type="checkbox" class="ssp-done" data-day="everyday/insurance" aria-label="Day 35 done"> |
-| **36** | [Post Office & Courier](../everyday/post-and-courier.md) | Sending parcels, tracking and missing deliveries | <input type="checkbox" class="ssp-done" data-day="everyday/post-and-courier" aria-label="Day 36 done"> |
-| **37** | [Hospital](../everyday/hospital.md) | Registration, emergency, admission, visiting and billing | <input type="checkbox" class="ssp-done" data-day="everyday/hospital" aria-label="Day 37 done"> |
-| **38** | [Doctor & Pharmacy](../everyday/doctor-and-pharmacy.md) | Describing symptoms, questions to ask, medicines | <input type="checkbox" class="ssp-done" data-day="everyday/doctor-and-pharmacy" aria-label="Day 38 done"> |
-| **39** | [Dentist & Eye Clinic](../everyday/dentist-and-eye-clinic.md) | Toothache, cleaning, eye tests and glasses | <input type="checkbox" class="ssp-done" data-day="everyday/dentist-and-eye-clinic" aria-label="Day 39 done"> |
-| **40** | [Gym](../everyday/gym.md) | Joining, trainers, equipment, routines and gym etiquette | <input type="checkbox" class="ssp-done" data-day="everyday/gym" aria-label="Day 40 done"> |
-| **41** | [Yoga Class](../everyday/yoga.md) | Joining a class, following instructions, injuries and breathing | <input type="checkbox" class="ssp-done" data-day="everyday/yoga" aria-label="Day 41 done"> |
-| **42** | [Sports & Games](../everyday/sports.md) | Joining a game, booking courts, team talk and cricket chat | <input type="checkbox" class="ssp-done" data-day="everyday/sports" aria-label="Day 42 done"> |
-| **43** | [Renting a Home](../everyday/renting-a-home.md) | House hunting, the landlord, rent, deposit and agreements | <input type="checkbox" class="ssp-done" data-day="everyday/renting-a-home" aria-label="Day 43 done"> |
-| **44** | [Neighbours & Society](../everyday/neighbours-and-society.md) | Meeting neighbours, complaints, society meetings | <input type="checkbox" class="ssp-done" data-day="everyday/neighbours-and-society" aria-label="Day 44 done"> |
-| **45** | [Home Repairs & Services](../everyday/home-services.md) | Plumber, electrician, AC repair, house help | <input type="checkbox" class="ssp-done" data-day="everyday/home-services" aria-label="Day 45 done"> |
-| **46** | [Salon & Barber](../everyday/salon.md) | Haircut, beard, styles and salon services | <input type="checkbox" class="ssp-done" data-day="everyday/salon" aria-label="Day 46 done"> |
-| **47** | [Customer Care & Complaints](../everyday/customer-care.md) | Mobile, internet, app and service complaints | <input type="checkbox" class="ssp-done" data-day="everyday/customer-care" aria-label="Day 47 done"> |
-| **48** | [Government Office](../everyday/government-office.md) | Passport, ID cards, licences and forms | <input type="checkbox" class="ssp-done" data-day="everyday/government-office" aria-label="Day 48 done"> |
-| **49** | [Police & Emergencies](../everyday/police-and-emergency.md) | Reporting theft, accidents, emergencies and FIRs | <input type="checkbox" class="ssp-done" data-day="everyday/police-and-emergency" aria-label="Day 49 done"> |
-| **50** | [School & Parent-Teacher Meeting](../everyday/school.md) | Admissions, teachers and your child's progress | <input type="checkbox" class="ssp-done" data-day="everyday/school" aria-label="Day 50 done"> |
-| **51** | [Invitations & Celebrations](../everyday/celebrations.md) | Inviting, accepting, wishes, weddings and birthdays | <input type="checkbox" class="ssp-done" data-day="everyday/celebrations" aria-label="Day 51 done"> |
-| **52** | [Movies & Weekend Plans](../everyday/movies-and-weekends.md) | Making plans, booking tickets, talking about films | <input type="checkbox" class="ssp-done" data-day="everyday/movies-and-weekends" aria-label="Day 52 done"> |
-| **53** | [Petrol Pump & Vehicle Service](../everyday/vehicle.md) | Fuel, tyres, service centre and breakdowns | <input type="checkbox" class="ssp-done" data-day="everyday/vehicle" aria-label="Day 53 done"> |
+| **25** | [Train & Railway Station](../everyday/train.md) | Tickets, platforms, seats, the TTE, and missed trains | <input type="checkbox" class="ssp-done" data-day="everyday/train" aria-label="Day 25 done"> |
+| **26** | [Metro & Bus](../everyday/metro-and-bus.md) | Cards, routes, stops, changes and crowded rides | <input type="checkbox" class="ssp-done" data-day="everyday/metro-and-bus" aria-label="Day 26 done"> |
+| **27** | [Travel Visa](../everyday/travel-visa.md) | Visa types, documents, the visa centre and interview questions | <input type="checkbox" class="ssp-done" data-day="everyday/travel-visa" aria-label="Day 27 done"> |
+| **28** | [Airport](../everyday/airport.md) | Check-in, security, immigration, boarding and lost bags | <input type="checkbox" class="ssp-done" data-day="everyday/airport" aria-label="Day 28 done"> |
+| **29** | [On the Flight & Arrival](../everyday/flight.md) | Seats, cabin crew, connections, immigration and customs | <input type="checkbox" class="ssp-done" data-day="everyday/flight" aria-label="Day 29 done"> |
+| **30** | [Cab, Auto & Directions](../everyday/cab-and-directions.md) | Booking, talking to drivers, asking the way | <input type="checkbox" class="ssp-done" data-day="everyday/cab-and-directions" aria-label="Day 30 done"> |
+| **31** | [Hotel](../everyday/hotel.md) | Check-in, room problems, requests and check-out | <input type="checkbox" class="ssp-done" data-day="everyday/hotel" aria-label="Day 31 done"> |
+| **32** | [Sightseeing & Tourist Places](../everyday/sightseeing.md) | Tickets, guides, photos and asking about places | <input type="checkbox" class="ssp-done" data-day="everyday/sightseeing" aria-label="Day 32 done"> |
+| **33** | [Restaurant & Café](../everyday/restaurant.md) | Tables, ordering, dietary needs, complaints and the bill | <input type="checkbox" class="ssp-done" data-day="everyday/restaurant" aria-label="Day 33 done"> |
+| **34** | [Food Delivery & Takeaway](../everyday/food-delivery.md) | Ordering by phone, delivery issues and refunds | <input type="checkbox" class="ssp-done" data-day="everyday/food-delivery" aria-label="Day 34 done"> |
+| **35** | [Grocery & Vegetable Market](../everyday/grocery-shopping.md) | Supermarket, kirana, sabzi market, weights and prices | <input type="checkbox" class="ssp-done" data-day="everyday/grocery-shopping" aria-label="Day 35 done"> |
+| **36** | [Shopping & Returns](../everyday/shopping.md) | Clothes, electronics, trial rooms, bargaining and returns | <input type="checkbox" class="ssp-done" data-day="everyday/shopping" aria-label="Day 36 done"> |
+| **37** | [Bank & Money](../everyday/bank-and-shopping.md) | Accounts, cards, disputes, loans and transfers | <input type="checkbox" class="ssp-done" data-day="everyday/bank-and-shopping" aria-label="Day 37 done"> |
+| **38** | [Bank Locker](../everyday/bank-locker.md) | Applying, rent and rules, joint holders, lost keys | <input type="checkbox" class="ssp-done" data-day="everyday/bank-locker" aria-label="Day 38 done"> |
+| **39** | [Insurance](../everyday/insurance.md) | Health, life, motor and travel cover, claims and follow-ups | <input type="checkbox" class="ssp-done" data-day="everyday/insurance" aria-label="Day 39 done"> |
+| **40** | [Post Office & Courier](../everyday/post-and-courier.md) | Sending parcels, tracking and missing deliveries | <input type="checkbox" class="ssp-done" data-day="everyday/post-and-courier" aria-label="Day 40 done"> |
+| **41** | [Hospital](../everyday/hospital.md) | Registration, emergency, admission, visiting and billing | <input type="checkbox" class="ssp-done" data-day="everyday/hospital" aria-label="Day 41 done"> |
+| **42** | [Doctor & Pharmacy](../everyday/doctor-and-pharmacy.md) | Describing symptoms, questions to ask, medicines | <input type="checkbox" class="ssp-done" data-day="everyday/doctor-and-pharmacy" aria-label="Day 42 done"> |
+| **43** | [Dentist & Eye Clinic](../everyday/dentist-and-eye-clinic.md) | Toothache, cleaning, eye tests and glasses | <input type="checkbox" class="ssp-done" data-day="everyday/dentist-and-eye-clinic" aria-label="Day 43 done"> |
+| **44** | [Gym](../everyday/gym.md) | Joining, trainers, equipment, routines and gym etiquette | <input type="checkbox" class="ssp-done" data-day="everyday/gym" aria-label="Day 44 done"> |
+| **45** | [Yoga Class](../everyday/yoga.md) | Joining a class, following instructions, injuries and breathing | <input type="checkbox" class="ssp-done" data-day="everyday/yoga" aria-label="Day 45 done"> |
+| **46** | [Sports & Games](../everyday/sports.md) | Joining a game, booking courts, team talk and cricket chat | <input type="checkbox" class="ssp-done" data-day="everyday/sports" aria-label="Day 46 done"> |
+| **47** | [Renting a Home](../everyday/renting-a-home.md) | House hunting, the landlord, rent, deposit and agreements | <input type="checkbox" class="ssp-done" data-day="everyday/renting-a-home" aria-label="Day 47 done"> |
+| **48** | [Moving House](../everyday/moving-house.md) | Packers and movers, quotes, damage claims and settling in | <input type="checkbox" class="ssp-done" data-day="everyday/moving-house" aria-label="Day 48 done"> |
+| **49** | [Neighbours & Society](../everyday/neighbours-and-society.md) | Meeting neighbours, complaints, society meetings | <input type="checkbox" class="ssp-done" data-day="everyday/neighbours-and-society" aria-label="Day 49 done"> |
+| **50** | [Home Repairs & Services](../everyday/home-services.md) | Plumber, electrician, AC repair, house help | <input type="checkbox" class="ssp-done" data-day="everyday/home-services" aria-label="Day 50 done"> |
+| **51** | [Salon & Barber](../everyday/salon.md) | Haircut, beard, styles and salon services | <input type="checkbox" class="ssp-done" data-day="everyday/salon" aria-label="Day 51 done"> |
+| **52** | [Customer Care & Complaints](../everyday/customer-care.md) | Mobile, internet, app and service complaints | <input type="checkbox" class="ssp-done" data-day="everyday/customer-care" aria-label="Day 52 done"> |
+| **53** | [Government Office](../everyday/government-office.md) | Passport, ID cards, licences and forms | <input type="checkbox" class="ssp-done" data-day="everyday/government-office" aria-label="Day 53 done"> |
+| **54** | [Police & Emergencies](../everyday/police-and-emergency.md) | Reporting theft, accidents, emergencies and FIRs | <input type="checkbox" class="ssp-done" data-day="everyday/police-and-emergency" aria-label="Day 54 done"> |
+| **55** | [School & Parent-Teacher Meeting](../everyday/school.md) | Admissions, teachers and your child's progress | <input type="checkbox" class="ssp-done" data-day="everyday/school" aria-label="Day 55 done"> |
+| **56** | [Invitations & Celebrations](../everyday/celebrations.md) | Inviting, accepting, wishes, weddings and birthdays | <input type="checkbox" class="ssp-done" data-day="everyday/celebrations" aria-label="Day 56 done"> |
+| **57** | [Movies & Weekend Plans](../everyday/movies-and-weekends.md) | Making plans, booking tickets, talking about films | <input type="checkbox" class="ssp-done" data-day="everyday/movies-and-weekends" aria-label="Day 57 done"> |
+| **58** | [Petrol Pump & Vehicle Service](../everyday/vehicle.md) | Fuel, tyres, service centre and breakdowns | <input type="checkbox" class="ssp-done" data-day="everyday/vehicle" aria-label="Day 58 done"> |
 
 ### Phase 4 · Workplace Communication
 
 | Day | Lesson | What you'll learn | Done |
 |---|---|---|---|
-| **54** | [Day-to-Day Communication](../workplace/day-to-day.md) | Stand-ups, Slack, email, PRs and estimates | <input type="checkbox" class="ssp-done" data-day="workplace/day-to-day" aria-label="Day 54 done"> |
-| **55** | [Talking to Your Manager](../workplace/talking-to-manager.md) | 1:1s, status, risks, help and feedback | <input type="checkbox" class="ssp-done" data-day="workplace/talking-to-manager" aria-label="Day 55 done"> |
-| **56** | [Peers & Cross-Team](../workplace/peers-and-cross-team.md) | PMs, QA, designers and other teams | <input type="checkbox" class="ssp-done" data-day="workplace/peers-and-cross-team" aria-label="Day 56 done"> |
-| **57** | [Talking to Juniors](../workplace/talking-to-juniors.md) | Teaching, code review and delegation | <input type="checkbox" class="ssp-done" data-day="workplace/talking-to-juniors" aria-label="Day 57 done"> |
-| **58** | [Explaining an Issue](../workplace/explaining-issues.md) | Bug reports, incidents and non-tech explanations | <input type="checkbox" class="ssp-done" data-day="workplace/explaining-issues" aria-label="Day 58 done"> |
-| **59** | [Meetings & Presentations](../workplace/meetings-and-presentations.md) | Speak up, run meetings and give demos | <input type="checkbox" class="ssp-done" data-day="workplace/meetings-and-presentations" aria-label="Day 59 done"> |
-| **60** | [Team Lead Meetings](../workplace/team-lead-meetings.md) | Meeting your lead, or running meetings as one | <input type="checkbox" class="ssp-done" data-day="workplace/team-lead-meetings" aria-label="Day 60 done"> |
-| **61** | [Talking to the CEO](../workplace/talking-to-ceo.md) | Bottom line first, business impact, decisions | <input type="checkbox" class="ssp-done" data-day="workplace/talking-to-ceo" aria-label="Day 61 done"> |
-| **62** | [Client Meetings](../workplace/client-meeting.md) | Discovery, delays, scope creep and follow-ups | <input type="checkbox" class="ssp-done" data-day="workplace/client-meeting" aria-label="Day 62 done"> |
-| **63** | [Difficult Conversations](../workplace/difficult-conversations.md) | Say no, disagree, conflict and criticism | <input type="checkbox" class="ssp-done" data-day="workplace/difficult-conversations" aria-label="Day 63 done"> |
-| **64** | [Global & Remote Teams](../workplace/global-and-remote-teams.md) | Time zones, async writing and cultures | <input type="checkbox" class="ssp-done" data-day="workplace/global-and-remote-teams" aria-label="Day 64 done"> |
-| **65** | [Work from Home](../workplace/work-from-home.md) | Asking for WFH, staying visible, video calls | <input type="checkbox" class="ssp-done" data-day="workplace/work-from-home" aria-label="Day 65 done"> |
-| **66** | [Leave & Boundaries](../workplace/leave-and-boundaries.md) | Asking for leave and protecting your time | <input type="checkbox" class="ssp-done" data-day="workplace/leave-and-boundaries" aria-label="Day 66 done"> |
-| **67** | [Mentoring](../workplace/mentoring.md) | Find a mentor, be a mentee, mentor others | <input type="checkbox" class="ssp-done" data-day="workplace/mentoring" aria-label="Day 67 done"> |
-| **68** | [Team Building](../workplace/team-building.md) | Trust, safety, rituals and team activities | <input type="checkbox" class="ssp-done" data-day="workplace/team-building" aria-label="Day 68 done"> |
-| **69** | [Office Party & Team Events](../workplace/office-party.md) | Mingling, leaders, toasts and etiquette | <input type="checkbox" class="ssp-done" data-day="workplace/office-party" aria-label="Day 69 done"> |
+| **59** | [Day-to-Day Communication](../workplace/day-to-day.md) | Stand-ups, Slack, email, PRs and estimates | <input type="checkbox" class="ssp-done" data-day="workplace/day-to-day" aria-label="Day 59 done"> |
+| **60** | [Email Writing](../workplace/email-writing.md) | Subject lines, tone, templates and one clear ask | <input type="checkbox" class="ssp-done" data-day="workplace/email-writing" aria-label="Day 60 done"> |
+| **61** | [Time Management](../workplace/time-management.md) | Prioritise, protect focus and talk about deadlines | <input type="checkbox" class="ssp-done" data-day="workplace/time-management" aria-label="Day 61 done"> |
+| **62** | [Talking to Your Manager](../workplace/talking-to-manager.md) | 1:1s, status, risks, help and feedback | <input type="checkbox" class="ssp-done" data-day="workplace/talking-to-manager" aria-label="Day 62 done"> |
+| **63** | [Peers & Cross-Team](../workplace/peers-and-cross-team.md) | PMs, QA, designers and other teams | <input type="checkbox" class="ssp-done" data-day="workplace/peers-and-cross-team" aria-label="Day 63 done"> |
+| **64** | [Talking to Juniors](../workplace/talking-to-juniors.md) | Teaching, code review and delegation | <input type="checkbox" class="ssp-done" data-day="workplace/talking-to-juniors" aria-label="Day 64 done"> |
+| **65** | [Explaining an Issue](../workplace/explaining-issues.md) | Bug reports, incidents and non-tech explanations | <input type="checkbox" class="ssp-done" data-day="workplace/explaining-issues" aria-label="Day 65 done"> |
+| **66** | [Writing Docs & Proposals](../workplace/writing-docs.md) | Design docs and one-page proposals that get decisions | <input type="checkbox" class="ssp-done" data-day="workplace/writing-docs" aria-label="Day 66 done"> |
+| **67** | [Problem Solving & Decisions](../workplace/problem-solving.md) | Define, find the cause, compare options, decide | <input type="checkbox" class="ssp-done" data-day="workplace/problem-solving" aria-label="Day 67 done"> |
+| **68** | [Meetings & Presentations](../workplace/meetings-and-presentations.md) | Speak up, run meetings and give demos | <input type="checkbox" class="ssp-done" data-day="workplace/meetings-and-presentations" aria-label="Day 68 done"> |
+| **69** | [Team Lead Meetings](../workplace/team-lead-meetings.md) | Meeting your lead, or running meetings as one | <input type="checkbox" class="ssp-done" data-day="workplace/team-lead-meetings" aria-label="Day 69 done"> |
+| **70** | [Talking to the CEO](../workplace/talking-to-ceo.md) | Bottom line first, business impact, decisions | <input type="checkbox" class="ssp-done" data-day="workplace/talking-to-ceo" aria-label="Day 70 done"> |
+| **71** | [Client Meetings](../workplace/client-meeting.md) | Discovery, delays, scope creep and follow-ups | <input type="checkbox" class="ssp-done" data-day="workplace/client-meeting" aria-label="Day 71 done"> |
+| **72** | [Difficult Conversations](../workplace/difficult-conversations.md) | Say no, disagree, conflict and criticism | <input type="checkbox" class="ssp-done" data-day="workplace/difficult-conversations" aria-label="Day 72 done"> |
+| **73** | [Global & Remote Teams](../workplace/global-and-remote-teams.md) | Time zones, async writing and cultures | <input type="checkbox" class="ssp-done" data-day="workplace/global-and-remote-teams" aria-label="Day 73 done"> |
+| **74** | [Work from Home](../workplace/work-from-home.md) | Asking for WFH, staying visible, video calls | <input type="checkbox" class="ssp-done" data-day="workplace/work-from-home" aria-label="Day 74 done"> |
+| **75** | [Leave & Boundaries](../workplace/leave-and-boundaries.md) | Asking for leave and protecting your time | <input type="checkbox" class="ssp-done" data-day="workplace/leave-and-boundaries" aria-label="Day 75 done"> |
+| **76** | [Mentoring](../workplace/mentoring.md) | Find a mentor, be a mentee, mentor others | <input type="checkbox" class="ssp-done" data-day="workplace/mentoring" aria-label="Day 76 done"> |
+| **77** | [Team Building](../workplace/team-building.md) | Trust, safety, rituals and team activities | <input type="checkbox" class="ssp-done" data-day="workplace/team-building" aria-label="Day 77 done"> |
+| **78** | [Office Party & Team Events](../workplace/office-party.md) | Mingling, leaders, toasts and etiquette | <input type="checkbox" class="ssp-done" data-day="workplace/office-party" aria-label="Day 78 done"> |
 
 ### Phase 5 · Career Moments
 
 | Day | Lesson | What you'll learn | Done |
 |---|---|---|---|
-| **70** | [Resume Writing](../career/resume-writing.md) | A results-focused, ATS-friendly resume in 1–2 pages | <input type="checkbox" class="ssp-done" data-day="career/resume-writing" aria-label="Day 70 done"> |
-| **71** | [Cover Letter](../career/cover-letter.md) | A short, specific cover letter and application email | <input type="checkbox" class="ssp-done" data-day="career/cover-letter" aria-label="Day 71 done"> |
-| **72** | [LinkedIn Profile](../career/linkedin-profile.md) | Headline, About, results, messages and posts that get replies | <input type="checkbox" class="ssp-done" data-day="career/linkedin-profile" aria-label="Day 72 done"> |
-| **73** | [Job Hunting](../career/job-hunting.md) | Recruiter calls, referrals, follow-ups, offers and rejections | <input type="checkbox" class="ssp-done" data-day="career/job-hunting" aria-label="Day 73 done"> |
-| **74** | [Interviews](../career/interviews.md) | Introduce yourself, STAR answers, questions to ask | <input type="checkbox" class="ssp-done" data-day="career/interviews" aria-label="Day 74 done"> |
-| **75** | [First 90 Days](../career/first-90-days.md) | Introductions, questions and your first win | <input type="checkbox" class="ssp-done" data-day="career/first-90-days" aria-label="Day 75 done"> |
-| **76** | [Performance Review](../career/performance-review.md) | Wins file, self-review and the review meeting | <input type="checkbox" class="ssp-done" data-day="career/performance-review" aria-label="Day 76 done"> |
-| **77** | [Promotion Discussion](../career/promotion-discussion.md) | Criteria, evidence, sponsors and 'not yet' | <input type="checkbox" class="ssp-done" data-day="career/promotion-discussion" aria-label="Day 77 done"> |
-| **78** | [Appraisal Discussion](../career/appraisal-discussion.md) | Hike letters, low hikes and escalation | <input type="checkbox" class="ssp-done" data-day="career/appraisal-discussion" aria-label="Day 78 done"> |
-| **79** | [Salary Negotiation](../career/salary-negotiation.md) | Know your numbers and negotiate the package | <input type="checkbox" class="ssp-done" data-day="career/salary-negotiation" aria-label="Day 79 done"> |
-| **80** | [Resignation](../career/resignation.md) | Telling your manager, notice and leaving well | <input type="checkbox" class="ssp-done" data-day="career/resignation" aria-label="Day 80 done"> |
-| **81** | [Handling Layoffs](../career/handling-layoffs.md) | What to ask, what to say, and what's next | <input type="checkbox" class="ssp-done" data-day="career/handling-layoffs" aria-label="Day 81 done"> |
-| **82** | [Burnout & Wellbeing](../foundations/burnout.md) | Spot it, talk about it and recover | <input type="checkbox" class="ssp-done" data-day="foundations/burnout" aria-label="Day 82 done"> |
-| **83** | [Your 90-Day Improvement Plan](../foundations/improving-soft-skills.md) | Self-assessment and your plan after the course | <input type="checkbox" class="ssp-done" data-day="foundations/improving-soft-skills" aria-label="Day 83 done"> |
-| **84** | [Final Review & Graduation](graduation.md) | Self-test, recap and what to practise next | <input type="checkbox" class="ssp-done" data-day="course/graduation" aria-label="Day 84 done"> |
+| **79** | [Career Planning & Upskilling](../career/career-planning.md) | Choose a direction, close skill gaps, ask for growth | <input type="checkbox" class="ssp-done" data-day="career/career-planning" aria-label="Day 79 done"> |
+| **80** | [Resume Writing](../career/resume-writing.md) | A results-focused, ATS-friendly resume in 1–2 pages | <input type="checkbox" class="ssp-done" data-day="career/resume-writing" aria-label="Day 80 done"> |
+| **81** | [Cover Letter](../career/cover-letter.md) | A short, specific cover letter and application email | <input type="checkbox" class="ssp-done" data-day="career/cover-letter" aria-label="Day 81 done"> |
+| **82** | [LinkedIn Profile](../career/linkedin-profile.md) | Headline, About, results, messages and posts that get replies | <input type="checkbox" class="ssp-done" data-day="career/linkedin-profile" aria-label="Day 82 done"> |
+| **83** | [Job Hunting](../career/job-hunting.md) | Recruiter calls, referrals, follow-ups, offers and rejections | <input type="checkbox" class="ssp-done" data-day="career/job-hunting" aria-label="Day 83 done"> |
+| **84** | [Interviews](../career/interviews.md) | Introduce yourself, STAR answers, questions to ask | <input type="checkbox" class="ssp-done" data-day="career/interviews" aria-label="Day 84 done"> |
+| **85** | [First 90 Days](../career/first-90-days.md) | Introductions, questions and your first win | <input type="checkbox" class="ssp-done" data-day="career/first-90-days" aria-label="Day 85 done"> |
+| **86** | [Performance Review](../career/performance-review.md) | Wins file, self-review and the review meeting | <input type="checkbox" class="ssp-done" data-day="career/performance-review" aria-label="Day 86 done"> |
+| **87** | [Promotion Discussion](../career/promotion-discussion.md) | Criteria, evidence, sponsors and 'not yet' | <input type="checkbox" class="ssp-done" data-day="career/promotion-discussion" aria-label="Day 87 done"> |
+| **88** | [Appraisal Discussion](../career/appraisal-discussion.md) | Hike letters, low hikes and escalation | <input type="checkbox" class="ssp-done" data-day="career/appraisal-discussion" aria-label="Day 88 done"> |
+| **89** | [Salary Negotiation](../career/salary-negotiation.md) | Know your numbers and negotiate the package | <input type="checkbox" class="ssp-done" data-day="career/salary-negotiation" aria-label="Day 89 done"> |
+| **90** | [Resignation](../career/resignation.md) | Telling your manager, notice and leaving well | <input type="checkbox" class="ssp-done" data-day="career/resignation" aria-label="Day 90 done"> |
+| **91** | [Handling Layoffs](../career/handling-layoffs.md) | What to ask, what to say, and what's next | <input type="checkbox" class="ssp-done" data-day="career/handling-layoffs" aria-label="Day 91 done"> |
+| **92** | [Burnout & Wellbeing](../foundations/burnout.md) | Spot it, talk about it and recover | <input type="checkbox" class="ssp-done" data-day="foundations/burnout" aria-label="Day 92 done"> |
+| **93** | [Your 90-Day Improvement Plan](../foundations/improving-soft-skills.md) | Self-assessment and your plan after the course | <input type="checkbox" class="ssp-done" data-day="foundations/improving-soft-skills" aria-label="Day 93 done"> |
+| **94** | [Final Review & Graduation](graduation.md) | Self-test, recap and what to practise next | <input type="checkbox" class="ssp-done" data-day="course/graduation" aria-label="Day 94 done"> |

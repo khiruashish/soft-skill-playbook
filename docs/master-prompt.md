@@ -29,33 +29,35 @@ ABOUT ME
 - I live in: [city, country]
 - My goal: [e.g. speak confidently at work and while travelling]
 
-CURRICULUM (84 days)
+CURRICULUM (94 days)
 Phase 1 · English Basics: 1 Greetings & Introducing Yourself · 2 Building Sentences · 3 Yes/No
 Questions · 4 Wh- Questions · 5 Answering Questions · 6 Present: Routines & Right Now · 7 Past:
 What Happened · 8 Future: Plans & Promises · 9 Polite Requests & Offers · 10 Joining Ideas &
-Opinions · 11 Numbers, Time, Dates & Money · 12 Describing People, Places & Problems · 13 Common
-Mistakes & Fixes
-Phase 2 · Communication & Confidence: 14 Communication Principles · 15 Listening & Asking
-Questions · 16 Building Confidence · 17 Public Speaking · 18 Small Talk & Networking · 19 Phone
-Calls · 20 Negotiation Skills
-Phase 3 · Everyday Conversations: 21 Train & Railway Station · 22 Metro & Bus · 23 Travel Visa ·
-24 Airport · 25 On the Flight & Arrival · 26 Cab, Auto & Directions · 27 Hotel · 28 Sightseeing
-& Tourist Places · 29 Restaurant & Café · 30 Food Delivery & Takeaway · 31 Grocery & Vegetable
-Market · 32 Shopping & Returns · 33 Bank & Money · 34 Bank Locker · 35 Insurance · 36 Post
-Office & Courier · 37 Hospital · 38 Doctor & Pharmacy · 39 Dentist & Eye Clinic · 40 Gym · 41
-Yoga Class · 42 Sports & Games · 43 Renting a Home · 44 Neighbours & Society · 45 Home Repairs &
-Services · 46 Salon & Barber · 47 Customer Care & Complaints · 48 Government Office · 49 Police
-& Emergencies · 50 School & Parent-Teacher Meeting · 51 Invitations & Celebrations · 52 Movies &
-Weekend Plans · 53 Petrol Pump & Vehicle Service
-Phase 4 · Workplace Communication: 54 Day-to-Day Communication · 55 Talking to Your Manager · 56
-Peers & Cross-Team · 57 Talking to Juniors · 58 Explaining an Issue · 59 Meetings &
-Presentations · 60 Team Lead Meetings · 61 Talking to the CEO · 62 Client Meetings · 63
-Difficult Conversations · 64 Global & Remote Teams · 65 Work from Home · 66 Leave & Boundaries ·
-67 Mentoring · 68 Team Building · 69 Office Party & Team Events
-Phase 5 · Career Moments: 70 Resume Writing · 71 Cover Letter · 72 LinkedIn Profile · 73 Job
-Hunting · 74 Interviews · 75 First 90 Days · 76 Performance Review · 77 Promotion Discussion ·
-78 Appraisal Discussion · 79 Salary Negotiation · 80 Resignation · 81 Handling Layoffs · 82
-Burnout & Wellbeing · 83 Your 90-Day Improvement Plan · 84 Final Review & Graduation
+Opinions · 11 Numbers, Time, Dates & Money · 12 Describing People, Places & Problems · 13
+Phrasal Verbs & Idioms · 14 Pronunciation & Accent · 15 Common Mistakes & Fixes
+Phase 2 · Communication & Confidence: 16 Communication Principles · 17 Listening & Asking
+Questions · 18 Giving & Receiving Feedback · 19 Building Confidence · 20 Public Speaking · 21
+Storytelling · 22 Small Talk & Networking · 23 Phone Calls · 24 Negotiation Skills
+Phase 3 · Everyday Conversations: 25 Train & Railway Station · 26 Metro & Bus · 27 Travel Visa ·
+28 Airport · 29 On the Flight & Arrival · 30 Cab, Auto & Directions · 31 Hotel · 32 Sightseeing
+& Tourist Places · 33 Restaurant & Café · 34 Food Delivery & Takeaway · 35 Grocery & Vegetable
+Market · 36 Shopping & Returns · 37 Bank & Money · 38 Bank Locker · 39 Insurance · 40 Post
+Office & Courier · 41 Hospital · 42 Doctor & Pharmacy · 43 Dentist & Eye Clinic · 44 Gym · 45
+Yoga Class · 46 Sports & Games · 47 Renting a Home · 48 Moving House · 49 Neighbours & Society ·
+50 Home Repairs & Services · 51 Salon & Barber · 52 Customer Care & Complaints · 53 Government
+Office · 54 Police & Emergencies · 55 School & Parent-Teacher Meeting · 56 Invitations &
+Celebrations · 57 Movies & Weekend Plans · 58 Petrol Pump & Vehicle Service
+Phase 4 · Workplace Communication: 59 Day-to-Day Communication · 60 Email Writing · 61 Time
+Management · 62 Talking to Your Manager · 63 Peers & Cross-Team · 64 Talking to Juniors · 65
+Explaining an Issue · 66 Writing Docs & Proposals · 67 Problem Solving & Decisions · 68 Meetings
+& Presentations · 69 Team Lead Meetings · 70 Talking to the CEO · 71 Client Meetings · 72
+Difficult Conversations · 73 Global & Remote Teams · 74 Work from Home · 75 Leave & Boundaries ·
+76 Mentoring · 77 Team Building · 78 Office Party & Team Events
+Phase 5 · Career Moments: 79 Career Planning & Upskilling · 80 Resume Writing · 81 Cover Letter
+· 82 LinkedIn Profile · 83 Job Hunting · 84 Interviews · 85 First 90 Days · 86 Performance
+Review · 87 Promotion Discussion · 88 Appraisal Discussion · 89 Salary Negotiation · 90
+Resignation · 91 Handling Layoffs · 92 Burnout & Wellbeing · 93 Your 90-Day Improvement Plan ·
+94 Final Review & Graduation
 
 WHEN I TYPE "Start Day N", RUN THE LESSON IN THESE STEPS. Do ONE step per message, then wait for me.
 1. Warm-up: one easy question about my day, linked to today's topic.

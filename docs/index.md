@@ -9,7 +9,7 @@ hide:
 
 # Soft Skill Playbook
 
-**A 84-day English and communication course**, one lesson a day. It starts with basic sentences and
+**A 94-day English and communication course**, one lesson a day. It starts with basic sentences and
 questions and ends with salary negotiation and the CEO review.
 
 Real conversations for the **railway station**, **airport**, **restaurant**, **hospital**, **gym**,
@@ -41,8 +41,8 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 1–13.** Sentences, yes/no and wh- questions, answers, tenses, polite English, numbers and
-    common mistakes.
+    **Days 1–15.** Sentences, yes/no and wh- questions, answers, tenses, polite English, numbers,
+    phrasal verbs, pronunciation and common mistakes.
 
     [:octicons-arrow-right-24: Open phase](course/phase-1.md)
 
@@ -50,8 +50,8 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 14–20.** Point-first communication, listening, confidence, public speaking, small talk,
-    phone calls and negotiation.
+    **Days 16–24.** Point-first communication, listening, feedback, confidence, public speaking,
+    storytelling, small talk, phone calls and negotiation.
 
     [:octicons-arrow-right-24: Open phase](course/phase-2.md)
 
@@ -59,7 +59,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 21–53.** Train, metro, visa, flight, hotel, restaurant, grocery, bank locker, insurance, hospital,
+    **Days 25–58.** Train, metro, visa, flight, hotel, restaurant, grocery, bank locker, insurance, hospital,
     gym, yoga, salon, police, school, landlord and more.
 
     [:octicons-arrow-right-24: Open phase](course/phase-3.md)
@@ -68,7 +68,8 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 54–69.** Stand-ups, manager, juniors, CEO, clients, difficult conversations, remote work,
+    **Days 59–78.** Stand-ups, email, time management, docs, problem solving, manager, juniors, CEO,
+    clients, difficult conversations, remote work,
     mentoring and team events.
 
     [:octicons-arrow-right-24: Open phase](course/phase-4.md)
@@ -77,7 +78,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 70–84.** Resume, cover letter, LinkedIn, job hunting, interviews, reviews, promotion, appraisal, salary, resignation,
+    **Days 79–94.** Career planning, resume, cover letter, LinkedIn, job hunting, interviews, reviews, promotion, appraisal, salary, resignation,
     layoffs, burnout and graduation.
 
     [:octicons-arrow-right-24: Open phase](course/phase-5.md)

@@ -92,86 +92,96 @@ nav:
       - "Day 10 · Joining Ideas & Opinions": english/10-joining-ideas.md
       - "Day 11 · Numbers, Time, Dates & Money": english/11-numbers-time-money.md
       - "Day 12 · Describing People, Places & Problems": english/12-describing.md
-      - "Day 13 · Common Mistakes & Fixes": english/13-common-mistakes.md
+      - "Day 13 · Phrasal Verbs & Idioms": english/phrasal-verbs-and-idioms.md
+      - "Day 14 · Pronunciation & Accent": english/pronunciation.md
+      - "Day 15 · Common Mistakes & Fixes": english/13-common-mistakes.md
   - "2 · Communication":
       - course/phase-2.md
-      - "Day 14 · Communication Principles": foundations/communication-principles.md
-      - "Day 15 · Listening & Asking Questions": foundations/listening-and-questions.md
-      - "Day 16 · Building Confidence": foundations/building-confidence.md
-      - "Day 17 · Public Speaking": foundations/public-speaking.md
-      - "Day 18 · Small Talk & Networking": everyday/small-talk-networking.md
-      - "Day 19 · Phone Calls": everyday/phone-calls.md
-      - "Day 20 · Negotiation Skills": foundations/negotiation-skills.md
+      - "Day 16 · Communication Principles": foundations/communication-principles.md
+      - "Day 17 · Listening & Asking Questions": foundations/listening-and-questions.md
+      - "Day 18 · Giving & Receiving Feedback": foundations/feedback.md
+      - "Day 19 · Building Confidence": foundations/building-confidence.md
+      - "Day 20 · Public Speaking": foundations/public-speaking.md
+      - "Day 21 · Storytelling": foundations/storytelling.md
+      - "Day 22 · Small Talk & Networking": everyday/small-talk-networking.md
+      - "Day 23 · Phone Calls": everyday/phone-calls.md
+      - "Day 24 · Negotiation Skills": foundations/negotiation-skills.md
   - "3 · Everyday Life":
       - course/phase-3.md
-      - "Day 21 · Train & Railway Station": everyday/train.md
-      - "Day 22 · Metro & Bus": everyday/metro-and-bus.md
-      - "Day 23 · Travel Visa": everyday/travel-visa.md
-      - "Day 24 · Airport": everyday/airport.md
-      - "Day 25 · On the Flight & Arrival": everyday/flight.md
-      - "Day 26 · Cab, Auto & Directions": everyday/cab-and-directions.md
-      - "Day 27 · Hotel": everyday/hotel.md
-      - "Day 28 · Sightseeing & Tourist Places": everyday/sightseeing.md
-      - "Day 29 · Restaurant & Café": everyday/restaurant.md
-      - "Day 30 · Food Delivery & Takeaway": everyday/food-delivery.md
-      - "Day 31 · Grocery & Vegetable Market": everyday/grocery-shopping.md
-      - "Day 32 · Shopping & Returns": everyday/shopping.md
-      - "Day 33 · Bank & Money": everyday/bank-and-shopping.md
-      - "Day 34 · Bank Locker": everyday/bank-locker.md
-      - "Day 35 · Insurance": everyday/insurance.md
-      - "Day 36 · Post Office & Courier": everyday/post-and-courier.md
-      - "Day 37 · Hospital": everyday/hospital.md
-      - "Day 38 · Doctor & Pharmacy": everyday/doctor-and-pharmacy.md
-      - "Day 39 · Dentist & Eye Clinic": everyday/dentist-and-eye-clinic.md
-      - "Day 40 · Gym": everyday/gym.md
-      - "Day 41 · Yoga Class": everyday/yoga.md
-      - "Day 42 · Sports & Games": everyday/sports.md
-      - "Day 43 · Renting a Home": everyday/renting-a-home.md
-      - "Day 44 · Neighbours & Society": everyday/neighbours-and-society.md
-      - "Day 45 · Home Repairs & Services": everyday/home-services.md
-      - "Day 46 · Salon & Barber": everyday/salon.md
-      - "Day 47 · Customer Care & Complaints": everyday/customer-care.md
-      - "Day 48 · Government Office": everyday/government-office.md
-      - "Day 49 · Police & Emergencies": everyday/police-and-emergency.md
-      - "Day 50 · School & Parent-Teacher Meeting": everyday/school.md
-      - "Day 51 · Invitations & Celebrations": everyday/celebrations.md
-      - "Day 52 · Movies & Weekend Plans": everyday/movies-and-weekends.md
-      - "Day 53 · Petrol Pump & Vehicle Service": everyday/vehicle.md
+      - "Day 25 · Train & Railway Station": everyday/train.md
+      - "Day 26 · Metro & Bus": everyday/metro-and-bus.md
+      - "Day 27 · Travel Visa": everyday/travel-visa.md
+      - "Day 28 · Airport": everyday/airport.md
+      - "Day 29 · On the Flight & Arrival": everyday/flight.md
+      - "Day 30 · Cab, Auto & Directions": everyday/cab-and-directions.md
+      - "Day 31 · Hotel": everyday/hotel.md
+      - "Day 32 · Sightseeing & Tourist Places": everyday/sightseeing.md
+      - "Day 33 · Restaurant & Café": everyday/restaurant.md
+      - "Day 34 · Food Delivery & Takeaway": everyday/food-delivery.md
+      - "Day 35 · Grocery & Vegetable Market": everyday/grocery-shopping.md
+      - "Day 36 · Shopping & Returns": everyday/shopping.md
+      - "Day 37 · Bank & Money": everyday/bank-and-shopping.md
+      - "Day 38 · Bank Locker": everyday/bank-locker.md
+      - "Day 39 · Insurance": everyday/insurance.md
+      - "Day 40 · Post Office & Courier": everyday/post-and-courier.md
+      - "Day 41 · Hospital": everyday/hospital.md
+      - "Day 42 · Doctor & Pharmacy": everyday/doctor-and-pharmacy.md
+      - "Day 43 · Dentist & Eye Clinic": everyday/dentist-and-eye-clinic.md
+      - "Day 44 · Gym": everyday/gym.md
+      - "Day 45 · Yoga Class": everyday/yoga.md
+      - "Day 46 · Sports & Games": everyday/sports.md
+      - "Day 47 · Renting a Home": everyday/renting-a-home.md
+      - "Day 48 · Moving House": everyday/moving-house.md
+      - "Day 49 · Neighbours & Society": everyday/neighbours-and-society.md
+      - "Day 50 · Home Repairs & Services": everyday/home-services.md
+      - "Day 51 · Salon & Barber": everyday/salon.md
+      - "Day 52 · Customer Care & Complaints": everyday/customer-care.md
+      - "Day 53 · Government Office": everyday/government-office.md
+      - "Day 54 · Police & Emergencies": everyday/police-and-emergency.md
+      - "Day 55 · School & Parent-Teacher Meeting": everyday/school.md
+      - "Day 56 · Invitations & Celebrations": everyday/celebrations.md
+      - "Day 57 · Movies & Weekend Plans": everyday/movies-and-weekends.md
+      - "Day 58 · Petrol Pump & Vehicle Service": everyday/vehicle.md
   - "4 · Workplace":
       - course/phase-4.md
-      - "Day 54 · Day-to-Day Communication": workplace/day-to-day.md
-      - "Day 55 · Talking to Your Manager": workplace/talking-to-manager.md
-      - "Day 56 · Peers & Cross-Team": workplace/peers-and-cross-team.md
-      - "Day 57 · Talking to Juniors": workplace/talking-to-juniors.md
-      - "Day 58 · Explaining an Issue": workplace/explaining-issues.md
-      - "Day 59 · Meetings & Presentations": workplace/meetings-and-presentations.md
-      - "Day 60 · Team Lead Meetings": workplace/team-lead-meetings.md
-      - "Day 61 · Talking to the CEO": workplace/talking-to-ceo.md
-      - "Day 62 · Client Meetings": workplace/client-meeting.md
-      - "Day 63 · Difficult Conversations": workplace/difficult-conversations.md
-      - "Day 64 · Global & Remote Teams": workplace/global-and-remote-teams.md
-      - "Day 65 · Work from Home": workplace/work-from-home.md
-      - "Day 66 · Leave & Boundaries": workplace/leave-and-boundaries.md
-      - "Day 67 · Mentoring": workplace/mentoring.md
-      - "Day 68 · Team Building": workplace/team-building.md
-      - "Day 69 · Office Party & Team Events": workplace/office-party.md
+      - "Day 59 · Day-to-Day Communication": workplace/day-to-day.md
+      - "Day 60 · Email Writing": workplace/email-writing.md
+      - "Day 61 · Time Management": workplace/time-management.md
+      - "Day 62 · Talking to Your Manager": workplace/talking-to-manager.md
+      - "Day 63 · Peers & Cross-Team": workplace/peers-and-cross-team.md
+      - "Day 64 · Talking to Juniors": workplace/talking-to-juniors.md
+      - "Day 65 · Explaining an Issue": workplace/explaining-issues.md
+      - "Day 66 · Writing Docs & Proposals": workplace/writing-docs.md
+      - "Day 67 · Problem Solving & Decisions": workplace/problem-solving.md
+      - "Day 68 · Meetings & Presentations": workplace/meetings-and-presentations.md
+      - "Day 69 · Team Lead Meetings": workplace/team-lead-meetings.md
+      - "Day 70 · Talking to the CEO": workplace/talking-to-ceo.md
+      - "Day 71 · Client Meetings": workplace/client-meeting.md
+      - "Day 72 · Difficult Conversations": workplace/difficult-conversations.md
+      - "Day 73 · Global & Remote Teams": workplace/global-and-remote-teams.md
+      - "Day 74 · Work from Home": workplace/work-from-home.md
+      - "Day 75 · Leave & Boundaries": workplace/leave-and-boundaries.md
+      - "Day 76 · Mentoring": workplace/mentoring.md
+      - "Day 77 · Team Building": workplace/team-building.md
+      - "Day 78 · Office Party & Team Events": workplace/office-party.md
   - "5 · Career":
       - course/phase-5.md
-      - "Day 70 · Resume Writing": career/resume-writing.md
-      - "Day 71 · Cover Letter": career/cover-letter.md
-      - "Day 72 · LinkedIn Profile": career/linkedin-profile.md
-      - "Day 73 · Job Hunting": career/job-hunting.md
-      - "Day 74 · Interviews": career/interviews.md
-      - "Day 75 · First 90 Days": career/first-90-days.md
-      - "Day 76 · Performance Review": career/performance-review.md
-      - "Day 77 · Promotion Discussion": career/promotion-discussion.md
-      - "Day 78 · Appraisal Discussion": career/appraisal-discussion.md
-      - "Day 79 · Salary Negotiation": career/salary-negotiation.md
-      - "Day 80 · Resignation": career/resignation.md
-      - "Day 81 · Handling Layoffs": career/handling-layoffs.md
-      - "Day 82 · Burnout & Wellbeing": foundations/burnout.md
-      - "Day 83 · Your 90-Day Improvement Plan": foundations/improving-soft-skills.md
-      - "Day 84 · Final Review & Graduation": course/graduation.md
+      - "Day 79 · Career Planning & Upskilling": career/career-planning.md
+      - "Day 80 · Resume Writing": career/resume-writing.md
+      - "Day 81 · Cover Letter": career/cover-letter.md
+      - "Day 82 · LinkedIn Profile": career/linkedin-profile.md
+      - "Day 83 · Job Hunting": career/job-hunting.md
+      - "Day 84 · Interviews": career/interviews.md
+      - "Day 85 · First 90 Days": career/first-90-days.md
+      - "Day 86 · Performance Review": career/performance-review.md
+      - "Day 87 · Promotion Discussion": career/promotion-discussion.md
+      - "Day 88 · Appraisal Discussion": career/appraisal-discussion.md
+      - "Day 89 · Salary Negotiation": career/salary-negotiation.md
+      - "Day 90 · Resignation": career/resignation.md
+      - "Day 91 · Handling Layoffs": career/handling-layoffs.md
+      - "Day 92 · Burnout & Wellbeing": foundations/burnout.md
+      - "Day 93 · Your 90-Day Improvement Plan": foundations/improving-soft-skills.md
+      - "Day 94 · Final Review & Graduation": course/graduation.md
   - Reference:
       - Phrase Bank: reference/phrase-bank.md
       - Daily Practice Checklist: reference/daily-practice-checklist.md

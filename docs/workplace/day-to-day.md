@@ -59,6 +59,8 @@ Thanks,
 Ashish
 ```
 
+For more templates and tone guidance, see [Email Writing](email-writing.md).
+
 **Tips:** the subject line says what you need · the first line gives the answer · under 150 words ·
 one ask · a clear deadline.
 

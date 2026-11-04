@@ -6,268 +6,276 @@
 
 <div class="grid cards" markdown>
 
--   __Day 21 · Train & Railway Station__
+-   __Day 25 · Train & Railway Station__
 
     ---
 
     Tickets, platforms, seats, the TTE, and missed trains
 
-    [:octicons-arrow-right-24: Start Day 21](../everyday/train.md)
+    [:octicons-arrow-right-24: Start Day 25](../everyday/train.md)
 
--   __Day 22 · Metro & Bus__
+-   __Day 26 · Metro & Bus__
 
     ---
 
     Cards, routes, stops, changes and crowded rides
 
-    [:octicons-arrow-right-24: Start Day 22](../everyday/metro-and-bus.md)
+    [:octicons-arrow-right-24: Start Day 26](../everyday/metro-and-bus.md)
 
--   __Day 23 · Travel Visa__
+-   __Day 27 · Travel Visa__
 
     ---
 
     Visa types, documents, the visa centre and interview questions
 
-    [:octicons-arrow-right-24: Start Day 23](../everyday/travel-visa.md)
+    [:octicons-arrow-right-24: Start Day 27](../everyday/travel-visa.md)
 
--   __Day 24 · Airport__
+-   __Day 28 · Airport__
 
     ---
 
     Check-in, security, immigration, boarding and lost bags
 
-    [:octicons-arrow-right-24: Start Day 24](../everyday/airport.md)
+    [:octicons-arrow-right-24: Start Day 28](../everyday/airport.md)
 
--   __Day 25 · On the Flight & Arrival__
+-   __Day 29 · On the Flight & Arrival__
 
     ---
 
     Seats, cabin crew, connections, immigration and customs
 
-    [:octicons-arrow-right-24: Start Day 25](../everyday/flight.md)
+    [:octicons-arrow-right-24: Start Day 29](../everyday/flight.md)
 
--   __Day 26 · Cab, Auto & Directions__
+-   __Day 30 · Cab, Auto & Directions__
 
     ---
 
     Booking, talking to drivers, asking the way
 
-    [:octicons-arrow-right-24: Start Day 26](../everyday/cab-and-directions.md)
+    [:octicons-arrow-right-24: Start Day 30](../everyday/cab-and-directions.md)
 
--   __Day 27 · Hotel__
+-   __Day 31 · Hotel__
 
     ---
 
     Check-in, room problems, requests and check-out
 
-    [:octicons-arrow-right-24: Start Day 27](../everyday/hotel.md)
+    [:octicons-arrow-right-24: Start Day 31](../everyday/hotel.md)
 
--   __Day 28 · Sightseeing & Tourist Places__
+-   __Day 32 · Sightseeing & Tourist Places__
 
     ---
 
     Tickets, guides, photos and asking about places
 
-    [:octicons-arrow-right-24: Start Day 28](../everyday/sightseeing.md)
+    [:octicons-arrow-right-24: Start Day 32](../everyday/sightseeing.md)
 
--   __Day 29 · Restaurant & Café__
+-   __Day 33 · Restaurant & Café__
 
     ---
 
     Tables, ordering, dietary needs, complaints and the bill
 
-    [:octicons-arrow-right-24: Start Day 29](../everyday/restaurant.md)
+    [:octicons-arrow-right-24: Start Day 33](../everyday/restaurant.md)
 
--   __Day 30 · Food Delivery & Takeaway__
+-   __Day 34 · Food Delivery & Takeaway__
 
     ---
 
     Ordering by phone, delivery issues and refunds
 
-    [:octicons-arrow-right-24: Start Day 30](../everyday/food-delivery.md)
+    [:octicons-arrow-right-24: Start Day 34](../everyday/food-delivery.md)
 
--   __Day 31 · Grocery & Vegetable Market__
+-   __Day 35 · Grocery & Vegetable Market__
 
     ---
 
     Supermarket, kirana, sabzi market, weights and prices
 
-    [:octicons-arrow-right-24: Start Day 31](../everyday/grocery-shopping.md)
+    [:octicons-arrow-right-24: Start Day 35](../everyday/grocery-shopping.md)
 
--   __Day 32 · Shopping & Returns__
+-   __Day 36 · Shopping & Returns__
 
     ---
 
     Clothes, electronics, trial rooms, bargaining and returns
 
-    [:octicons-arrow-right-24: Start Day 32](../everyday/shopping.md)
+    [:octicons-arrow-right-24: Start Day 36](../everyday/shopping.md)
 
--   __Day 33 · Bank & Money__
+-   __Day 37 · Bank & Money__
 
     ---
 
     Accounts, cards, disputes, loans and transfers
 
-    [:octicons-arrow-right-24: Start Day 33](../everyday/bank-and-shopping.md)
+    [:octicons-arrow-right-24: Start Day 37](../everyday/bank-and-shopping.md)
 
--   __Day 34 · Bank Locker__
+-   __Day 38 · Bank Locker__
 
     ---
 
     Applying, rent and rules, joint holders, lost keys
 
-    [:octicons-arrow-right-24: Start Day 34](../everyday/bank-locker.md)
+    [:octicons-arrow-right-24: Start Day 38](../everyday/bank-locker.md)
 
--   __Day 35 · Insurance__
+-   __Day 39 · Insurance__
 
     ---
 
     Health, life, motor and travel cover, claims and follow-ups
 
-    [:octicons-arrow-right-24: Start Day 35](../everyday/insurance.md)
+    [:octicons-arrow-right-24: Start Day 39](../everyday/insurance.md)
 
--   __Day 36 · Post Office & Courier__
+-   __Day 40 · Post Office & Courier__
 
     ---
 
     Sending parcels, tracking and missing deliveries
 
-    [:octicons-arrow-right-24: Start Day 36](../everyday/post-and-courier.md)
+    [:octicons-arrow-right-24: Start Day 40](../everyday/post-and-courier.md)
 
--   __Day 37 · Hospital__
+-   __Day 41 · Hospital__
 
     ---
 
     Registration, emergency, admission, visiting and billing
 
-    [:octicons-arrow-right-24: Start Day 37](../everyday/hospital.md)
+    [:octicons-arrow-right-24: Start Day 41](../everyday/hospital.md)
 
--   __Day 38 · Doctor & Pharmacy__
+-   __Day 42 · Doctor & Pharmacy__
 
     ---
 
     Describing symptoms, questions to ask, medicines
 
-    [:octicons-arrow-right-24: Start Day 38](../everyday/doctor-and-pharmacy.md)
+    [:octicons-arrow-right-24: Start Day 42](../everyday/doctor-and-pharmacy.md)
 
--   __Day 39 · Dentist & Eye Clinic__
+-   __Day 43 · Dentist & Eye Clinic__
 
     ---
 
     Toothache, cleaning, eye tests and glasses
 
-    [:octicons-arrow-right-24: Start Day 39](../everyday/dentist-and-eye-clinic.md)
+    [:octicons-arrow-right-24: Start Day 43](../everyday/dentist-and-eye-clinic.md)
 
--   __Day 40 · Gym__
+-   __Day 44 · Gym__
 
     ---
 
     Joining, trainers, equipment, routines and gym etiquette
 
-    [:octicons-arrow-right-24: Start Day 40](../everyday/gym.md)
+    [:octicons-arrow-right-24: Start Day 44](../everyday/gym.md)
 
--   __Day 41 · Yoga Class__
+-   __Day 45 · Yoga Class__
 
     ---
 
     Joining a class, following instructions, injuries and breathing
 
-    [:octicons-arrow-right-24: Start Day 41](../everyday/yoga.md)
+    [:octicons-arrow-right-24: Start Day 45](../everyday/yoga.md)
 
--   __Day 42 · Sports & Games__
+-   __Day 46 · Sports & Games__
 
     ---
 
     Joining a game, booking courts, team talk and cricket chat
 
-    [:octicons-arrow-right-24: Start Day 42](../everyday/sports.md)
+    [:octicons-arrow-right-24: Start Day 46](../everyday/sports.md)
 
--   __Day 43 · Renting a Home__
+-   __Day 47 · Renting a Home__
 
     ---
 
     House hunting, the landlord, rent, deposit and agreements
 
-    [:octicons-arrow-right-24: Start Day 43](../everyday/renting-a-home.md)
+    [:octicons-arrow-right-24: Start Day 47](../everyday/renting-a-home.md)
 
--   __Day 44 · Neighbours & Society__
+-   __Day 48 · Moving House__
+
+    ---
+
+    Packers and movers, quotes, damage claims and settling in
+
+    [:octicons-arrow-right-24: Start Day 48](../everyday/moving-house.md)
+
+-   __Day 49 · Neighbours & Society__
 
     ---
 
     Meeting neighbours, complaints, society meetings
 
-    [:octicons-arrow-right-24: Start Day 44](../everyday/neighbours-and-society.md)
+    [:octicons-arrow-right-24: Start Day 49](../everyday/neighbours-and-society.md)
 
--   __Day 45 · Home Repairs & Services__
+-   __Day 50 · Home Repairs & Services__
 
     ---
 
     Plumber, electrician, AC repair, house help
 
-    [:octicons-arrow-right-24: Start Day 45](../everyday/home-services.md)
+    [:octicons-arrow-right-24: Start Day 50](../everyday/home-services.md)
 
--   __Day 46 · Salon & Barber__
+-   __Day 51 · Salon & Barber__
 
     ---
 
     Haircut, beard, styles and salon services
 
-    [:octicons-arrow-right-24: Start Day 46](../everyday/salon.md)
+    [:octicons-arrow-right-24: Start Day 51](../everyday/salon.md)
 
--   __Day 47 · Customer Care & Complaints__
+-   __Day 52 · Customer Care & Complaints__
 
     ---
 
     Mobile, internet, app and service complaints
 
-    [:octicons-arrow-right-24: Start Day 47](../everyday/customer-care.md)
+    [:octicons-arrow-right-24: Start Day 52](../everyday/customer-care.md)
 
--   __Day 48 · Government Office__
+-   __Day 53 · Government Office__
 
     ---
 
     Passport, ID cards, licences and forms
 
-    [:octicons-arrow-right-24: Start Day 48](../everyday/government-office.md)
+    [:octicons-arrow-right-24: Start Day 53](../everyday/government-office.md)
 
--   __Day 49 · Police & Emergencies__
+-   __Day 54 · Police & Emergencies__
 
     ---
 
     Reporting theft, accidents, emergencies and FIRs
 
-    [:octicons-arrow-right-24: Start Day 49](../everyday/police-and-emergency.md)
+    [:octicons-arrow-right-24: Start Day 54](../everyday/police-and-emergency.md)
 
--   __Day 50 · School & Parent-Teacher Meeting__
+-   __Day 55 · School & Parent-Teacher Meeting__
 
     ---
 
     Admissions, teachers and your child's progress
 
-    [:octicons-arrow-right-24: Start Day 50](../everyday/school.md)
+    [:octicons-arrow-right-24: Start Day 55](../everyday/school.md)
 
--   __Day 51 · Invitations & Celebrations__
+-   __Day 56 · Invitations & Celebrations__
 
     ---
 
     Inviting, accepting, wishes, weddings and birthdays
 
-    [:octicons-arrow-right-24: Start Day 51](../everyday/celebrations.md)
+    [:octicons-arrow-right-24: Start Day 56](../everyday/celebrations.md)
 
--   __Day 52 · Movies & Weekend Plans__
+-   __Day 57 · Movies & Weekend Plans__
 
     ---
 
     Making plans, booking tickets, talking about films
 
-    [:octicons-arrow-right-24: Start Day 52](../everyday/movies-and-weekends.md)
+    [:octicons-arrow-right-24: Start Day 57](../everyday/movies-and-weekends.md)
 
--   __Day 53 · Petrol Pump & Vehicle Service__
+-   __Day 58 · Petrol Pump & Vehicle Service__
 
     ---
 
     Fuel, tyres, service centre and breakdowns
 
-    [:octicons-arrow-right-24: Start Day 53](../everyday/vehicle.md)
+    [:octicons-arrow-right-24: Start Day 58](../everyday/vehicle.md)
 
 </div>

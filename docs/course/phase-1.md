@@ -102,12 +102,28 @@
 
     [:octicons-arrow-right-24: Start Day 12](../english/12-describing.md)
 
--   __Day 13 · Common Mistakes & Fixes__
+-   __Day 13 · Phrasal Verbs & Idioms__
+
+    ---
+
+    Follow up, sort out, on the same page: words you hear every day
+
+    [:octicons-arrow-right-24: Start Day 13](../english/phrasal-verbs-and-idioms.md)
+
+-   __Day 14 · Pronunciation & Accent__
+
+    ---
+
+    Word stress, tricky sounds and being clearly understood
+
+    [:octicons-arrow-right-24: Start Day 14](../english/pronunciation.md)
+
+-   __Day 15 · Common Mistakes & Fixes__
 
     ---
 
     Articles, prepositions, tenses and Indian-English habits
 
-    [:octicons-arrow-right-24: Start Day 13](../english/13-common-mistakes.md)
+    [:octicons-arrow-right-24: Start Day 15](../english/13-common-mistakes.md)
 
 </div>
