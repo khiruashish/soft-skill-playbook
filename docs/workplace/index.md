@@ -103,4 +103,20 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](salary-negotiation.md)
 
+-   :material-chart-line:{ .lg .middle } __Performance Review__
+
+    ---
+
+    Wins file, self-assessment, the review meeting, disagreeing with a rating.
+
+    [:octicons-arrow-right-24: Open](performance-review.md)
+
+-   :material-account-supervisor-circle:{ .lg .middle } __Team Lead Meetings__
+
+    ---
+
+    Meeting your lead, or running 1:1s, stand-ups, planning and retros as one.
+
+    [:octicons-arrow-right-24: Open](team-lead-meetings.md)
+
 </div>

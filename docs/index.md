@@ -111,6 +111,22 @@ you have to speak up.
 
     [:octicons-arrow-right-24: Open](workplace/day-to-day.md)
 
+-   :material-chart-line:{ .lg .middle } __Performance review__
+
+    ---
+
+    Write a strong self-review, handle the review meeting, and plan for the next level.
+
+    [:octicons-arrow-right-24: Open](workplace/performance-review.md)
+
+-   :material-account-supervisor-circle:{ .lg .middle } __Team lead meetings__
+
+    ---
+
+    Get the most from your lead, or run 1:1s, stand-ups and retros that people find useful.
+
+    [:octicons-arrow-right-24: Open](workplace/team-lead-meetings.md)
+
 -   :material-briefcase-account:{ .lg .middle } __Client meetings__
 
     ---
