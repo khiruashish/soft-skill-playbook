@@ -7,11 +7,12 @@ built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and a
 
 ## Deployment
 
-Every push to `main` builds the site with `mkdocs build --strict` and publishes it to GitHub Pages
-(`.github/workflows/deploy.yml`). You can also run it manually from the **Actions** tab
-(*Deploy to GitHub Pages → Run workflow*).
+Every push to `main` builds the site with `mkdocs gh-deploy --strict` and pushes the result to the
+`gh-pages` branch (`.github/workflows/deploy.yml`). You can also run it manually from the **Actions**
+tab (*Deploy to GitHub Pages → Run workflow*).
 
-One-time setup: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+One-time setup: **Settings → Pages → Build and deployment → Source: Deploy from a branch →
+`gh-pages` / `(root)`**.
 
 ## Run locally
 
