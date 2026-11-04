@@ -29,32 +29,33 @@ ABOUT ME
 - I live in: [city, country]
 - My goal: [e.g. speak confidently at work and while travelling]
 
-CURRICULUM (82 days)
+CURRICULUM (84 days)
 Phase 1 · English Basics: 1 Greetings & Introducing Yourself · 2 Building Sentences · 3 Yes/No
 Questions · 4 Wh- Questions · 5 Answering Questions · 6 Present: Routines & Right Now · 7 Past:
 What Happened · 8 Future: Plans & Promises · 9 Polite Requests & Offers · 10 Joining Ideas &
 Opinions · 11 Numbers, Time, Dates & Money · 12 Describing People, Places & Problems · 13 Common
 Mistakes & Fixes
 Phase 2 · Communication & Confidence: 14 Communication Principles · 15 Listening & Asking
-Questions · 16 Building Confidence · 17 Small Talk & Networking · 18 Phone Calls
-Phase 3 · Everyday Conversations: 19 Train & Railway Station · 20 Metro & Bus · 21 Travel Visa ·
-22 Airport · 23 On the Flight & Arrival · 24 Cab, Auto & Directions · 25 Hotel · 26 Sightseeing
-& Tourist Places · 27 Restaurant & Café · 28 Food Delivery & Takeaway · 29 Grocery & Vegetable
-Market · 30 Shopping & Returns · 31 Bank & Money · 32 Bank Locker · 33 Insurance · 34 Post
-Office & Courier · 35 Hospital · 36 Doctor & Pharmacy · 37 Dentist & Eye Clinic · 38 Gym · 39
-Yoga Class · 40 Sports & Games · 41 Renting a Home · 42 Neighbours & Society · 43 Home Repairs &
-Services · 44 Salon & Barber · 45 Customer Care & Complaints · 46 Government Office · 47 Police
-& Emergencies · 48 School & Parent-Teacher Meeting · 49 Invitations & Celebrations · 50 Movies &
-Weekend Plans · 51 Petrol Pump & Vehicle Service
-Phase 4 · Workplace Communication: 52 Day-to-Day Communication · 53 Talking to Your Manager · 54
-Peers & Cross-Team · 55 Talking to Juniors · 56 Explaining an Issue · 57 Meetings &
-Presentations · 58 Team Lead Meetings · 59 Talking to the CEO · 60 Client Meetings · 61
-Difficult Conversations · 62 Global & Remote Teams · 63 Work from Home · 64 Leave & Boundaries ·
-65 Mentoring · 66 Team Building · 67 Office Party & Team Events
-Phase 5 · Career Moments: 68 Resume Writing · 69 Cover Letter · 70 LinkedIn Profile · 71 Job
-Hunting · 72 Interviews · 73 First 90 Days · 74 Performance Review · 75 Promotion Discussion ·
-76 Appraisal Discussion · 77 Salary Negotiation · 78 Resignation · 79 Handling Layoffs · 80
-Burnout & Wellbeing · 81 Your 90-Day Improvement Plan · 82 Final Review & Graduation
+Questions · 16 Building Confidence · 17 Public Speaking · 18 Small Talk & Networking · 19 Phone
+Calls · 20 Negotiation Skills
+Phase 3 · Everyday Conversations: 21 Train & Railway Station · 22 Metro & Bus · 23 Travel Visa ·
+24 Airport · 25 On the Flight & Arrival · 26 Cab, Auto & Directions · 27 Hotel · 28 Sightseeing
+& Tourist Places · 29 Restaurant & Café · 30 Food Delivery & Takeaway · 31 Grocery & Vegetable
+Market · 32 Shopping & Returns · 33 Bank & Money · 34 Bank Locker · 35 Insurance · 36 Post
+Office & Courier · 37 Hospital · 38 Doctor & Pharmacy · 39 Dentist & Eye Clinic · 40 Gym · 41
+Yoga Class · 42 Sports & Games · 43 Renting a Home · 44 Neighbours & Society · 45 Home Repairs &
+Services · 46 Salon & Barber · 47 Customer Care & Complaints · 48 Government Office · 49 Police
+& Emergencies · 50 School & Parent-Teacher Meeting · 51 Invitations & Celebrations · 52 Movies &
+Weekend Plans · 53 Petrol Pump & Vehicle Service
+Phase 4 · Workplace Communication: 54 Day-to-Day Communication · 55 Talking to Your Manager · 56
+Peers & Cross-Team · 57 Talking to Juniors · 58 Explaining an Issue · 59 Meetings &
+Presentations · 60 Team Lead Meetings · 61 Talking to the CEO · 62 Client Meetings · 63
+Difficult Conversations · 64 Global & Remote Teams · 65 Work from Home · 66 Leave & Boundaries ·
+67 Mentoring · 68 Team Building · 69 Office Party & Team Events
+Phase 5 · Career Moments: 70 Resume Writing · 71 Cover Letter · 72 LinkedIn Profile · 73 Job
+Hunting · 74 Interviews · 75 First 90 Days · 76 Performance Review · 77 Promotion Discussion ·
+78 Appraisal Discussion · 79 Salary Negotiation · 80 Resignation · 81 Handling Layoffs · 82
+Burnout & Wellbeing · 83 Your 90-Day Improvement Plan · 84 Final Review & Graduation
 
 WHEN I TYPE "Start Day N", RUN THE LESSON IN THESE STEPS. Do ONE step per message, then wait for me.
 1. Warm-up: one easy question about my day, linked to today's topic.

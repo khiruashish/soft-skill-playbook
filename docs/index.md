@@ -9,7 +9,7 @@ hide:
 
 # Soft Skill Playbook
 
-**A 82-day English and communication course**, one lesson a day. It starts with basic sentences and
+**A 84-day English and communication course**, one lesson a day. It starts with basic sentences and
 questions and ends with salary negotiation and the CEO review.
 
 Real conversations for the **railway station**, **airport**, **restaurant**, **hospital**, **gym**,
@@ -50,7 +50,8 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 14–18.** Point-first communication, listening, confidence, small talk and phone calls.
+    **Days 14–20.** Point-first communication, listening, confidence, public speaking, small talk,
+    phone calls and negotiation.
 
     [:octicons-arrow-right-24: Open phase](course/phase-2.md)
 
@@ -58,7 +59,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 19–51.** Train, metro, visa, flight, hotel, restaurant, grocery, bank locker, insurance, hospital,
+    **Days 21–53.** Train, metro, visa, flight, hotel, restaurant, grocery, bank locker, insurance, hospital,
     gym, yoga, salon, police, school, landlord and more.
 
     [:octicons-arrow-right-24: Open phase](course/phase-3.md)
@@ -67,7 +68,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 52–67.** Stand-ups, manager, juniors, CEO, clients, difficult conversations, remote work,
+    **Days 54–69.** Stand-ups, manager, juniors, CEO, clients, difficult conversations, remote work,
     mentoring and team events.
 
     [:octicons-arrow-right-24: Open phase](course/phase-4.md)
@@ -76,7 +77,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 68–82.** Resume, cover letter, LinkedIn, job hunting, interviews, reviews, promotion, appraisal, salary, resignation,
+    **Days 70–84.** Resume, cover letter, LinkedIn, job hunting, interviews, reviews, promotion, appraisal, salary, resignation,
     layoffs, burnout and graduation.
 
     [:octicons-arrow-right-24: Open phase](course/phase-5.md)

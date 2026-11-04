@@ -30,20 +30,36 @@
 
     [:octicons-arrow-right-24: Start Day 16](../foundations/building-confidence.md)
 
--   __Day 17 · Small Talk & Networking__
+-   __Day 17 · Public Speaking__
+
+    ---
+
+    Structure a talk, steady your voice and handle questions
+
+    [:octicons-arrow-right-24: Start Day 17](../foundations/public-speaking.md)
+
+-   __Day 18 · Small Talk & Networking__
 
     ---
 
     Start, continue and politely end any conversation
 
-    [:octicons-arrow-right-24: Start Day 17](../everyday/small-talk-networking.md)
+    [:octicons-arrow-right-24: Start Day 18](../everyday/small-talk-networking.md)
 
--   __Day 18 · Phone Calls__
+-   __Day 19 · Phone Calls__
 
     ---
 
     Prepare, open, confirm and close a call with confidence
 
-    [:octicons-arrow-right-24: Start Day 18](../everyday/phone-calls.md)
+    [:octicons-arrow-right-24: Start Day 19](../everyday/phone-calls.md)
+
+-   __Day 20 · Negotiation Skills__
+
+    ---
+
+    Prepare, trade, hold firm and close a fair deal
+
+    [:octicons-arrow-right-24: Start Day 20](../foundations/negotiation-skills.md)
 
 </div>
