@@ -103,6 +103,14 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](global-and-remote-teams.md)
 
+-   :material-home-account:{ .lg .middle } __Work from Home__
+
+    ---
+
+    Ask for WFH, stay visible, video-call etiquette, home boundaries.
+
+    [:octicons-arrow-right-24: Open](work-from-home.md)
+
 -   :material-beach:{ .lg .middle } __Leave & Boundaries__
 
     ---

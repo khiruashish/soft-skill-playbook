@@ -31,6 +31,14 @@ review, the appraisal, the salary talk, and the day you resign. Prepare for each
 
     [:octicons-arrow-right-24: Open](performance-review.md)
 
+-   :material-stairs-up:{ .lg .middle } __Promotion Discussion__
+
+    ---
+
+    Agree on criteria, build the case, find a sponsor, handle "not yet".
+
+    [:octicons-arrow-right-24: Open](promotion-discussion.md)
+
 -   :material-trending-up:{ .lg .middle } __Appraisal Discussion__
 
     ---

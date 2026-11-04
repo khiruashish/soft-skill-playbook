@@ -151,6 +151,22 @@ you have to speak up.
 
     [:octicons-arrow-right-24: Open](workplace/office-party.md)
 
+-   :material-stairs-up:{ .lg .middle } __Promotion discussion__
+
+    ---
+
+    Agree on criteria, build a promotion case, and handle "not yet" well.
+
+    [:octicons-arrow-right-24: Open](career/promotion-discussion.md)
+
+-   :material-home-account:{ .lg .middle } __Work from home__
+
+    ---
+
+    Ask for WFH, stay visible and trusted, and switch off at the end of the day.
+
+    [:octicons-arrow-right-24: Open](workplace/work-from-home.md)
+
 -   :material-trending-up:{ .lg .middle } __Appraisal discussion__
 
     ---
