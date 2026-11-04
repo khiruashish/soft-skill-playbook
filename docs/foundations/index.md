@@ -39,4 +39,13 @@ skim them, then do the self-assessment in the 90-day plan.
 
     [:octicons-arrow-right-24: Read](improving-soft-skills.md)
 
+
+-   :material-battery-heart-variant:{ .lg .middle } __Burnout & Wellbeing__
+
+    ---
+
+    Spot the warning signs, talk to your manager, recover, and support your team.
+
+    [:octicons-arrow-right-24: Read](burnout.md)
+
 </div>

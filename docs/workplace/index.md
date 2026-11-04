@@ -103,6 +103,14 @@ and notes for **beginners** and **experienced** engineers.
 
     [:octicons-arrow-right-24: Open](global-and-remote-teams.md)
 
+-   :material-account-switch:{ .lg .middle } __Mentoring__
+
+    ---
+
+    Find a mentor, be a great mentee, mentor others with the GROW model.
+
+    [:octicons-arrow-right-24: Open](mentoring.md)
+
 -   :material-account-heart:{ .lg .middle } __Team Building__
 
     ---

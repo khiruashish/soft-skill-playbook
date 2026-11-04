@@ -207,6 +207,22 @@ you have to speak up.
 
     [:octicons-arrow-right-24: Open](career/handling-layoffs.md)
 
+-   :material-account-switch:{ .lg .middle } __Mentoring__
+
+    ---
+
+    Find a mentor and use the time well, or mentor others by listening more and advising less.
+
+    [:octicons-arrow-right-24: Open](workplace/mentoring.md)
+
+-   :material-battery-heart-variant:{ .lg .middle } __Burnout & wellbeing__
+
+    ---
+
+    Recognise burnout, talk to your manager about it, and recover before it's too late.
+
+    [:octicons-arrow-right-24: Open](foundations/burnout.md)
+
 -   :material-airplane:{ .lg .middle } __Airport__
 
     ---

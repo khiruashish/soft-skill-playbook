@@ -22,8 +22,8 @@ mkdocs build --strict   # output in ./site
 | Section | Pages |
 |---|---|
 | Master Prompt | A reusable AI coaching prompt to practise any conversation |
-| Foundations | Communication principles, listening & questions, confidence, 90-day improvement plan |
-| Workplace | Manager, juniors, CEO, peers, team lead meetings, global & remote teams, team building, work from home, leave & boundaries, explaining issues, day-to-day, meetings, difficult conversations, client meetings, office party |
+| Foundations | Communication principles, listening & questions, confidence, 90-day improvement plan, burnout & wellbeing |
+| Workplace | Manager, juniors, CEO, peers, team lead meetings, global & remote teams, mentoring, team building, work from home, leave & boundaries, explaining issues, day-to-day, meetings, difficult conversations, client meetings, office party |
 | Career | Interviews, first 90 days, performance review, promotion discussion, appraisal discussion, salary negotiation, resignation, handling layoffs |
 | Everyday Life | Airport, train, hotel, restaurant, cab, doctor, bank & shopping, phone calls, small talk |
 | Reference | Phrase bank, daily practice checklist |
