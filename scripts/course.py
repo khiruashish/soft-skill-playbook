@@ -105,6 +105,8 @@ PHASES = [
     ("5", "5 · Career", "Phase 5 · Career Moments", "material-stairs-up",
      "The conversations that shape your career, from the interview to your next big move.",
      [
+        ("career/resume-writing.md", "Resume Writing", "A results-focused, ATS-friendly resume in 1–2 pages"),
+        ("career/cover-letter.md", "Cover Letter", "A short, specific cover letter and application email"),
         ("career/linkedin-profile.md", "LinkedIn Profile", "Headline, About, results, messages and posts that get replies"),
         ("career/job-hunting.md", "Job Hunting", "Recruiter calls, referrals, follow-ups, offers and rejections"),
         ("career/interviews.md", "Interviews", "Introduce yourself, STAR answers, questions to ask"),

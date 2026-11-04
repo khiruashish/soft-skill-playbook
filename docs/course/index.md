@@ -1,7 +1,7 @@
 # Course Roadmap
 
 <div class="ssp-banner" markdown>
-**80 days, five phases, about 20–30 minutes a day.** Do one lesson a day, in order. Each
+**82 days, five phases, about 20–30 minutes a day.** Do one lesson a day, in order. Each
 lesson has a goal, the key language, a real conversation, and a practice task. Tick off each day
 as you finish it; your browser remembers your progress.
 </div>
@@ -62,7 +62,7 @@ as you finish it; your browser remembers your progress.
 
     ---
 
-    **Days 68–80.** The conversations that shape your career, from the interview to your next big move.
+    **Days 68–82.** The conversations that shape your career, from the interview to your next big move.
 
     [:octicons-arrow-right-24: Open phase](phase-5.md)
 
@@ -161,16 +161,18 @@ as you finish it; your browser remembers your progress.
 
 | Day | Lesson | What you'll learn | Done |
 |---|---|---|---|
-| **68** | [LinkedIn Profile](../career/linkedin-profile.md) | Headline, About, results, messages and posts that get replies | <input type="checkbox" class="ssp-done" data-day="career/linkedin-profile" aria-label="Day 68 done"> |
-| **69** | [Job Hunting](../career/job-hunting.md) | Recruiter calls, referrals, follow-ups, offers and rejections | <input type="checkbox" class="ssp-done" data-day="career/job-hunting" aria-label="Day 69 done"> |
-| **70** | [Interviews](../career/interviews.md) | Introduce yourself, STAR answers, questions to ask | <input type="checkbox" class="ssp-done" data-day="career/interviews" aria-label="Day 70 done"> |
-| **71** | [First 90 Days](../career/first-90-days.md) | Introductions, questions and your first win | <input type="checkbox" class="ssp-done" data-day="career/first-90-days" aria-label="Day 71 done"> |
-| **72** | [Performance Review](../career/performance-review.md) | Wins file, self-review and the review meeting | <input type="checkbox" class="ssp-done" data-day="career/performance-review" aria-label="Day 72 done"> |
-| **73** | [Promotion Discussion](../career/promotion-discussion.md) | Criteria, evidence, sponsors and 'not yet' | <input type="checkbox" class="ssp-done" data-day="career/promotion-discussion" aria-label="Day 73 done"> |
-| **74** | [Appraisal Discussion](../career/appraisal-discussion.md) | Hike letters, low hikes and escalation | <input type="checkbox" class="ssp-done" data-day="career/appraisal-discussion" aria-label="Day 74 done"> |
-| **75** | [Salary Negotiation](../career/salary-negotiation.md) | Know your numbers and negotiate the package | <input type="checkbox" class="ssp-done" data-day="career/salary-negotiation" aria-label="Day 75 done"> |
-| **76** | [Resignation](../career/resignation.md) | Telling your manager, notice and leaving well | <input type="checkbox" class="ssp-done" data-day="career/resignation" aria-label="Day 76 done"> |
-| **77** | [Handling Layoffs](../career/handling-layoffs.md) | What to ask, what to say, and what's next | <input type="checkbox" class="ssp-done" data-day="career/handling-layoffs" aria-label="Day 77 done"> |
-| **78** | [Burnout & Wellbeing](../foundations/burnout.md) | Spot it, talk about it and recover | <input type="checkbox" class="ssp-done" data-day="foundations/burnout" aria-label="Day 78 done"> |
-| **79** | [Your 90-Day Improvement Plan](../foundations/improving-soft-skills.md) | Self-assessment and your plan after the course | <input type="checkbox" class="ssp-done" data-day="foundations/improving-soft-skills" aria-label="Day 79 done"> |
-| **80** | [Final Review & Graduation](graduation.md) | Self-test, recap and what to practise next | <input type="checkbox" class="ssp-done" data-day="course/graduation" aria-label="Day 80 done"> |
+| **68** | [Resume Writing](../career/resume-writing.md) | A results-focused, ATS-friendly resume in 1–2 pages | <input type="checkbox" class="ssp-done" data-day="career/resume-writing" aria-label="Day 68 done"> |
+| **69** | [Cover Letter](../career/cover-letter.md) | A short, specific cover letter and application email | <input type="checkbox" class="ssp-done" data-day="career/cover-letter" aria-label="Day 69 done"> |
+| **70** | [LinkedIn Profile](../career/linkedin-profile.md) | Headline, About, results, messages and posts that get replies | <input type="checkbox" class="ssp-done" data-day="career/linkedin-profile" aria-label="Day 70 done"> |
+| **71** | [Job Hunting](../career/job-hunting.md) | Recruiter calls, referrals, follow-ups, offers and rejections | <input type="checkbox" class="ssp-done" data-day="career/job-hunting" aria-label="Day 71 done"> |
+| **72** | [Interviews](../career/interviews.md) | Introduce yourself, STAR answers, questions to ask | <input type="checkbox" class="ssp-done" data-day="career/interviews" aria-label="Day 72 done"> |
+| **73** | [First 90 Days](../career/first-90-days.md) | Introductions, questions and your first win | <input type="checkbox" class="ssp-done" data-day="career/first-90-days" aria-label="Day 73 done"> |
+| **74** | [Performance Review](../career/performance-review.md) | Wins file, self-review and the review meeting | <input type="checkbox" class="ssp-done" data-day="career/performance-review" aria-label="Day 74 done"> |
+| **75** | [Promotion Discussion](../career/promotion-discussion.md) | Criteria, evidence, sponsors and 'not yet' | <input type="checkbox" class="ssp-done" data-day="career/promotion-discussion" aria-label="Day 75 done"> |
+| **76** | [Appraisal Discussion](../career/appraisal-discussion.md) | Hike letters, low hikes and escalation | <input type="checkbox" class="ssp-done" data-day="career/appraisal-discussion" aria-label="Day 76 done"> |
+| **77** | [Salary Negotiation](../career/salary-negotiation.md) | Know your numbers and negotiate the package | <input type="checkbox" class="ssp-done" data-day="career/salary-negotiation" aria-label="Day 77 done"> |
+| **78** | [Resignation](../career/resignation.md) | Telling your manager, notice and leaving well | <input type="checkbox" class="ssp-done" data-day="career/resignation" aria-label="Day 78 done"> |
+| **79** | [Handling Layoffs](../career/handling-layoffs.md) | What to ask, what to say, and what's next | <input type="checkbox" class="ssp-done" data-day="career/handling-layoffs" aria-label="Day 79 done"> |
+| **80** | [Burnout & Wellbeing](../foundations/burnout.md) | Spot it, talk about it and recover | <input type="checkbox" class="ssp-done" data-day="foundations/burnout" aria-label="Day 80 done"> |
+| **81** | [Your 90-Day Improvement Plan](../foundations/improving-soft-skills.md) | Self-assessment and your plan after the course | <input type="checkbox" class="ssp-done" data-day="foundations/improving-soft-skills" aria-label="Day 81 done"> |
+| **82** | [Final Review & Graduation](graduation.md) | Self-test, recap and what to practise next | <input type="checkbox" class="ssp-done" data-day="course/graduation" aria-label="Day 82 done"> |

@@ -9,7 +9,7 @@ without being pushy, and handle offers, rejections and notice periods profession
 
 <div class="ssp-stack">
 <div>1. Target <span>— 2–3 role types, preferred companies, salary range, location</span></div>
-<div>2. Prepare <span>— CV, LinkedIn, 6–8 STAR stories, a portfolio or GitHub</span></div>
+<div>2. Prepare <span>— resume, cover letter, LinkedIn, 6–8 STAR stories, a portfolio or GitHub</span></div>
 <div>3. Reach out <span>— referrals first, then recruiters, then job portals</span></div>
 <div>4. Interview <span>— screening, technical, managerial, HR</span></div>
 <div>5. Decide <span>— compare offers, negotiate, accept, resign well</span></div>
