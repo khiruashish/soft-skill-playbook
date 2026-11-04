@@ -167,3 +167,16 @@ Ashish
     - Bring **options with trade-offs**, not just status.
     - Build the relationship beyond projects: ask about their goals, their pressures, their boss.
     - Protect your team from scope creep, politely and firmly.
+
+## Practice conversation: Telling a client about a delay
+
+```dialogue
+Client: So, are we still on track for the 15th?
+You: I want to be transparent: the payment integration will be one week late, on the 22nd. The bank changed their API last week.
+Client: That's disappointing. Our marketing launch is on the 15th.
+You: I understand. Everything else is on track. We can go live on the 15th with cash on delivery and UPI, and add cards on the 22nd.
+Client: Would that work for customers?
+You: Yes. About 80% of your orders are UPI or cash today.
+Client: Okay, let's do that. Please send me the updated plan.
+You: I'll send it today, by 6 pm.
+```

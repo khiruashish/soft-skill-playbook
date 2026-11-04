@@ -9,248 +9,120 @@ hide:
 
 # Soft Skill Playbook
 
-Written for software developers: the fresher on day one, and the engineer with 15 years who still dreads
-the CEO review.
+**A 75-day English and communication course**, one lesson a day. It starts with basic sentences and
+questions and ends with salary negotiation and the CEO review.
 
-How to talk to your **manager**, your **juniors** and your **CEO**. How to **explain an issue** and get
-through the **day-to-day**. What to say at the **airport**, on the **train**, and in the other places where
-you have to speak up.
+Real conversations for the **railway station**, **airport**, **restaurant**, **hospital**, **gym**,
+**yoga class** and 25 more everyday places, then your **manager**, **juniors**, **clients** and **CEO**.
 
-[Start with the Master Prompt](master-prompt.md){ .md-button .md-button--primary }
-[Build Confidence](foundations/building-confidence.md){ .md-button }
+[Start Day 1](english/01-introductions.md){ .md-button .md-button--primary }
+[Course Roadmap](course/index.md){ .md-button }
 
 </div>
 <div class="ssp-scene" aria-hidden="true"><div class="ssp-cube">
-<span>Listen</span><span>Speak</span><span>Explain</span><span>Ask</span><span>Confidence</span><span>Trust</span>
+<span>Listen</span><span>Speak</span><span>Ask</span><span>Answer</span><span>Confidence</span><span>Trust</span>
 </div></div>
 </div>
 
-## Pick your path
+## The course
 
 <div class="grid cards" markdown>
 
--   :material-sprout:{ .lg .middle } __Beginner (0–3 yrs)__
+-   :material-robot-happy:{ .lg .middle } __Start here: Master Prompts__
 
     ---
 
-    You know the code but freeze in meetings. Start here: the principles, ready-made scripts, and
-    10-minute daily drills.
+    Copy the course tutor prompt into any AI assistant and type `Start Day 1`. It teaches, role-plays,
+    quizzes and corrects you every day.
 
-    [:octicons-arrow-right-24: Foundations](foundations/index.md)
+    [:octicons-arrow-right-24: Get the prompts](master-prompt.md)
 
--   :material-trending-up:{ .lg .middle } __Mid-level (3–8 yrs)__
-
-    ---
-
-    You need influence: pushing back on scope, mentoring, explaining trade-offs to people who aren't
-    engineers.
-
-    [:octicons-arrow-right-24: Workplace](workplace/index.md)
-
--   :material-crown:{ .lg .middle } __Senior / Lead (8+ yrs)__
+-   :material-alphabetical-variant:{ .lg .middle } __Phase 1 · English Basics__
 
     ---
 
-    Executive communication, difficult conversations, and making other people better communicators.
+    **Days 1–13.** Sentences, yes/no and wh- questions, answers, tenses, polite English, numbers and
+    common mistakes.
 
-    [:octicons-arrow-right-24: Talking to the CEO](workplace/talking-to-ceo.md)
+    [:octicons-arrow-right-24: Open phase](course/phase-1.md)
 
--   :material-robot-happy:{ .lg .middle } __Practise with AI__
+-   :material-account-voice:{ .lg .middle } __Phase 2 · Communication__
 
     ---
 
-    A master prompt that turns any AI assistant into a role-play partner and feedback coach.
+    **Days 14–18.** Point-first communication, listening, confidence, small talk and phone calls.
 
-    [:octicons-arrow-right-24: Master Prompt](master-prompt.md)
+    [:octicons-arrow-right-24: Open phase](course/phase-2.md)
+
+-   :material-earth:{ .lg .middle } __Phase 3 · Everyday Life__
+
+    ---
+
+    **Days 19–48.** Train, metro, flight, hotel, restaurant, grocery, hospital, gym, yoga, salon, bank,
+    police, school, landlord and more.
+
+    [:octicons-arrow-right-24: Open phase](course/phase-3.md)
+
+-   :material-briefcase:{ .lg .middle } __Phase 4 · Workplace__
+
+    ---
+
+    **Days 49–64.** Stand-ups, manager, juniors, CEO, clients, difficult conversations, remote work,
+    mentoring and team events.
+
+    [:octicons-arrow-right-24: Open phase](course/phase-4.md)
+
+-   :material-stairs-up:{ .lg .middle } __Phase 5 · Career__
+
+    ---
+
+    **Days 65–75.** Interviews, reviews, promotion, appraisal, salary, resignation, layoffs, burnout and
+    graduation.
+
+    [:octicons-arrow-right-24: Open phase](course/phase-5.md)
 
 </div>
 
-## What's inside
+## How each day works
+
+<div class="ssp-stack">
+<div>1. Learn <span>— key words, the sentence or question pattern, examples (10 min)</span></div>
+<div>2. Read aloud <span>— play both roles in the conversations (5 min)</span></div>
+<div>3. Practise <span>— exercises with answers you can check (5 min)</span></div>
+<div>4. Role-play <span>— run the same day with the AI tutor (10 min)</span></div>
+<div>5. Use it <span>— say one new sentence in real life today, then tick Done</span></div>
+</div>
+
+## Where should I start?
 
 <div class="grid cards" markdown>
 
--   :material-account-tie:{ .lg .middle } __Talk to your manager__
+-   :material-sprout:{ .lg .middle } __New to speaking English__
 
     ---
 
-    1:1s, status updates, asking for help, raising a risk early, negotiating deadlines, asking for a raise.
+    Start at **Day 1** and go in order. Don't skip Phase 1, because everything after it builds on it.
 
-    [:octicons-arrow-right-24: Open](workplace/talking-to-manager.md)
+    [:octicons-arrow-right-24: Day 1](english/01-introductions.md)
 
--   :material-account-school:{ .lg .middle } __Talk to juniors__
-
-    ---
-
-    Teach without talking down to people. Give code-review feedback, delegate, and help a junior grow.
-
-    [:octicons-arrow-right-24: Open](workplace/talking-to-juniors.md)
-
--   :material-office-building:{ .lg .middle } __Talk to the CEO__
+-   :material-trending-up:{ .lg .middle } __Comfortable, but not confident__
 
     ---
 
-    Bottom line first, then the business impact, then a clear decision for them to make. 30-second and
-    2-minute versions.
+    Skim Days 1–13 and do only the exercises, then start properly at **Day 14**.
 
-    [:octicons-arrow-right-24: Open](workplace/talking-to-ceo.md)
+    [:octicons-arrow-right-24: Day 14](foundations/communication-principles.md)
 
--   :material-bug:{ .lg .middle } __Explain an issue__
-
-    ---
-
-    The SBAR & STAR frameworks, incident updates, root-cause write-ups, and explaining tech to non-tech
-    people.
-
-    [:octicons-arrow-right-24: Open](workplace/explaining-issues.md)
-
--   :material-calendar-check:{ .lg .middle } __Day-to-day__
+-   :material-crown:{ .lg .middle } __Experienced professional__
 
     ---
 
-    Stand-ups, Slack, emails, PR descriptions, estimates, saying "I don't know" well.
+    Jump to the phase you need. Workplace starts at **Day 49**, Career at **Day 65**.
 
-    [:octicons-arrow-right-24: Open](workplace/day-to-day.md)
-
--   :material-chart-line:{ .lg .middle } __Performance review__
-
-    ---
-
-    Write a strong self-review, handle the review meeting, and plan for the next level.
-
-    [:octicons-arrow-right-24: Open](career/performance-review.md)
-
--   :material-account-supervisor-circle:{ .lg .middle } __Team lead meetings__
-
-    ---
-
-    Get the most from your lead, or run 1:1s, stand-ups and retros that people find useful.
-
-    [:octicons-arrow-right-24: Open](workplace/team-lead-meetings.md)
-
--   :material-briefcase-account:{ .lg .middle } __Client meetings__
-
-    ---
-
-    Run the meeting, report delays, handle scope creep, send minutes.
-
-    [:octicons-arrow-right-24: Open](workplace/client-meeting.md)
-
--   :material-cash-multiple:{ .lg .middle } __Salary negotiation__
-
-    ---
-
-    Market research, scripts for offers and raises, negotiating the whole package.
-
-    [:octicons-arrow-right-24: Open](career/salary-negotiation.md)
-
--   :material-party-popper:{ .lg .middle } __Office party__
-
-    ---
-
-    Talking to people outside your team and to leaders, giving toasts, party etiquette.
-
-    [:octicons-arrow-right-24: Open](workplace/office-party.md)
-
--   :material-stairs-up:{ .lg .middle } __Promotion discussion__
-
-    ---
-
-    Agree on criteria, build a promotion case, and handle "not yet" well.
-
-    [:octicons-arrow-right-24: Open](career/promotion-discussion.md)
-
--   :material-home-account:{ .lg .middle } __Work from home__
-
-    ---
-
-    Ask for WFH, stay visible and trusted, and switch off at the end of the day.
-
-    [:octicons-arrow-right-24: Open](workplace/work-from-home.md)
-
--   :material-trending-up:{ .lg .middle } __Appraisal discussion__
-
-    ---
-
-    Read your hike letter properly, respond to a low hike, and escalate the right way.
-
-    [:octicons-arrow-right-24: Open](career/appraisal-discussion.md)
-
--   :material-exit-run:{ .lg .middle } __Resignation__
-
-    ---
-
-    Tell your manager, write the email, handle a counter-offer, and leave well.
-
-    [:octicons-arrow-right-24: Open](career/resignation.md)
-
--   :material-earth:{ .lg .middle } __Global & remote teams__
-
-    ---
-
-    Time zones, async writing, and communicating across cultures.
-
-    [:octicons-arrow-right-24: Open](workplace/global-and-remote-teams.md)
-
--   :material-account-heart:{ .lg .middle } __Team building__
-
-    ---
-
-    Build trust and psychological safety, with rituals and activities that people actually enjoy.
-
-    [:octicons-arrow-right-24: Open](workplace/team-building.md)
-
--   :material-lifebuoy:{ .lg .middle } __Handling layoffs__
-
-    ---
-
-    What to ask and say if you're laid off, if you stay, or if you have to deliver the news.
-
-    [:octicons-arrow-right-24: Open](career/handling-layoffs.md)
-
--   :material-account-switch:{ .lg .middle } __Mentoring__
-
-    ---
-
-    Find a mentor and use the time well, or mentor others by listening more and advising less.
-
-    [:octicons-arrow-right-24: Open](workplace/mentoring.md)
-
--   :material-battery-heart-variant:{ .lg .middle } __Burnout & wellbeing__
-
-    ---
-
-    Recognise burnout, talk to your manager about it, and recover before it's too late.
-
-    [:octicons-arrow-right-24: Open](foundations/burnout.md)
-
--   :material-airplane:{ .lg .middle } __Airport__
-
-    ---
-
-    Check-in, security, immigration, delays, lost baggage: the questions to ask and the answers to expect.
-
-    [:octicons-arrow-right-24: Open](everyday/airport.md)
-
--   :material-train:{ .lg .middle } __Train__
-
-    ---
-
-    Tickets, platforms, seats, waitlists, asking a stranger, handling a missed train.
-
-    [:octicons-arrow-right-24: Open](everyday/train.md)
-
--   :material-earth:{ .lg .middle } __Everyday life__
-
-    ---
-
-    Hotel, restaurant, cab, doctor, bank, phone calls, small talk & networking.
-
-    [:octicons-arrow-right-24: Open](everyday/index.md)
+    [:octicons-arrow-right-24: Day 49](workplace/day-to-day.md)
 
 </div>
-
-## The one-line philosophy
 
 !!! quote "Soft skills are hard skills you practise out loud."
-    Nobody is born good at this. Confident communicators have **prepared phrases**, have **practised them**,
-    and **reflect on how each conversation went**. This playbook gives you all three.
+    Confident speakers aren't born. They have **prepared phrases**, they **practise them out loud**, and
+    they **reflect** on every conversation. This course gives you all three, 20–30 minutes a day.

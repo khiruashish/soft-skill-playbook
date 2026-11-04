@@ -126,3 +126,15 @@ them those three things and they'll trust you.
     - **Manage up:** learn your manager's goals and pressures, and help them succeed.
     - Bring proposals, not just problems: "I'd like to own the reliability roadmap."
     - Give your manager feedback too: "It would help me if decisions came with the 'why'."
+
+## Practice conversation: Raising a risk early
+
+```dialogue
+You: Do you have five minutes? I want to flag a risk early.
+Manager: Sure, go ahead.
+You: The search feature may slip by a week. We need a full reindex that we didn't plan for.
+Manager: Hmm. What are our options?
+You: Option A: we release on time without fuzzy search and add it next sprint. Option B: we release the full feature a week later. I'd recommend A.
+Manager: I agree with A. Can you update the product team?
+You: Yes, I'll message them today and copy you.
+```

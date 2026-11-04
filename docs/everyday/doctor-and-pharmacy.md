@@ -53,3 +53,35 @@ Other:     no allergies; I take blood-pressure medicine (amlodipine)
 
     India: **112** (all emergencies) · **108** (ambulance in many states). Abroad: learn the local
     emergency number before you travel (e.g. 911 US, 112 EU, 999 UK).
+
+## Practice conversations
+
+### At the doctor's
+
+```dialogue
+Doctor: Good morning. What brings you here today?
+You: Good morning, doctor. I've had a sore throat and a fever for two days.
+Doctor: How high is the fever?
+You: It was 101 last night. I took a paracetamol, and it came down for a few hours.
+Doctor: Any cough or body pain?
+You: A dry cough, and some body ache.
+Doctor: Let me check your throat… It's an infection. I'll prescribe an antibiotic for five days.
+You: Should I take it before or after food?
+Doctor: After food, twice a day. Drink warm water and rest.
+You: Can I go to work?
+Doctor: Rest for two days. Come back if the fever doesn't go down by Friday.
+You: Thank you, doctor.
+```
+
+### At the pharmacy
+
+```dialogue
+You: Hi, I have a prescription for these medicines.
+Pharmacist: Let me see… We have both. Do you want the full course of the antibiotic?
+You: Yes, the full five days. Is there a generic version of the cough syrup?
+Pharmacist: Yes, it's cheaper and works the same way.
+You: Okay, I'll take that. Can I take the syrup with the antibiotic?
+Pharmacist: Yes, that's fine. Just keep two hours between the syrup and any antacid.
+You: Thank you. Could I have a bill for insurance?
+Pharmacist: Sure, here it is.
+```

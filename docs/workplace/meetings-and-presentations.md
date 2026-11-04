@@ -94,3 +94,15 @@ so is running a meeting well and giving a demo people remember.
 - Look at the camera, not the screen, when making your main point
 - Use the chat for links, not side conversations
 - Say your name before speaking in large calls: "Ashish here. Quick question."
+
+## Practice conversation: Handling a tough question in a demo
+
+```dialogue
+Director: This looks good, but what happens if the payment gateway goes down during a sale?
+You: That's a fair concern. We retry three times, and then we switch to a backup gateway automatically.
+Director: How long does the switch take?
+You: Under five seconds. Customers don't see an error.
+Director: Have you tested it?
+You: Yes, we tested it last week with fake failures. I can share the results after the meeting.
+Director: Please do.
+```

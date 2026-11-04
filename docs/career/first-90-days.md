@@ -77,3 +77,17 @@ building relationships, and delivering one visible early win.
 validator and the on-call runbook. **Here's what I've learned** about the team. **What's your
 feedback, and what should my priorities be for the next 6 months?**"
 </div>
+
+## Practice conversation: First 1:1 with your new manager
+
+```dialogue
+Manager: Welcome! How's the first week going?
+You: Really well, thanks. Everyone's been very helpful.
+Manager: Glad to hear it. What questions do you have?
+You: What would success look like for me after 30, 60 and 90 days?
+Manager: In 30 days, learn the codebase and ship a small fix. By 90 days, own the coupon service.
+You: That's clear. How do you prefer to get updates: Slack, email or 1:1s?
+Manager: Slack for quick things, and a short written update every Friday.
+You: Perfect. Who are the key people I should meet this month?
+Manager: Meena in payments and Arun in DevOps. I'll introduce you.
+```

@@ -161,3 +161,35 @@ answer exactly what's asked, and don't be shy about asking for help.
 | Duty-free | Tax-free shops after security |
 | Jet lag | Tiredness from time-zone change |
 | Red-eye | Overnight flight |
+
+## Practice conversations
+
+### Check-in with extra baggage
+
+```dialogue
+Staff: Good morning. Passport and ticket, please.
+You: Good morning. Here you are. I'm flying to Dubai.
+Staff: How many bags are you checking in?
+You: Two bags.
+Staff: Your allowance is 30 kilos. Together they're 34 kilos.
+You: Oh. Can I move some things to my cabin bag?
+Staff: Sure, you can use the side area.
+(Five minutes later)
+You: I've moved some clothes. Could you weigh them again?
+Staff: 29.5 kilos. Perfect. Window or aisle?
+You: Aisle, please. And could you add my frequent flyer number?
+Staff: Done. Boarding is at 9:10 from gate 24.
+You: Thank you!
+```
+
+### Flight delay at the gate
+
+```dialogue
+You: Excuse me, the board says the Delhi flight is delayed. Do you know the new time?
+Staff: Yes, it's now 4:30 instead of 2:45. There's a technical issue.
+You: I have a connecting flight in Delhi at 7. Will I make it?
+Staff: It will be tight. Let me check if we can protect you on the 9 pm connection.
+You: Thank you. Will my bag also be moved?
+Staff: Yes, it's checked through. Here's a meal voucher for the delay.
+You: Thanks. Could you write the new connection details on my boarding pass?
+```

@@ -112,3 +112,14 @@ Week of 3 Nov
 ⚠️ Risk: map vendor API key still pending
 🙋 Need: decision on slot-caching TTL (5 vs 15 min)
 ```
+
+## Practice conversation: Stand-up update
+
+```dialogue
+Lead: Ashish, your update?
+You: Yesterday I finished the coupon validation API, and the PR is in review. Today I'll connect it to the cart.
+Lead: Any blockers?
+You: One. I need access to the staging database. Ravi, could you help after the stand-up?
+Ravi: Sure, I'll add you in ten minutes.
+You: Thanks. That's all from me.
+```

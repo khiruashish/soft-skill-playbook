@@ -165,7 +165,7 @@ Write down 3–5 achievements **with numbers**:
     - Burn bridges if it doesn't work out: "Thank you for the offer. I'll have to decline this time,
       but I'd love to stay in touch."
 
-## Practise with AI
+## Negotiation role-play prompt
 
 ```text
 Role-play a salary negotiation. You are an HR manager at a product company. Offer me ₹48 LPA for a
@@ -175,3 +175,17 @@ my negotiation and rewrite my weakest reply.
 ```
 
 See the [Master Prompt](../master-prompt.md) for the full coaching setup.
+
+## Practice conversation: Countering an offer
+
+```dialogue
+HR: We're happy to offer you ₹48 lakh per year.
+You: Thank you, I'm really excited about this role and the team.
+HR: Great! Can we expect your acceptance this week?
+You: I'd like to discuss the base salary first. Based on my experience and the market for this level, I was expecting closer to ₹58 lakh.
+HR: That's above our band for this role.
+You: I understand. Is there any flexibility, perhaps with a joining bonus or extra ESOPs?
+HR: I could check on a joining bonus of ₹4 lakh and a review after six months.
+You: That would help. Could you also check if the base can go to ₹52 lakh? If so, I'm ready to accept this week.
+HR: Let me check and get back to you tomorrow.
+```

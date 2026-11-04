@@ -113,3 +113,15 @@ Leave handover — Ashish (15–22 Dec)
 !!! tip "Boundaries for leads"
     Your behaviour sets the norm. If you message at midnight, your team thinks they must answer at
     midnight. Use schedule-send, and **take your own leave visibly**.
+
+## Practice conversation: Asking for leave
+
+```dialogue
+You: I'd like to take leave from the 15th to the 22nd of December for a family trip.
+Manager: That's right after the release, isn't it?
+You: Yes, the release is on the 12th. Ravi has agreed to cover my on-call shift.
+Manager: What about the search work?
+You: I'll finish it before I go and write a handover note.
+Manager: Sounds good. Approved. Enjoy your trip!
+You: Thank you!
+```

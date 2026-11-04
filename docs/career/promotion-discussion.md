@@ -172,3 +172,16 @@ leads incidents, and mentors two engineers.
   they're not in.
 - Be **honest** about the gap and about timing. False hope damages trust more than "not yet".
 - Write the case **together**, and tell them the outcome **personally** before any announcement.
+
+## Practice conversation: Asking about promotion
+
+```dialogue
+You: I'd like to work towards Senior Engineer. Could you help me understand the gap?
+Manager: Sure. Your technical work is strong. The gap is ownership: driving a project end to end.
+You: Could I own the delivery-slot service, from design to launch?
+Manager: That would be a great opportunity.
+You: If I deliver that well by June and mentor one new engineer, would that make a strong case?
+Manager: Yes, I think so.
+You: Great. I'll write this down and send it to you, so we're aligned. Can we check progress monthly?
+Manager: Let's do that.
+```

@@ -62,3 +62,15 @@ or another team around. You persuade them by building a relationship and making 
 - **Help first:** review their PR or answer their question before you need something from them.
 - **Close the loop:** tell people what happened with their input ("We used your idea, and it worked").
 - **Assume good intent:** a slow reply usually means they're busy, not that they don't care.
+
+## Practice conversation: Asking another team for help
+
+```dialogue
+You: Hi Neha, I'm Ashish from the checkout team. Do you have a minute?
+Neha: Sure, what's up?
+You: We need a new stock-reservation endpoint for the flash sale on the 20th. I've drafted the API contract.
+Neha: The 20th is tight for us. We're busy with the warehouse migration.
+You: I understand. Would it help if we wrote the code and your team only reviewed it?
+Neha: That would help a lot. Send me the contract and I'll review it by Thursday.
+You: Perfect. Thank you, Neha.
+```

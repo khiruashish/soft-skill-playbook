@@ -45,7 +45,7 @@ Score each from **1 (rarely)** to **5 (always)**. Redo it every 30 days.
     **Month 3: Visibility**
 
     - [ ] Give a 5-minute demo or knowledge-share
-    - [ ] Practise one [Everyday Life](../everyday/index.md) scenario in real life each week
+    - [ ] Practise one [Everyday Life](../course/phase-3.md) scenario in real life each week
     - [ ] Ask your manager: *"What's one thing about how I communicate that I could improve?"*
 
 === ":material-trending-up: Intermediate track"
@@ -105,3 +105,16 @@ Score each from **1 (rarely)** to **5 (always)**. Redo it every 30 days.
 - Redo the self-assessment every 30 days.
 - Count: how many times did you speak up this week? How many messages did you rewrite before sending?
 - Ask for feedback each quarter: *"On a scale of 1–10, how clear are my updates? What would make them a 10?"*
+
+## Practice conversation: Asking for feedback on your communication
+
+```dialogue
+You: Could I ask for some feedback? I'm working on my communication this quarter.
+Manager: Of course.
+You: On a scale of 1 to 10, how clear are my updates in stand-ups?
+Manager: Maybe a 6. They're accurate, but sometimes too detailed.
+You: That's helpful. What would make them a 9?
+Manager: Start with the result, then only the important detail. Keep it under a minute.
+You: Okay. I'll try that for the next two weeks. Could we check again at the end of the month?
+Manager: Sure, let's do that.
+```

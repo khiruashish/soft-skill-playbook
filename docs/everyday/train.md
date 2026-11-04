@@ -90,3 +90,33 @@ ready. These phrases work in India and abroad.
 | Change at… | Get off and take another train at… |
 | Terminus | Last station of the line |
 | Fare | Ticket price |
+
+## Practice conversations
+
+### At the reservation counter
+
+```dialogue
+You: Good morning. I'd like a ticket to Chennai on the Shatabdi tomorrow, please.
+Clerk: Which class? Chair car or executive?
+You: Chair car. Is a window seat available?
+Clerk: Let me check… Yes, seat 42 in C3 is a window seat.
+You: Great. How much is it?
+Clerk: ₹1,145. Please fill in this form with your name, age and ID number.
+You: Here you go. Can I pay by card?
+Clerk: Yes. Here's your ticket. The train leaves at 6 am from platform 1.
+You: Thank you. Is there food included?
+Clerk: Yes, breakfast is included.
+```
+
+### With the TTE about a waitlisted ticket
+
+```dialogue
+TTE: Ticket, please.
+You: Here it is. It's still waitlisted, WL 3. Is there any berth available now?
+TTE: Let me check the chart… There's one side lower berth in S5 from Nagpur onwards.
+You: That would be great. Until Nagpur, can I sit here?
+TTE: Yes, you can sit here. I'll allot S5, berth 47, from Nagpur.
+You: Thank you, sir. Do I need to pay anything extra?
+TTE: No, it's the same class.
+You: Thank you so much.
+```

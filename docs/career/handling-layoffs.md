@@ -177,3 +177,18 @@ this team, and this wasn't about their work. I know this is unsettling. **Here's
 team's future**, and here's what I don't know yet. My door is open, and **we'll re-plan our
 priorities together tomorrow.**"
 </div>
+
+## Practice conversation: Questions to ask HR
+
+```dialogue
+HR: As we discussed, your role is affected by the restructuring. Your last working day is the 30th.
+You: I understand. This is a lot to take in. Could you send me all the details in writing?
+HR: Yes, you'll receive an email today.
+You: How is the severance calculated, and how long do I have to review the agreement?
+HR: It's two months' salary plus one week per year of service. You have seven days to sign.
+You: What happens to my health insurance and my unvested stock?
+HR: Insurance continues for three months. Unvested stock is cancelled.
+You: Will you provide a reference letter, and how will this be described to future employers?
+HR: Yes. It will say your role was eliminated due to restructuring.
+You: Thank you. I'll review everything and get back to you.
+```

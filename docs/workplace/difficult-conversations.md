@@ -84,3 +84,16 @@ focus on the issue and not the person, and look for what both of you want.
 | "That's not my job." | "I can't own that, but let me connect you with someone who can." |
 | "Calm down." | "I can see this matters a lot. Let's figure it out." |
 | "Whatever, fine." | "I'm not fully convinced, but I'll commit to it. Let's review in 2 weeks." |
+
+## Practice conversation: Disagreeing with a senior colleague
+
+```dialogue
+Senior: Let's skip the integration tests this sprint. We don't have time.
+You: I see why. Can I share a concern?
+Senior: Go ahead.
+You: The sale is next week. Without integration tests on checkout, we could push a bug that costs us orders.
+Senior: But the tests take two days.
+You: What if we only test the checkout path? That takes half a day.
+Senior: Okay, that's a fair compromise. Let's do checkout only.
+You: Thanks. I'll set it up today.
+```

@@ -164,3 +164,15 @@ Be specific, name the people, and celebrate **effort and learning**, not only ou
 - [ ] People help each other without being asked
 - [ ] Retro actions actually get done
 - [ ] People laugh together at least once a week
+
+## Practice conversation: Setting up a team charter
+
+```dialogue
+Lead: I'd like us to agree on how we work together. What worked well in your past teams?
+Kavya: Fast code reviews. It's frustrating waiting three days.
+Arun: Blameless post-mortems. In my last team, people hid mistakes.
+You: Clear decisions. Sometimes we discuss for weeks and nobody decides.
+Lead: Great points. So: reviews within one working day, blameless post-mortems, and the owner decides after consulting?
+You: Yes. And maybe a short "weekly wins" on Fridays?
+Lead: Love it. I'll write it up and share it today.
+```

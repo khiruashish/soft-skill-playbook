@@ -147,3 +147,15 @@ High performers are often the most at risk: you're trusted with everything, you 
 no, and part of your identity is being the person who saves the day. **Being sustainable is a senior
 skill.** A team that depends on one person working late isn't a strong team, and fixing that is part
 of your job.
+
+## Practice conversation: Telling your manager you're overloaded
+
+```dialogue
+You: Can I be honest about something? I've been working late every night for a month, and I'm exhausted.
+Manager: Thank you for telling me. I hadn't realised it was that bad.
+You: I'm worried it's affecting my work. I made two mistakes last week that I normally wouldn't.
+Manager: What would help most right now?
+You: Moving the reporting feature to next sprint, and taking me off on-call for two weeks.
+Manager: I can do both. And please take a few days off after the release.
+You: Thank you. That really helps.
+```

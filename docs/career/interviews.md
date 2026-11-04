@@ -65,3 +65,15 @@ Prepare **6–8 stories** that you can adapt:
 | Salary question (early) | "I'd like to learn more about the role first. What's the budgeted range?" |
 | "Why are you leaving?" | Stay positive: "I'm looking for bigger scale and ownership." Never criticise your current employer. |
 | "Any weaknesses?" | A real one + what you're doing about it: "I used to over-explain to executives. I now practise one-sentence summaries." |
+
+## Practice conversation: The 'Tell me about yourself' moment
+
+```dialogue
+Interviewer: Let's start. Could you tell me a little about yourself?
+You: Sure. I'm a backend engineer with nine years of experience. Right now I lead a team of five building a grocery delivery platform on Java and Kafka.
+Interviewer: What did you do before that?
+You: I spent six years in fintech, where I helped scale a payments system to two million transactions a day.
+Interviewer: And why are you interested in this role?
+You: I'd like to work on bigger distributed systems and grow into an architect role. Your platform team does exactly that.
+Interviewer: Great. Tell me about a hard technical decision you made recently.
+```

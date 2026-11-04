@@ -115,3 +115,16 @@ Use **one analogy + one number + one action**.
 - ❌ Going silent during an incident. Silence feels worse than bad news.
 - ❌ Blaming a person or team in public
 - ❌ Too much detail for the audience (see [altitude rule](../foundations/communication-principles.md#2-know-your-audience-the-altitude-rule))
+
+## Practice conversation: Explaining an outage to a non-tech manager
+
+```dialogue
+Manager: Customers say the app was slow this morning. What happened?
+You: Between 9 and 9:40, pages took six seconds to load instead of one. About 15% of users were affected.
+Manager: Why?
+You: Our cache, which is like a sticky note so we don't go to the filing cabinet every time, was cleared during an update.
+Manager: Is it fixed?
+You: Yes. We refilled the cache at 9:40, and everything is normal now.
+Manager: Will it happen again?
+You: We're adding a check so updates can't clear the cache. It'll be done by Friday.
+```

@@ -179,3 +179,16 @@ Ashish
 - Ask: "**What could we have done better?**" Listen; don't defend.
 - Plan the **handover together** and tell the team with them, in a positive way.
 - **Celebrate their exit.** Alumni can become referrals, clients, or future re-hires.
+
+## Practice conversation: Telling your manager
+
+```dialogue
+You: Thanks for making time. I wanted to tell you in person that I've decided to resign.
+Manager: Oh. That's a surprise. Can I ask why?
+You: I've accepted an offer to work on larger systems in an architect role. It's the direction I want to grow in.
+Manager: I'm sad to lose you. Is there anything that would change your mind?
+You: I really appreciate that, but I've made my decision. I've learned so much here, especially from you.
+Manager: When would your last day be?
+You: The 3rd of February, as per my notice. I'll prepare a handover plan by Friday.
+Manager: Thank you. Let's plan the transition together.
+```

@@ -177,3 +177,15 @@ retros that people find useful rather than tiring.
     - [ ] Agree on **expectations** with your manager
     - [ ] Fix **one small irritation** quickly to build trust
     - [ ] Shift from "**I** did" to "**we** did". Your success is now the team's success.
+
+## Practice conversation: Asking your team lead for a decision
+
+```dialogue
+You: I need a quick decision on pagination for the search API.
+Lead: Okay, what are the options?
+You: Offset pagination is simple but slow after page 100. Cursor pagination is fast but users can't jump to a page number.
+Lead: What do users actually do?
+You: Product data says 98% never go past page 5. So I recommend cursor.
+Lead: Makes sense. Go with cursor, and note the decision in the design doc.
+You: Will do. Thanks.
+```

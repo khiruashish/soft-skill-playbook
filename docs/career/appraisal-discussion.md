@@ -148,3 +148,17 @@ Ashish
 - **Allow emotion:** "I understand this is disappointing. Take your time."
 - **Never promise** what you can't guarantee ("Next year for sure").
 - End with a **clear growth plan** and a check-in date.
+
+## Practice conversation: Hike below expectation
+
+```dialogue
+Manager: Your hike this year is 7%.
+You: Thank you for explaining. Honestly, it's lower than I expected given my rating.
+Manager: I understand. The budget was tight this year.
+You: Market data shows I'm about 15% below the range for my role. Is there a possibility of a market correction?
+Manager: That's not something I can approve myself.
+You: Could you take it to HR? I'm happy to put the details in writing.
+Manager: Yes, send me an email and I'll forward it.
+You: Thank you. And if nothing changes now, could we agree on a review in six months?
+Manager: That's fair. I'll note it.
+```

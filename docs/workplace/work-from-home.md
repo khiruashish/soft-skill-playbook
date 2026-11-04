@@ -149,3 +149,15 @@ More scripts in [Leave & Boundaries](leave-and-boundaries.md).
 - Run meetings **remote-first**: if one person is remote, everyone joins from their laptop.
 - **Write decisions down** so remote people aren't left out of hallway conversations.
 - Watch for **silent struggle**: remote people often hide being blocked or burned out.
+
+## Practice conversation: Proposing hybrid work
+
+```dialogue
+You: I'd like to propose working from home on Mondays and Fridays.
+Manager: What's the reason?
+You: My commute is three hours a day. I'd use that time for focused work.
+Manager: My worry is that you'll miss team discussions.
+You: I understand. I'll keep core hours from 10 to 6, join every meeting on camera, and come in for planning days.
+Manager: Okay. Let's try it for two months and then review.
+You: Thank you. I'll send a short update every Friday so we can see how it's going.
+```

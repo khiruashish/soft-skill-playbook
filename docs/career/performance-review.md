@@ -235,3 +235,17 @@ work, especially the retry framework. **To grow to the next level:** I'd like to
 decisions in design reviews, not just contribute. **Let's set one goal around that** and check in
 every month. What support would help?"
 </div>
+
+## Practice conversation: Asking about a rating you disagree with
+
+```dialogue
+Manager: Your rating this year is "Meets Expectations".
+You: Thank you. I'll be honest, I expected a higher rating. Could you help me understand how it was decided?
+Manager: Your delivery was strong, but we expected more leadership in design reviews.
+You: I see. I did lead the checkout migration, which was one of the team's top goals. How was that weighed?
+Manager: It was a big factor. That's why the rating isn't lower.
+You: Okay. What would "Exceeds" look like next year, specifically?
+Manager: Leading two major designs and mentoring one engineer.
+You: That's clear. Could we write those goals down and review them every quarter?
+Manager: Absolutely.
+```

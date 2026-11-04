@@ -79,3 +79,17 @@ It shows you put in effort first, and people respect that.
 - [ ] Checking your phone or Slack mid-conversation
 - [ ] "That's nothing, once I had…" (turning their story into yours)
 - [ ] Filling every silence; give people 3 seconds to think
+
+## Practice conversation: Clarifying a vague request
+
+```dialogue
+PM: We need the report page to be faster. Users are complaining.
+You: Got it. When you say faster, which part feels slow: opening the page, or downloading the report?
+PM: Mostly opening the page. It takes ages.
+You: Roughly how long? Five seconds, ten?
+PM: Around twelve seconds for big customers.
+You: So the goal is under three seconds for opening the page, for our biggest customers. Is that right?
+PM: Exactly.
+You: And is this needed for this release, or next month?
+PM: Next month is fine.
+```

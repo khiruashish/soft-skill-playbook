@@ -110,3 +110,15 @@ Close important conversations with a recap:
 | "I'll try" | "I will" / "I can't commit to that, but I can…" |
 | "It's not my fault" | "Here's what happened and what I'm doing about it." |
 | "No problem" (after thanks) | "Happy to help." |
+
+## Practice conversation: Point first, with your manager
+
+```dialogue
+Manager: How's the payment integration going?
+You: It'll be one day late: Thursday instead of Wednesday. The bank's sandbox was down for six hours yesterday.
+Manager: Okay. Is anything else at risk?
+You: No. The rest is on track, and the tests are done.
+Manager: Do you need anything from me?
+You: Yes, could you ask the bank for a backup sandbox? Then it won't happen again.
+Manager: Sure, I'll email them today.
+```

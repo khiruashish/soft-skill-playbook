@@ -40,7 +40,7 @@ confident to *act* confident. The feeling follows the practice.
 8. **Record yourself** explaining a concept for 2 minutes. Watch it once. You'll fix 3 habits immediately.
 9. **Volunteer for small visibility:** a 5-minute demo, a stand-up summary, a lunch-and-learn.
 10. **Talk to strangers in low-stakes places:** a café, a train, an airport. It trains the same muscle
-    you use at work. See [Everyday Life](../everyday/index.md).
+    you use at work. See [Everyday Life](../course/phase-3.md).
 
 ## Body language and voice
 
@@ -78,3 +78,14 @@ decisions, or go quiet among executives. Try:
 - **Say "I was wrong" in public.** Admitting a mistake makes you look more credible, not less.
 - **Sponsor, don't just mentor:** speak juniors' names in rooms they're not in.
 - **Ask for feedback on your communication**, not just your code.
+
+## Practice conversation: Speaking up early in a meeting
+
+```dialogue
+Lead: Let's start. Any updates before we discuss the roadmap?
+You: Yes, one quick update. The search API is live in staging, and it's 40% faster.
+Lead: Great news. Any risks?
+You: One. The old mobile app version doesn't support it, so we'll need a fallback for about two weeks.
+Lead: Good point. Can you write that up?
+You: Sure, I'll share it after this meeting.
+```

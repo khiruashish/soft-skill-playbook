@@ -77,3 +77,35 @@ consumer lag. Here's the blog post I mentioned: [link]. Would love to stay in to
 ## Topics to avoid with strangers / at work
 
 Politics · religion · salary · weight/appearance · gossip about colleagues.
+
+## Practice conversations
+
+### At a tech meetup
+
+```dialogue
+You: Hi, I'm Ashish. That was a great talk on Kafka, wasn't it?
+Neha: Hi, I'm Neha. Yes! The part about consumer lag was really useful.
+You: Are you working with Kafka at the moment?
+Neha: Yes, we use it for payments at my company. What about you?
+You: Same. We use it for order events in a grocery app. How long have you been working on payments?
+Neha: About four years. Before that I was in banking.
+You: Interesting! What made you switch?
+Neha: I wanted to build products, not just maintain them.
+You: That makes sense. Would you like to connect on LinkedIn? I'd love to stay in touch.
+Neha: Sure, here's my QR code.
+You: Great. It was really nice meeting you, Neha. Enjoy the rest of the event!
+```
+
+### In the lift at the office
+
+```dialogue
+Colleague: Morning! Busy day?
+You: Morning! Yes, we have a release today. How about you?
+Colleague: Same here. Lots of meetings.
+You: Did you have a good weekend?
+Colleague: Yes, I went to Nandi Hills. The sunrise was beautiful.
+You: Nice! I've always wanted to go. Is it crowded?
+Colleague: Go early, before 5, and it's fine.
+You: Good tip. Have a good day!
+Colleague: You too!
+```

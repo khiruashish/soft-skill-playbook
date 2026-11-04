@@ -111,3 +111,15 @@ explicit, write things down, be clear about time zones, and don't assume others 
 | "Today itself" | Unusual phrasing | "Today" / "By end of today" |
 
 See the full list in the [Phrase Bank](../reference/phrase-bank.md#upgrade-your-vocabulary).
+
+## Practice conversation: Confirming across time zones
+
+```dialogue
+Mike: Can you get the fix in before our morning?
+You: Just to confirm, your morning is 9 am Eastern time, which is 7:30 pm here in India. Is that right?
+Mike: Yes, exactly.
+You: Then yes, I'll have it merged by 6 pm IST, so it's on staging before you start.
+Mike: Great. And if something goes wrong?
+You: I'll post an update in the channel by 6:30 pm IST either way, with the status and next steps.
+Mike: Perfect, thanks.
+```

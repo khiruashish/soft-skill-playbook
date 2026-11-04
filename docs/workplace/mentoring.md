@@ -150,3 +150,16 @@ Good mentors move between all of these as needed.
 - **Mentoring office hours:** a senior engineer holds an open hour every week; anyone can drop in.
 - **Book / paper club:** read one chapter or article, discuss how it applies to your work.
 - **Communities:** meetups, open source, online forums. Mentors don't have to be at your company.
+
+## Practice conversation: First conversation with a mentor
+
+```dialogue
+You: Thank you for agreeing to mentor me. I know you're busy.
+Mentor: Happy to. What would you like to get out of this?
+You: I want to grow into a senior role in the next year. I think my weak area is leading design discussions.
+Mentor: What happens in design discussions now?
+You: I usually have ideas, but I don't speak until the end, and then the decision is already made.
+Mentor: That's common. What if, in your next design review, you share your view in the first ten minutes?
+You: That's scary, but I'll try. Can we meet again in two weeks to talk about how it went?
+Mentor: Sure. Send me the date of the review.
+```

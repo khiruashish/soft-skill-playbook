@@ -111,3 +111,16 @@ you said about Kafka. Turn up, mix with people, be warm, and leave on a good not
 - **Thank people publicly** for specific work.
 - Make sure **new joiners** are included.
 - Leave a little early so the team can relax, and **settle any team bill quietly**.
+
+## Practice conversation: Meeting a senior leader at a party
+
+```dialogue
+You: Hi, I'm Ashish from the checkout team. Great event, thanks for organising it.
+VP: Hi Ashish! Glad you're enjoying it. What do you work on?
+You: The delivery-slot feature. We launched it in three new cities this year.
+VP: Oh, that was your team? That was a big win.
+You: Thank you. It was a real team effort. What's been the highlight of the year for you?
+VP: Honestly, seeing the team grow. We hired forty people this year.
+You: That's amazing. Well, I won't keep you. Enjoy the evening!
+VP: You too. Nice meeting you, Ashish.
+```

@@ -125,3 +125,15 @@ answer, translate tech into business, and make the decision easy for them.
 - Say less. **"Yes, it's on track"** is a complete answer if that's what was asked.
 - Build relationships *before* you need them: a coffee chat with a VP is worth more than a slide deck.
 - Bring the **"so what"** for the business, not just the technical "what".
+
+## Practice conversation: The 30-second update in a corridor
+
+```dialogue
+CEO: Ashish, right? How's the delivery tracking project?
+You: It launches on Monday. In testing, "where is my order" calls dropped by 25%.
+CEO: Excellent. Any risks?
+You: One: map costs may go up about 15%. We already have a cheaper backup provider ready.
+CEO: Good. Anything you need from me?
+You: No decision needed today. I'll share the launch results next Friday.
+CEO: Great work. Keep me posted.
+```

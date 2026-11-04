@@ -97,3 +97,17 @@ juniors decides whether they come to you with problems or hide them from you.
 - "What's confusing about our codebase that nobody explains?"
 - "What would you like to work on next?"
 - "How can I be a better mentor for you?"
+
+## Practice conversation: Feedback on a junior's PR
+
+```dialogue
+You: Hi Kavya, I've reviewed your PR. Have you got ten minutes?
+Kavya: Yes. Is it bad?
+You: Not at all. The logic is clean and easy to read. There are two things to fix before we merge.
+Kavya: Okay.
+You: First, there are no tests for the empty-cart case. What do you think happens if the cart is empty?
+Kavya: Oh… it might throw an error.
+You: Exactly. And second, the SQL is built with string concatenation. Can you use a parameter instead?
+Kavya: Yes, I'll fix both today.
+You: Great. Ping me when it's ready, and I'll approve it quickly.
+```
