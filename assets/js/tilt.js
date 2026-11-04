@@ -24,7 +24,8 @@
     var targets = document.querySelectorAll(
       ".md-typeset > h2, .md-typeset > .admonition, .md-typeset > details, .md-typeset > table, " +
       ".md-typeset > .tabbed-set, .md-typeset > .highlight, .md-typeset > .ssp-say, " +
-      ".md-typeset > .ssp-stack, .md-typeset > .grid, .md-typeset > .md-typeset__scrollwrap"
+      ".md-typeset > .ssp-stack, .md-typeset > .grid, .md-typeset > .md-typeset__scrollwrap, " +
+      ".md-typeset > .ssp-chat, .md-typeset > .ssp-day"
     );
     if (!("IntersectionObserver" in window)) return;
     if (observer) observer.disconnect();
@@ -42,7 +43,39 @@
     });
   }
 
+  /* ---- Course progress: ticked days are remembered in this browser only ---- */
+  var KEY = "ssp-course-done";
+  function loadDone() {
+    try { return JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { return {}; }
+  }
+  function saveDone(d) {
+    try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) { /* storage blocked: ignore */ }
+  }
+  function progress() {
+    var done = loadDone();
+    document.querySelectorAll("input.ssp-done").forEach(function (box) {
+      var day = box.getAttribute("data-day");
+      box.checked = !!done[day];
+      var card = box.closest(".ssp-day");
+      if (card) card.classList.toggle("is-done", box.checked);
+      if (box.dataset.sspBound) return;
+      box.dataset.sspBound = "1";
+      box.addEventListener("change", function () {
+        var d = loadDone();
+        if (box.checked) d[day] = 1; else delete d[day];
+        saveDone(d);
+        progress();
+      });
+    });
+    var counter = document.querySelector(".ssp-roadmap-progress");
+    if (counter) {
+      var total = document.querySelectorAll("table input.ssp-done").length;
+      counter.textContent = "Your progress: " + Object.keys(done).length + " of " + total + " days done";
+    }
+  }
+
   function init() {
+    progress();
     if (reduce) return;
     document.documentElement.classList.add("ssp-js");
     reveal();
