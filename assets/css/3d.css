@@ -1,0 +1,369 @@
+/* ===== Soft Skill Playbook — 3D layout layer ===== */
+:root {
+  --ssp-depth-1: 0 1px 2px rgba(20, 10, 50, .08), 0 2px 6px rgba(20, 10, 50, .06);
+  --ssp-depth-2: 0 6px 12px rgba(20, 10, 50, .10), 0 16px 32px rgba(20, 10, 50, .10);
+  --ssp-depth-3: 0 12px 24px rgba(20, 10, 50, .14), 0 32px 64px rgba(20, 10, 50, .16);
+  --ssp-grad: linear-gradient(135deg, #5e35b1 0%, #8e24aa 45%, #ff8f00 100%);
+  --ssp-face: rgba(94, 53, 177, .88);
+}
+[data-md-color-scheme="slate"] {
+  --ssp-depth-1: 0 1px 2px rgba(0, 0, 0, .4), 0 2px 6px rgba(0, 0, 0, .3);
+  --ssp-depth-2: 0 6px 12px rgba(0, 0, 0, .45), 0 16px 32px rgba(0, 0, 0, .35);
+  --ssp-depth-3: 0 12px 24px rgba(0, 0, 0, .5), 0 32px 64px rgba(0, 0, 0, .45);
+  --ssp-face: rgba(126, 87, 194, .85);
+}
+
+/* ---------- Hero with rotating 3D cube ---------- */
+.ssp-hero {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  padding: 2.4rem 2rem;
+  margin: 0 0 2rem;
+  border-radius: 1.2rem;
+  background: var(--ssp-grad);
+  color: #fff;
+  box-shadow: var(--ssp-depth-3);
+  transform: perspective(1200px) rotateX(2deg);
+  overflow: hidden;
+}
+.ssp-hero h1 { color: #fff; margin: 0 0 .6rem; font-weight: 800; letter-spacing: -.02em; }
+.ssp-hero p { margin: .4rem 0; font-size: .95rem; opacity: .95; }
+.ssp-hero .md-button { color: #fff; border-color: rgba(255,255,255,.8); margin: .6rem .4rem 0 0; }
+.ssp-hero .md-button--primary { background: #fff; color: #5e35b1; border-color: #fff; }
+
+.ssp-scene { width: 160px; height: 160px; perspective: 700px; margin: 0 auto; }
+.ssp-cube {
+  width: 100%; height: 100%; position: relative;
+  transform-style: preserve-3d;
+  animation: ssp-spin 18s infinite linear;
+}
+.ssp-cube span {
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: .9rem; letter-spacing: .04em; text-transform: uppercase;
+  background: var(--ssp-face);
+  border: 2px solid rgba(255,255,255,.6);
+  border-radius: .6rem;
+  color: #fff;
+  backface-visibility: visible;
+}
+.ssp-cube span:nth-child(1) { transform: rotateY(  0deg) translateZ(80px); }
+.ssp-cube span:nth-child(2) { transform: rotateY( 90deg) translateZ(80px); }
+.ssp-cube span:nth-child(3) { transform: rotateY(180deg) translateZ(80px); }
+.ssp-cube span:nth-child(4) { transform: rotateY(-90deg) translateZ(80px); }
+.ssp-cube span:nth-child(5) { transform: rotateX( 90deg) translateZ(80px); }
+.ssp-cube span:nth-child(6) { transform: rotateX(-90deg) translateZ(80px); }
+@keyframes ssp-spin {
+  from { transform: rotateX(-18deg) rotateY(0deg); }
+  to   { transform: rotateX(-18deg) rotateY(360deg); }
+}
+
+/* ---------- Page banner (top of each page) ---------- */
+.ssp-banner {
+  padding: 1.2rem 1.4rem;
+  border-radius: 1rem;
+  background: var(--ssp-grad);
+  color: #fff;
+  box-shadow: var(--ssp-depth-2);
+  transform: perspective(900px) rotateX(3deg);
+  margin-bottom: 1.6rem;
+}
+.ssp-banner p { margin: 0; font-size: .9rem; }
+.ssp-banner strong { color: #fff; }
+
+/* ---------- 3D cards (Material grid cards + tilt) ---------- */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  border: none !important;
+  border-radius: 1rem;
+  background: var(--md-default-bg-color);
+  box-shadow: var(--ssp-depth-2);
+  transform-style: preserve-3d;
+  transition: transform .25s ease, box-shadow .25s ease;
+  will-change: transform;
+  position: relative;
+}
+.md-typeset .grid.cards > ul > li::before {
+  content: "";
+  position: absolute; left: 0; top: 0; right: 0; height: 4px;
+  border-radius: 1rem 1rem 0 0;
+  background: var(--ssp-grad);
+}
+.md-typeset .grid.cards > ul > li:hover {
+  box-shadow: var(--ssp-depth-3);
+}
+.md-typeset .grid.cards > ul > li > * { transform: translateZ(24px); }
+.md-typeset .grid.cards .lg { color: #7e57c2; }
+
+/* ---------- Depth on admonitions, tables, tabs ---------- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: .8rem;
+  box-shadow: var(--ssp-depth-1);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.md-typeset .admonition:hover,
+.md-typeset details:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--ssp-depth-2);
+}
+.md-typeset table:not([class]) {
+  border-radius: .8rem;
+  overflow: hidden;
+  box-shadow: var(--ssp-depth-2);
+  border: none;
+}
+.md-typeset table:not([class]) th {
+  background: #5e35b1;
+  color: #fff;
+}
+.md-typeset .tabbed-set {
+  border-radius: .8rem;
+  box-shadow: var(--ssp-depth-1);
+  padding: 0 .8rem .4rem;
+}
+
+/* ---------- Script / dialogue blocks ---------- */
+.ssp-say {
+  border-left: 5px solid #ff8f00;
+  background: rgba(255, 143, 0, .08);
+  padding: .7rem 1rem;
+  border-radius: 0 .8rem .8rem 0;
+  margin: .8rem 0;
+  box-shadow: var(--ssp-depth-1);
+}
+.ssp-say p { margin: .2rem 0; }
+
+/* ---------- Layer stack (3D stacked steps) ---------- */
+.ssp-stack { perspective: 1000px; margin: 1.4rem 0; }
+.ssp-stack > div {
+  padding: .8rem 1.2rem;
+  margin: -.2rem 0 0;
+  border-radius: .8rem;
+  color: #fff;
+  font-weight: 600;
+  box-shadow: var(--ssp-depth-2);
+  transform: rotateX(18deg);
+  transition: transform .3s ease;
+}
+.ssp-stack > div:hover { transform: rotateX(0deg) translateZ(20px) scale(1.02); }
+.ssp-stack > div:nth-child(1) { background: #4527a0; }
+.ssp-stack > div:nth-child(2) { background: #5e35b1; }
+.ssp-stack > div:nth-child(3) { background: #7e57c2; }
+.ssp-stack > div:nth-child(4) { background: #ab47bc; }
+.ssp-stack > div:nth-child(5) { background: #ef6c00; }
+.ssp-stack > div:nth-child(6) { background: #ff8f00; }
+.ssp-stack > div span { font-weight: 400; opacity: .9; }
+
+/* ---------- Responsive + reduced motion ---------- */
+@media screen and (max-width: 60em) {
+  .ssp-hero { grid-template-columns: 1fr; text-align: center; transform: none; padding: 1.6rem 1.2rem; }
+  .ssp-scene { width: 120px; height: 120px; }
+  .ssp-cube span:nth-child(1) { transform: rotateY(  0deg) translateZ(60px); }
+  .ssp-cube span:nth-child(2) { transform: rotateY( 90deg) translateZ(60px); }
+  .ssp-cube span:nth-child(3) { transform: rotateY(180deg) translateZ(60px); }
+  .ssp-cube span:nth-child(4) { transform: rotateY(-90deg) translateZ(60px); }
+  .ssp-cube span:nth-child(5) { transform: rotateX( 90deg) translateZ(60px); }
+  .ssp-cube span:nth-child(6) { transform: rotateX(-90deg) translateZ(60px); }
+  .ssp-cube span { font-size: .7rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ssp-cube { animation: none; transform: rotateX(-18deg) rotateY(-30deg); }
+  .ssp-hero, .ssp-banner, .ssp-stack > div { transform: none !important; }
+  .md-typeset .grid.cards > ul > li,
+  .md-typeset .admonition, .md-typeset details { transition: none; }
+}
+
+/* =====================================================================
+   SITE-WIDE 3D LAYER — applies to every page automatically
+   ===================================================================== */
+
+/* ---------- 3D perspective floor behind every page ---------- */
+body::before {
+  content: "";
+  position: fixed;
+  left: -50%; right: -50%; bottom: -10vh;
+  height: 70vh;
+  background-image:
+    linear-gradient(rgba(126, 87, 194, .16) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(126, 87, 194, .16) 1px, transparent 1px);
+  background-size: 56px 56px;
+  transform: perspective(500px) rotateX(62deg);
+  transform-origin: bottom center;
+  -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,.9), transparent 85%);
+          mask-image: linear-gradient(to top, rgba(0,0,0,.9), transparent 85%);
+  pointer-events: none;
+  z-index: 0;
+}
+.md-container { position: relative; z-index: 1; }
+
+/* ---------- Header & tabs with depth ---------- */
+.md-header {
+  background: linear-gradient(120deg, #4527a0, #6a1b9a 60%, #8e24aa);
+  box-shadow: 0 4px 10px rgba(20,10,50,.25), 0 12px 30px rgba(20,10,50,.18);
+}
+.md-tabs { background: linear-gradient(120deg, #4527a0, #6a1b9a 60%, #8e24aa); }
+.md-tabs__link { transition: transform .2s ease, text-shadow .2s ease; }
+.md-tabs__link:hover,
+.md-tabs__item--active .md-tabs__link {
+  transform: translateY(-2px);
+  text-shadow: 0 3px 6px rgba(0,0,0,.35);
+}
+
+/* ---------- Main content as a raised 3D panel ---------- */
+.md-main__inner { perspective: 1600px; }
+.md-content {
+  background: var(--md-default-bg-color);
+  border-radius: 1.2rem;
+  box-shadow: var(--ssp-depth-3);
+  margin: 1.2rem .8rem 2rem;
+  transform-origin: top center;
+}
+.md-content__inner { padding-top: .4rem; }
+@media screen and (min-width: 76.25em) {
+  .md-content { animation: ssp-panel-in .7s cubic-bezier(.2,.8,.2,1) both; }
+}
+@keyframes ssp-panel-in {
+  from { opacity: 0; transform: rotateX(8deg) translateY(24px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ---------- 3D headings ---------- */
+.md-typeset h1 {
+  font-weight: 800;
+  color: #4527a0;
+  text-shadow:
+    1px 1px 0 #d1c4e9, 2px 2px 0 #b39ddb, 3px 3px 0 #9575cd,
+    4px 6px 10px rgba(69, 39, 160, .25);
+  letter-spacing: -.01em;
+}
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #d1c4e9;
+  text-shadow:
+    1px 1px 0 #5e35b1, 2px 2px 0 #4527a0, 3px 3px 0 #311b92,
+    4px 6px 12px rgba(0, 0, 0, .6);
+}
+.md-typeset h2 {
+  position: relative;
+  padding: .45rem .9rem .45rem 1.1rem;
+  border-radius: .7rem;
+  background: linear-gradient(90deg, rgba(126,87,194,.14), rgba(255,143,0,.04) 70%, transparent);
+  box-shadow: var(--ssp-depth-1);
+  transform: perspective(800px) rotateX(4deg);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.md-typeset h2::before {
+  content: "";
+  position: absolute; left: 0; top: 15%; bottom: 15%;
+  width: 5px; border-radius: 4px;
+  background: var(--ssp-grad);
+}
+.md-typeset h2:hover { transform: perspective(800px) rotateX(0) translateZ(8px); box-shadow: var(--ssp-depth-2); }
+.md-typeset h3 {
+  display: inline-block;
+  border-bottom: 3px solid transparent;
+  border-image: var(--ssp-grad) 1;
+  padding-bottom: .1rem;
+}
+
+/* ---------- Mini cube in every page banner ---------- */
+.ssp-banner { position: relative; padding-right: 5.4rem; overflow: hidden; }
+.ssp-banner::after {
+  content: "";
+  position: absolute; right: 1.6rem; top: 50%;
+  width: 2.4rem; height: 2.4rem;
+  margin-top: -1.2rem;
+  border: 2px solid rgba(255,255,255,.75);
+  border-radius: .35rem;
+  background: rgba(255,255,255,.12);
+  box-shadow: .5rem -.5rem 0 -2px rgba(255,255,255,.35), 1rem -1rem 0 -4px rgba(255,255,255,.18);
+  animation: ssp-mini-spin 7s infinite linear;
+}
+@keyframes ssp-mini-spin {
+  from { transform: perspective(300px) rotateX(25deg) rotateY(0); }
+  to   { transform: perspective(300px) rotateX(25deg) rotateY(360deg); }
+}
+
+/* ---------- Code blocks, script blocks & tabs: depth + lift ---------- */
+.md-typeset pre {
+  border-radius: .8rem;
+  box-shadow: var(--ssp-depth-2);
+  transition: transform .25s ease;
+}
+.md-typeset pre:hover { transform: perspective(900px) rotateX(2deg) translateY(-2px); }
+.md-typeset pre > code { border-radius: .8rem; }
+.ssp-say { transition: transform .25s ease, box-shadow .25s ease; }
+.ssp-say:hover { transform: perspective(800px) rotateY(-2deg) translateX(4px); box-shadow: var(--ssp-depth-2); }
+.md-typeset .tabbed-labels > label { transition: transform .2s ease; }
+.md-typeset .tabbed-labels > label:hover { transform: translateY(-2px); }
+
+/* ---------- Task lists & ordinary lists ---------- */
+.md-typeset .task-list-item { transition: transform .2s ease; }
+.md-typeset .task-list-item:hover { transform: translateX(4px); }
+
+/* ---------- Sidebars: layered navigation ---------- */
+.md-nav__link { transition: transform .2s ease, color .2s ease; }
+.md-sidebar--primary .md-nav__item .md-nav__link:hover { transform: translateX(4px); }
+.md-sidebar--primary .md-nav__link--active {
+  font-weight: 700;
+  padding: .15rem .5rem;
+  margin-left: -.5rem;
+  border-radius: .5rem;
+  background: rgba(126,87,194,.12);
+  box-shadow: var(--ssp-depth-1);
+}
+
+/* ---------- Footer prev/next as 3D buttons ---------- */
+.md-footer__link {
+  border-radius: .8rem;
+  margin: .4rem;
+  transition: transform .25s ease, background .25s ease, box-shadow .25s ease;
+}
+.md-footer__link:hover {
+  background: rgba(255,255,255,.08);
+  box-shadow: 0 10px 24px rgba(0,0,0,.35);
+  transform: perspective(600px) translateZ(14px) rotateX(4deg);
+  opacity: 1;
+}
+
+/* ---------- Scroll reveal (only when JS is active) ---------- */
+.ssp-js .ssp-reveal {
+  opacity: 0;
+  transform: perspective(900px) rotateX(14deg) translateY(28px);
+  transition: opacity .6s ease, transform .6s cubic-bezier(.2,.8,.2,1);
+}
+.ssp-js .ssp-reveal.ssp-in { opacity: 1; transform: none; }
+
+/* ---------- Banner parallax (set by JS) ---------- */
+.ssp-banner, .ssp-hero { transition: transform .3s ease; }
+
+/* ---------- Mobile + reduced motion overrides for the site-wide layer ---------- */
+@media screen and (max-width: 60em) {
+  .md-content { margin: .6rem 0 1.2rem; border-radius: .8rem; box-shadow: var(--ssp-depth-2); }
+  .md-typeset h2 { transform: none; }
+  .ssp-banner { padding-right: 4.2rem; }
+  .ssp-banner::after { right: 1rem; width: 1.8rem; height: 1.8rem; margin-top: -.9rem; }
+  body::before { display: none; }
+}
+@media print {
+  body::before, .ssp-banner::after { display: none; }
+  .md-content { box-shadow: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .md-content, .ssp-banner::after { animation: none !important; }
+  .ssp-js .ssp-reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+  .md-typeset h2, .md-typeset pre, .ssp-say, .md-footer__link,
+  .md-typeset h2:hover, .md-typeset pre:hover, .ssp-say:hover, .md-footer__link:hover { transform: none !important; }
+}
+
+/* ---------- Containment: 3D projections must never cause sideways scroll ---------- */
+.md-main, .md-content { overflow-x: clip; }
+.md-typeset h2 { padding-right: 2rem; }
+.md-typeset h2 .headerlink { position: absolute; right: .6rem; top: 50%; transform: translateY(-50%); margin: 0; }
+.md-typeset .ssp-hero h1,
+[data-md-color-scheme="slate"] .md-typeset .ssp-hero h1 {
+  color: #fff;
+  text-shadow: 1px 1px 0 #b39ddb, 2px 2px 0 #7e57c2, 3px 3px 0 #4527a0, 4px 8px 14px rgba(0,0,0,.35);
+}
