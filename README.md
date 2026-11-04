@@ -6,6 +6,7 @@ built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and a
 ## Run locally
 
 ```bash
+git clone https://github.com/khiruashish/soft-skill-playbook.git
 cd soft-skill-playbook
 pip install -r requirements.txt
 mkdocs serve        # http://127.0.0.1:8000
