@@ -44,7 +44,7 @@
   }
 
   /* ---- Course progress: ticked days are remembered in this browser only ---- */
-  var KEY = "ssp-course-done";
+  var KEY = "ssp-course-progress"; // keys are lesson paths, e.g. "everyday/gym"
   function loadDone() {
     try { return JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { return {}; }
   }
@@ -69,8 +69,9 @@
     });
     var counter = document.querySelector(".ssp-roadmap-progress");
     if (counter) {
-      var total = document.querySelectorAll("table input.ssp-done").length;
-      counter.textContent = "Your progress: " + Object.keys(done).length + " of " + total + " days done";
+      var boxes = document.querySelectorAll("table input.ssp-done");
+      var ticked = Array.prototype.filter.call(boxes, function (b) { return b.checked; }).length;
+      counter.textContent = "Your progress: " + ticked + " of " + boxes.length + " days done";
     }
   }
 

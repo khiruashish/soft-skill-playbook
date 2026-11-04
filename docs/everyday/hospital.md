@@ -2,7 +2,7 @@
 
 <div class="ssp-banner" markdown>
 **Today's goal:** handle the hospital: registration, emergency, describing symptoms, admission, visiting
-a patient, tests, insurance and billing. (For a clinic visit and medicines, see Day 33,
+a patient, tests, insurance and billing. (For a clinic visit and medicines, see
 [Doctor & Pharmacy](doctor-and-pharmacy.md).)
 </div>
 

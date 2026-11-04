@@ -9,6 +9,8 @@ It regenerates:
   * the `nav:` block in mkdocs.yml (between the course-nav markers)
   * docs/course/index.md          (the full roadmap)
   * docs/course/phase-<n>.md      (one overview page per phase)
+  * the CURRICULUM list inside the course tutor prompt (docs/master-prompt.md)
+  * the day ranges and "N-day" totals on the home page and in the README
 """
 from pathlib import Path
 
@@ -48,6 +50,7 @@ PHASES = [
      [
         ("everyday/train.md", "Train & Railway Station", "Tickets, platforms, seats, the TTE, and missed trains"),
         ("everyday/metro-and-bus.md", "Metro & Bus", "Cards, routes, stops, changes and crowded rides"),
+        ("everyday/travel-visa.md", "Travel Visa", "Visa types, documents, the visa centre and interview questions"),
         ("everyday/airport.md", "Airport", "Check-in, security, immigration, boarding and lost bags"),
         ("everyday/flight.md", "On the Flight & Arrival", "Seats, cabin crew, connections, immigration and customs"),
         ("everyday/cab-and-directions.md", "Cab, Auto & Directions", "Booking, talking to drivers, asking the way"),
@@ -58,6 +61,8 @@ PHASES = [
         ("everyday/grocery-shopping.md", "Grocery & Vegetable Market", "Supermarket, kirana, sabzi market, weights and prices"),
         ("everyday/shopping.md", "Shopping & Returns", "Clothes, electronics, trial rooms, bargaining and returns"),
         ("everyday/bank-and-shopping.md", "Bank & Money", "Accounts, cards, disputes, loans and transfers"),
+        ("everyday/bank-locker.md", "Bank Locker", "Applying, rent and rules, joint holders, lost keys"),
+        ("everyday/insurance.md", "Insurance", "Health, life, motor and travel cover, claims and follow-ups"),
         ("everyday/post-and-courier.md", "Post Office & Courier", "Sending parcels, tracking and missing deliveries"),
         ("everyday/hospital.md", "Hospital", "Registration, emergency, admission, visiting and billing"),
         ("everyday/doctor-and-pharmacy.md", "Doctor & Pharmacy", "Describing symptoms, questions to ask, medicines"),
@@ -209,7 +214,7 @@ def write_roadmap():
             if phase[0] != key:
                 continue
             out.append(f'| **{n}** | [{title}]({rel("course/index.md", f)}) | {desc} | '
-                       f'<input type="checkbox" class="ssp-done" data-day="{n}" aria-label="Day {n} done"> |')
+                       f'<input type="checkbox" class="ssp-done" data-day="{f[:-3]}" aria-label="Day {n} done"> |')
         out.append("")
     (DOCS / "course" / "index.md").write_text("\n".join(out))
 
@@ -227,7 +232,52 @@ def write_phase_pages():
         (DOCS / "course" / f"phase-{key}.md").write_text("\n".join(out))
 
 
+def phase_ranges():
+    first, out = 1, []
+    for phase in PHASES:
+        last = first + len(phase[5]) - 1
+        out.append((phase, first, last))
+        first = last + 1
+    return out
+
+
+def write_master_prompt():
+    import re, textwrap
+    lines = [f"CURRICULUM ({TOTAL} days)"]
+    n = 0
+    for phase in PHASES:
+        items = []
+        for _f, title, _d in phase[5]:
+            n += 1
+            items.append(f"{n} {title}")
+        text = f"{phase[2]}: " + " · ".join(items)
+        lines += textwrap.wrap(text, 96, break_on_hyphens=False)
+    p = DOCS / "master-prompt.md"
+    s = p.read_text()
+    s = re.sub(r"CURRICULUM \(.*?\n\n(?=WHEN I TYPE)", "\n".join(lines) + "\n\n", s, count=1, flags=re.S)
+    p.write_text(s)
+
+
+def write_totals():
+    import re
+    home = DOCS / "index.md"
+    s = home.read_text()
+    ranges = list(phase_ranges())
+    i = iter(ranges)
+    s = re.sub(r"\*\*Days \d+–\d+\.\*\*", lambda m: (lambda r: f"**Days {r[1]}–{r[2]}.**")(next(i)), s)
+    s = re.sub(r"\b\d+-day\b", f"{TOTAL}-day", s)
+    home.write_text(s)
+    readme = ROOT / "README.md"
+    r = readme.read_text()
+    r = re.sub(r"\b\d+-day\b", f"{TOTAL}-day", r)
+    for (phase, first, last) in ranges:
+        r = re.sub(rf"(\| {re.escape(phase[1])}[^|]*\| )\d+–\d+( \|)", rf"\g<1>{first}–{last}\2", r)
+    readme.write_text(r)
+
+
 if __name__ == "__main__":
+    write_master_prompt()
+    write_totals()
     write_nav()
     write_roadmap()
     write_phase_pages()

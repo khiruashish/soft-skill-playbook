@@ -9,11 +9,11 @@ hide:
 
 # Soft Skill Playbook
 
-**A 75-day English and communication course**, one lesson a day. It starts with basic sentences and
+**A 78-day English and communication course**, one lesson a day. It starts with basic sentences and
 questions and ends with salary negotiation and the CEO review.
 
 Real conversations for the **railway station**, **airport**, **restaurant**, **hospital**, **gym**,
-**yoga class** and 25 more everyday places, then your **manager**, **juniors**, **clients** and **CEO**.
+**yoga class**, **visa interview** and many more everyday situations, then your **manager**, **juniors**, **clients** and **CEO**.
 
 [Start Day 1](english/01-introductions.md){ .md-button .md-button--primary }
 [Course Roadmap](course/index.md){ .md-button }
@@ -58,8 +58,8 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 19–48.** Train, metro, flight, hotel, restaurant, grocery, hospital, gym, yoga, salon, bank,
-    police, school, landlord and more.
+    **Days 19–51.** Train, metro, visa, flight, hotel, restaurant, grocery, bank locker, insurance, hospital,
+    gym, yoga, salon, police, school, landlord and more.
 
     [:octicons-arrow-right-24: Open phase](course/phase-3.md)
 
@@ -67,7 +67,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 49–64.** Stand-ups, manager, juniors, CEO, clients, difficult conversations, remote work,
+    **Days 52–67.** Stand-ups, manager, juniors, CEO, clients, difficult conversations, remote work,
     mentoring and team events.
 
     [:octicons-arrow-right-24: Open phase](course/phase-4.md)
@@ -76,7 +76,7 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    **Days 65–75.** Interviews, reviews, promotion, appraisal, salary, resignation, layoffs, burnout and
+    **Days 68–78.** Interviews, reviews, promotion, appraisal, salary, resignation, layoffs, burnout and
     graduation.
 
     [:octicons-arrow-right-24: Open phase](course/phase-5.md)
@@ -109,17 +109,17 @@ Real conversations for the **railway station**, **airport**, **restaurant**, **h
 
     ---
 
-    Skim Days 1–13 and do only the exercises, then start properly at **Day 14**.
+    Skim Phase 1 and do only the exercises, then start properly with **Phase 2**.
 
-    [:octicons-arrow-right-24: Day 14](foundations/communication-principles.md)
+    [:octicons-arrow-right-24: Phase 2](course/phase-2.md)
 
 -   :material-crown:{ .lg .middle } __Experienced professional__
 
     ---
 
-    Jump to the phase you need. Workplace starts at **Day 49**, Career at **Day 65**.
+    Jump to the phase you need: **Phase 4 · Workplace** or **Phase 5 · Career**.
 
-    [:octicons-arrow-right-24: Day 49](workplace/day-to-day.md)
+    [:octicons-arrow-right-24: Phase 4](course/phase-4.md)
 
 </div>
 

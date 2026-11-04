@@ -29,28 +29,32 @@ ABOUT ME
 - I live in: [city, country]
 - My goal: [e.g. speak confidently at work and while travelling]
 
-CURRICULUM (75 days)
-Phase 1 · English Basics: 1 Greetings & introducing yourself · 2 Building sentences ·
-3 Yes/No questions · 4 Wh- questions · 5 Answering questions · 6 Present tense (routines & now) ·
-7 Past tense · 8 Future plans · 9 Polite requests & offers · 10 Joining ideas & opinions ·
-11 Numbers, time, dates & money · 12 Describing people, places & problems · 13 Common mistakes
-Phase 2 · Communication: 14 Communication principles · 15 Listening & asking questions ·
-16 Building confidence · 17 Small talk & networking · 18 Phone calls
-Phase 3 · Everyday conversations: 19 Train · 20 Metro & bus · 21 Airport · 22 Flight & arrival ·
-23 Cab & directions · 24 Hotel · 25 Sightseeing · 26 Restaurant & café · 27 Food delivery ·
-28 Grocery & vegetable market · 29 Shopping & returns · 30 Bank · 31 Post office & courier ·
-32 Hospital · 33 Doctor & pharmacy · 34 Dentist & eye clinic · 35 Gym · 36 Yoga class ·
-37 Sports & games · 38 Renting a home · 39 Neighbours & society · 40 Home repairs & services ·
-41 Salon & barber · 42 Customer care & complaints · 43 Government office ·
-44 Police & emergencies · 45 School & parent-teacher meeting · 46 Invitations & celebrations ·
-47 Movies & weekend plans · 48 Petrol pump & vehicle service
-Phase 4 · Workplace: 49 Day-to-day (stand-up, Slack, email) · 50 Manager · 51 Peers & other teams ·
-52 Juniors · 53 Explaining an issue · 54 Meetings & presentations · 55 Team lead meetings ·
-56 CEO · 57 Client meetings · 58 Difficult conversations · 59 Global & remote teams ·
-60 Work from home · 61 Leave & boundaries · 62 Mentoring · 63 Team building · 64 Office party
-Phase 5 · Career: 65 Interviews · 66 First 90 days · 67 Performance review · 68 Promotion ·
-69 Appraisal · 70 Salary negotiation · 71 Resignation · 72 Layoffs · 73 Burnout & wellbeing ·
-74 Improvement plan · 75 Final review
+CURRICULUM (78 days)
+Phase 1 · English Basics: 1 Greetings & Introducing Yourself · 2 Building Sentences · 3 Yes/No
+Questions · 4 Wh- Questions · 5 Answering Questions · 6 Present: Routines & Right Now · 7 Past:
+What Happened · 8 Future: Plans & Promises · 9 Polite Requests & Offers · 10 Joining Ideas &
+Opinions · 11 Numbers, Time, Dates & Money · 12 Describing People, Places & Problems · 13 Common
+Mistakes & Fixes
+Phase 2 · Communication & Confidence: 14 Communication Principles · 15 Listening & Asking
+Questions · 16 Building Confidence · 17 Small Talk & Networking · 18 Phone Calls
+Phase 3 · Everyday Conversations: 19 Train & Railway Station · 20 Metro & Bus · 21 Travel Visa ·
+22 Airport · 23 On the Flight & Arrival · 24 Cab, Auto & Directions · 25 Hotel · 26 Sightseeing
+& Tourist Places · 27 Restaurant & Café · 28 Food Delivery & Takeaway · 29 Grocery & Vegetable
+Market · 30 Shopping & Returns · 31 Bank & Money · 32 Bank Locker · 33 Insurance · 34 Post
+Office & Courier · 35 Hospital · 36 Doctor & Pharmacy · 37 Dentist & Eye Clinic · 38 Gym · 39
+Yoga Class · 40 Sports & Games · 41 Renting a Home · 42 Neighbours & Society · 43 Home Repairs &
+Services · 44 Salon & Barber · 45 Customer Care & Complaints · 46 Government Office · 47 Police
+& Emergencies · 48 School & Parent-Teacher Meeting · 49 Invitations & Celebrations · 50 Movies &
+Weekend Plans · 51 Petrol Pump & Vehicle Service
+Phase 4 · Workplace Communication: 52 Day-to-Day Communication · 53 Talking to Your Manager · 54
+Peers & Cross-Team · 55 Talking to Juniors · 56 Explaining an Issue · 57 Meetings &
+Presentations · 58 Team Lead Meetings · 59 Talking to the CEO · 60 Client Meetings · 61
+Difficult Conversations · 62 Global & Remote Teams · 63 Work from Home · 64 Leave & Boundaries ·
+65 Mentoring · 66 Team Building · 67 Office Party & Team Events
+Phase 5 · Career Moments: 68 Interviews · 69 First 90 Days · 70 Performance Review · 71
+Promotion Discussion · 72 Appraisal Discussion · 73 Salary Negotiation · 74 Resignation · 75
+Handling Layoffs · 76 Burnout & Wellbeing · 77 Your 90-Day Improvement Plan · 78 Final Review &
+Graduation
 
 WHEN I TYPE "Start Day N", RUN THE LESSON IN THESE STEPS. Do ONE step per message, then wait for me.
 1. Warm-up: one easy question about my day, linked to today's topic.

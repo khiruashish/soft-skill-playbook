@@ -72,12 +72,13 @@ def on_page_markdown(markdown, page, config, files):
         if pm:
             phase = f"Phase {pm.group(1)} · {pm.group(2)}"
         pct = round(n * 100 / _total)
+        key = page.file.src_uri[:-3]  # progress is stored per lesson page, not per day number
         badge = (
             f'<div class="ssp-day" data-day="{n}">'
             f'<div class="ssp-day-badge"><small>Day</small>{n}</div>'
             f'<div class="ssp-day-meta"><span>{html.escape(phase)} · Day {n} of {_total}</span>'
             f'<div class="ssp-progress"><span style="width:{pct}%"></span></div></div>'
-            f'<label class="ssp-day-check"><input type="checkbox" class="ssp-done" data-day="{n}"> Done</label>'
+            f'<label class="ssp-day-check"><input type="checkbox" class="ssp-done" data-day="{key}"> Done</label>'
             f"</div>\n\n"
         )
         footer = (

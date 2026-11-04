@@ -1,11 +1,11 @@
 # Final Review & Graduation
 
 <div class="ssp-banner" markdown>
-**You made it to Day 75!** Today you'll test yourself across all five phases, see how far you've come,
+**You made it to the last day!** Today you'll test yourself across all five phases, see how far you've come,
 and plan what to practise next. Do the self-test without looking back at the lessons first.
 </div>
 
-## Part 1: English basics (Days 1–13)
+## Part 1: English basics (Phase 1)
 
 **Make questions** for the answers:
 
@@ -27,7 +27,7 @@ and plan what to practise next. Do the self-test without looking back at the les
     6. Did you go to the office yesterday? 7. Could you please [specific action] and reply?
     8. If it rains, we'll cancel the trip.
 
-## Part 2: Communication (Days 14–18)
+## Part 2: Communication (Phase 2)
 
 9. Rewrite with the point first: *"So I was checking logs and then I saw the cache was empty and then… so the release will be one day late."*
 10. Write two clarifying questions for: *"Make the dashboard better."*
@@ -38,7 +38,7 @@ and plan what to practise next. Do the self-test without looking back at the les
     10. "Which part of the dashboard matters most to you?" / "What does 'better' mean: faster, clearer, or more data?"
     11. "I suggest we try caching."
 
-## Part 3: Everyday conversations (Days 19–48)
+## Part 3: Everyday conversations (Phase 3)
 
 Say each of these out loud in one or two sentences:
 
@@ -59,7 +59,7 @@ Say each of these out loud in one or two sentences:
     17. "I want to lose eight kilos. I have some lower back pain, so I need to avoid heavy lifting at first."
     18. "How much is the deposit, and is it fully refundable? What's the notice period, and who pays for repairs?"
 
-## Part 4 & 5: Workplace and career (Days 49–74)
+## Part 4 & 5: Workplace and career (Phases 4–5)
 
 19. Give a 3-line stand-up update with a blocker.
 20. Raise a risk to your manager with two options and a recommendation.
@@ -76,7 +76,7 @@ Say each of these out loud in one or two sentences:
 ## Before and after
 
 Redo the [self-assessment](../foundations/improving-soft-skills.md#step-1-self-assessment) and compare
-with Day 74. Write down:
+with the plan you made in the previous lesson. Write down:
 
 - [ ] 3 situations that used to scare me and don't now
 - [ ] 3 mistakes I've fixed
@@ -113,7 +113,7 @@ with Day 74. Write down:
 </div>
 
 !!! success "Congratulations! 🎓"
-    Seventy-five days of practice is a real achievement. Confidence comes from repetition, and you've
+    Every day of practice is a real achievement. Confidence comes from repetition, and you've
     done the repetitions. Keep speaking every day.
 
 ## Practice conversation: telling your manager what you learned

@@ -104,65 +104,68 @@ nav:
       - course/phase-3.md
       - "Day 19 · Train & Railway Station": everyday/train.md
       - "Day 20 · Metro & Bus": everyday/metro-and-bus.md
-      - "Day 21 · Airport": everyday/airport.md
-      - "Day 22 · On the Flight & Arrival": everyday/flight.md
-      - "Day 23 · Cab, Auto & Directions": everyday/cab-and-directions.md
-      - "Day 24 · Hotel": everyday/hotel.md
-      - "Day 25 · Sightseeing & Tourist Places": everyday/sightseeing.md
-      - "Day 26 · Restaurant & Café": everyday/restaurant.md
-      - "Day 27 · Food Delivery & Takeaway": everyday/food-delivery.md
-      - "Day 28 · Grocery & Vegetable Market": everyday/grocery-shopping.md
-      - "Day 29 · Shopping & Returns": everyday/shopping.md
-      - "Day 30 · Bank & Money": everyday/bank-and-shopping.md
-      - "Day 31 · Post Office & Courier": everyday/post-and-courier.md
-      - "Day 32 · Hospital": everyday/hospital.md
-      - "Day 33 · Doctor & Pharmacy": everyday/doctor-and-pharmacy.md
-      - "Day 34 · Dentist & Eye Clinic": everyday/dentist-and-eye-clinic.md
-      - "Day 35 · Gym": everyday/gym.md
-      - "Day 36 · Yoga Class": everyday/yoga.md
-      - "Day 37 · Sports & Games": everyday/sports.md
-      - "Day 38 · Renting a Home": everyday/renting-a-home.md
-      - "Day 39 · Neighbours & Society": everyday/neighbours-and-society.md
-      - "Day 40 · Home Repairs & Services": everyday/home-services.md
-      - "Day 41 · Salon & Barber": everyday/salon.md
-      - "Day 42 · Customer Care & Complaints": everyday/customer-care.md
-      - "Day 43 · Government Office": everyday/government-office.md
-      - "Day 44 · Police & Emergencies": everyday/police-and-emergency.md
-      - "Day 45 · School & Parent-Teacher Meeting": everyday/school.md
-      - "Day 46 · Invitations & Celebrations": everyday/celebrations.md
-      - "Day 47 · Movies & Weekend Plans": everyday/movies-and-weekends.md
-      - "Day 48 · Petrol Pump & Vehicle Service": everyday/vehicle.md
+      - "Day 21 · Travel Visa": everyday/travel-visa.md
+      - "Day 22 · Airport": everyday/airport.md
+      - "Day 23 · On the Flight & Arrival": everyday/flight.md
+      - "Day 24 · Cab, Auto & Directions": everyday/cab-and-directions.md
+      - "Day 25 · Hotel": everyday/hotel.md
+      - "Day 26 · Sightseeing & Tourist Places": everyday/sightseeing.md
+      - "Day 27 · Restaurant & Café": everyday/restaurant.md
+      - "Day 28 · Food Delivery & Takeaway": everyday/food-delivery.md
+      - "Day 29 · Grocery & Vegetable Market": everyday/grocery-shopping.md
+      - "Day 30 · Shopping & Returns": everyday/shopping.md
+      - "Day 31 · Bank & Money": everyday/bank-and-shopping.md
+      - "Day 32 · Bank Locker": everyday/bank-locker.md
+      - "Day 33 · Insurance": everyday/insurance.md
+      - "Day 34 · Post Office & Courier": everyday/post-and-courier.md
+      - "Day 35 · Hospital": everyday/hospital.md
+      - "Day 36 · Doctor & Pharmacy": everyday/doctor-and-pharmacy.md
+      - "Day 37 · Dentist & Eye Clinic": everyday/dentist-and-eye-clinic.md
+      - "Day 38 · Gym": everyday/gym.md
+      - "Day 39 · Yoga Class": everyday/yoga.md
+      - "Day 40 · Sports & Games": everyday/sports.md
+      - "Day 41 · Renting a Home": everyday/renting-a-home.md
+      - "Day 42 · Neighbours & Society": everyday/neighbours-and-society.md
+      - "Day 43 · Home Repairs & Services": everyday/home-services.md
+      - "Day 44 · Salon & Barber": everyday/salon.md
+      - "Day 45 · Customer Care & Complaints": everyday/customer-care.md
+      - "Day 46 · Government Office": everyday/government-office.md
+      - "Day 47 · Police & Emergencies": everyday/police-and-emergency.md
+      - "Day 48 · School & Parent-Teacher Meeting": everyday/school.md
+      - "Day 49 · Invitations & Celebrations": everyday/celebrations.md
+      - "Day 50 · Movies & Weekend Plans": everyday/movies-and-weekends.md
+      - "Day 51 · Petrol Pump & Vehicle Service": everyday/vehicle.md
   - "4 · Workplace":
       - course/phase-4.md
-      - "Day 49 · Day-to-Day Communication": workplace/day-to-day.md
-      - "Day 50 · Talking to Your Manager": workplace/talking-to-manager.md
-      - "Day 51 · Peers & Cross-Team": workplace/peers-and-cross-team.md
-      - "Day 52 · Talking to Juniors": workplace/talking-to-juniors.md
-      - "Day 53 · Explaining an Issue": workplace/explaining-issues.md
-      - "Day 54 · Meetings & Presentations": workplace/meetings-and-presentations.md
-      - "Day 55 · Team Lead Meetings": workplace/team-lead-meetings.md
-      - "Day 56 · Talking to the CEO": workplace/talking-to-ceo.md
-      - "Day 57 · Client Meetings": workplace/client-meeting.md
-      - "Day 58 · Difficult Conversations": workplace/difficult-conversations.md
-      - "Day 59 · Global & Remote Teams": workplace/global-and-remote-teams.md
-      - "Day 60 · Work from Home": workplace/work-from-home.md
-      - "Day 61 · Leave & Boundaries": workplace/leave-and-boundaries.md
-      - "Day 62 · Mentoring": workplace/mentoring.md
-      - "Day 63 · Team Building": workplace/team-building.md
-      - "Day 64 · Office Party & Team Events": workplace/office-party.md
+      - "Day 52 · Day-to-Day Communication": workplace/day-to-day.md
+      - "Day 53 · Talking to Your Manager": workplace/talking-to-manager.md
+      - "Day 54 · Peers & Cross-Team": workplace/peers-and-cross-team.md
+      - "Day 55 · Talking to Juniors": workplace/talking-to-juniors.md
+      - "Day 56 · Explaining an Issue": workplace/explaining-issues.md
+      - "Day 57 · Meetings & Presentations": workplace/meetings-and-presentations.md
+      - "Day 58 · Team Lead Meetings": workplace/team-lead-meetings.md
+      - "Day 59 · Talking to the CEO": workplace/talking-to-ceo.md
+      - "Day 60 · Client Meetings": workplace/client-meeting.md
+      - "Day 61 · Difficult Conversations": workplace/difficult-conversations.md
+      - "Day 62 · Global & Remote Teams": workplace/global-and-remote-teams.md
+      - "Day 63 · Work from Home": workplace/work-from-home.md
+      - "Day 64 · Leave & Boundaries": workplace/leave-and-boundaries.md
+      - "Day 65 · Mentoring": workplace/mentoring.md
+      - "Day 66 · Team Building": workplace/team-building.md
+      - "Day 67 · Office Party & Team Events": workplace/office-party.md
   - "5 · Career":
       - course/phase-5.md
-      - "Day 65 · Interviews": career/interviews.md
-      - "Day 66 · First 90 Days": career/first-90-days.md
-      - "Day 67 · Performance Review": career/performance-review.md
-      - "Day 68 · Promotion Discussion": career/promotion-discussion.md
-      - "Day 69 · Appraisal Discussion": career/appraisal-discussion.md
-      - "Day 70 · Salary Negotiation": career/salary-negotiation.md
-      - "Day 71 · Resignation": career/resignation.md
-      - "Day 72 · Handling Layoffs": career/handling-layoffs.md
-      - "Day 73 · Burnout & Wellbeing": foundations/burnout.md
-      - "Day 74 · Your 90-Day Improvement Plan": foundations/improving-soft-skills.md
-      - "Day 75 · Final Review & Graduation": course/graduation.md
+      - "Day 68 · Interviews": career/interviews.md
+      - "Day 69 · First 90 Days": career/first-90-days.md
+      - "Day 70 · Performance Review": career/performance-review.md
+      - "Day 71 · Promotion Discussion": career/promotion-discussion.md
+      - "Day 72 · Appraisal Discussion": career/appraisal-discussion.md
+      - "Day 73 · Salary Negotiation": career/salary-negotiation.md
+      - "Day 74 · Resignation": career/resignation.md
+      - "Day 75 · Handling Layoffs": career/handling-layoffs.md
+      - "Day 76 · Burnout & Wellbeing": foundations/burnout.md
+      - "Day 77 · Your 90-Day Improvement Plan": foundations/improving-soft-skills.md
+      - "Day 78 · Final Review & Graduation": course/graduation.md
   - Reference:
       - Phrase Bank: reference/phrase-bank.md
       - Daily Practice Checklist: reference/daily-practice-checklist.md
