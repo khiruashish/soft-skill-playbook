@@ -3,6 +3,16 @@
 A practical communication & confidence playbook for software developers — beginners to 15+ years —
 built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and a custom 3D card layout.
 
+**Live site:** https://khiruashish.github.io/soft-skill-playbook/
+
+## Deployment
+
+Every push to `main` builds the site with `mkdocs build --strict` and publishes it to GitHub Pages
+(`.github/workflows/deploy.yml`). You can also run it manually from the **Actions** tab
+(*Deploy to GitHub Pages → Run workflow*).
+
+One-time setup: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
 ## Run locally
 
 ```bash

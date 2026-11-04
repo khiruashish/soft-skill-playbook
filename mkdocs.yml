@@ -1,4 +1,7 @@
 site_name: Soft Skill Playbook
+site_url: https://khiruashish.github.io/soft-skill-playbook/
+repo_url: https://github.com/khiruashish/soft-skill-playbook
+repo_name: khiruashish/soft-skill-playbook
 site_description: A practical communication & confidence playbook for software developers — from first job to 15+ years.
 site_author: Ashish
 docs_dir: docs
