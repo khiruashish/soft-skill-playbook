@@ -1,0 +1,394 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.267
+Interviews.
+
+2
+00:00:01.547 --> 00:00:05.515
+Day 84 of the Soft Skill Playbook course, in the Career phase.
+
+3
+00:00:07.265 --> 00:00:08.289
+The key idea.
+
+4
+00:00:08.569 --> 00:00:13.945
+An interview is a structured conversation between two people deciding whether to work together.
+
+5
+00:00:14.225 --> 00:00:15.569
+You're interviewing them too.
+
+6
+00:00:15.849 --> 00:00:18.303
+Prepare stories, not memorised answers.
+
+7
+00:00:19.653 --> 00:00:20.506
+Part 1.
+
+8
+00:00:20.786 --> 00:00:23.453
+Tell me about yourself (60 to 90 seconds).
+
+9
+00:00:24.703 --> 00:00:26.687
+Present, then Past, then Future.
+
+10
+00:00:28.037 --> 00:00:28.975
+You could say:
+
+11
+00:00:29.255 --> 00:00:38.173
+I'm a backend engineer with 15 years of experience, currently leading a team of 6 building a grocery marketplace on Java and Kafka (present).
+
+12
+00:00:38.453 --> 00:00:45.749
+Before that, I spent 8 years in fintech, where I scaled a payments platform to 2 million transactions a day (past).
+
+13
+00:00:46.029 --> 00:00:53.453
+I'm looking for a role where I can shape architecture and grow engineers at a larger scale, and that's what drew me to this team (future).
+
+14
+00:00:54.803 --> 00:00:55.891
+Beginner version.
+
+15
+00:00:56.171 --> 00:00:57.109
+You could say:
+
+16
+00:00:57.389 --> 00:01:06.093
+I recently graduated in Computer Science, and I interned at XYZ, where I built a REST API for inventory tracking in Spring Boot.
+
+17
+00:01:06.373 --> 00:01:14.800
+I enjoy backend work and learning how systems scale, and I'm excited about this role because your team works with Kafka and microservices.
+
+18
+00:01:16.150 --> 00:01:17.025
+Part 2.
+
+19
+00:01:17.305 --> 00:01:18.713
+Behavioural questions:
+
+20
+00:01:18.993 --> 00:01:19.782
+STAR.
+
+21
+00:01:21.032 --> 00:01:23.507
+Prepare 6 to 8 stories that you can adapt:
+
+22
+00:01:24.857 --> 00:01:26.201
+Here is a quick table:
+
+23
+00:01:26.481 --> 00:01:28.273
+Theme, and Example question.
+
+24
+00:01:28.553 --> 00:01:29.406
+Conflict:
+
+25
+00:01:29.686 --> 00:01:31.905
+Tell me about a disagreement with a teammate.
+
+26
+00:01:32.185 --> 00:01:33.038
+Failure:
+
+27
+00:01:33.318 --> 00:01:34.918
+Tell me about a time you failed.
+
+28
+00:01:35.198 --> 00:01:36.115
+Leadership:
+
+29
+00:01:36.395 --> 00:01:38.187
+When did you lead without authority?
+
+30
+00:01:38.467 --> 00:01:39.278
+Pressure:
+
+31
+00:01:39.558 --> 00:01:41.691
+Describe a tight deadline you handled.
+
+32
+00:01:41.971 --> 00:01:42.761
+Impact:
+
+33
+00:01:43.041 --> 00:01:44.875
+What's the project you're proudest of?
+
+34
+00:01:45.155 --> 00:01:45.945
+Learning:
+
+35
+00:01:46.225 --> 00:01:47.931
+When did you learn something quickly?
+
+36
+00:01:48.211 --> 00:01:49.086
+Feedback:
+
+37
+00:01:49.366 --> 00:01:51.713
+Tell me about critical feedback you received.
+
+38
+00:01:51.993 --> 00:01:52.867
+Decision:
+
+39
+00:01:53.147 --> 00:01:55.259
+Describe a hard technical trade-off.
+
+40
+00:01:56.609 --> 00:01:57.484
+Example:
+
+41
+00:01:57.764 --> 00:01:59.236
+STAR answer (failure).
+
+42
+00:01:59.516 --> 00:02:00.199
+S:
+
+43
+00:02:00.479 --> 00:02:05.705
+Our release went out with a data-migration bug that corrupted 2% of user addresses.
+
+44
+00:02:05.985 --> 00:02:06.689
+T:
+
+45
+00:02:06.969 --> 00:02:09.657
+As tech lead, I owned the fix and the follow-up.
+
+46
+00:02:09.937 --> 00:02:10.556
+A:
+
+47
+00:02:10.836 --> 00:02:19.071
+I rolled back within 20 minutes, wrote a repair script, personally emailed affected users, and added migration dry-runs to CI.
+
+48
+00:02:19.351 --> 00:02:20.076
+R:
+
+49
+00:02:20.356 --> 00:02:24.047
+All data restored in 4 hours; no repeat in 2 years.
+
+50
+00:02:24.327 --> 00:02:29.233
+What I learned: never run migrations without a dry-run on a production snapshot.
+
+51
+00:02:30.583 --> 00:02:31.479
+Part 3.
+
+52
+00:02:31.759 --> 00:02:33.637
+Questions to ask the interviewer.
+
+53
+00:02:34.887 --> 00:02:37.617
+What does success look like in the first 90 days?
+
+54
+00:02:37.897 --> 00:02:40.628
+What's the biggest challenge the team is facing right now?
+
+55
+00:02:40.908 --> 00:02:42.956
+How are technical decisions made here?
+
+56
+00:02:43.236 --> 00:02:44.879
+How do engineers grow here?
+
+57
+00:02:45.159 --> 00:02:47.036
+What did the last promotion look like?
+
+58
+00:02:47.316 --> 00:02:49.940
+What do you personally enjoy most about working here?
+
+59
+00:02:51.290 --> 00:02:52.207
+Part 4.
+
+60
+00:02:52.487 --> 00:02:53.938
+Handling tricky moments.
+
+61
+00:02:55.188 --> 00:02:56.532
+Here is a quick table:
+
+62
+00:02:56.812 --> 00:02:57.943
+Moment, and Say.
+
+63
+00:02:58.223 --> 00:02:59.545
+You don't know the answer:
+
+64
+00:02:59.825 --> 00:03:01.660
+I haven't worked with that directly.
+
+65
+00:03:01.940 --> 00:03:03.433
+Here's how I'd approach it...
+
+66
+00:03:03.713 --> 00:03:05.036
+You need time to think:
+
+67
+00:03:05.316 --> 00:03:07.279
+Let me take a moment to think about that.
+
+68
+00:03:07.559 --> 00:03:09.095
+Salary question (early):
+
+69
+00:03:09.375 --> 00:03:11.487
+I'd like to learn more about the role first.
+
+70
+00:03:11.767 --> 00:03:13.281
+What's the budgeted range?
+
+71
+00:03:13.561 --> 00:03:14.713
+Why are you leaving?:
+
+72
+00:03:14.993 --> 00:03:16.124
+Stay positive:
+
+73
+00:03:16.404 --> 00:03:18.495
+I'm looking for bigger scale and ownership.
+
+74
+00:03:18.775 --> 00:03:20.631
+Never criticise your current employer.
+
+75
+00:03:20.911 --> 00:03:21.999
+Any weaknesses?:
+
+76
+00:03:22.279 --> 00:03:24.519
+A real one + what you're doing about it:
+
+77
+00:03:24.799 --> 00:03:27.103
+I used to over-explain to executives.
+
+78
+00:03:27.383 --> 00:03:29.495
+I now practise one-sentence summaries.
+
+79
+00:03:30.845 --> 00:03:31.805
+Part 5.
+
+80
+00:03:32.085 --> 00:03:33.471
+Practice conversation:
+
+81
+00:03:33.751 --> 00:03:35.522
+The 'Tell me about yourself' moment.
+
+82
+00:03:36.772 --> 00:03:38.799
+Here is how the conversation goes.
+
+83
+00:03:39.079 --> 00:03:40.145
+Let's start.
+
+84
+00:03:40.425 --> 00:03:42.324
+Could you tell me a little about yourself?
+
+85
+00:03:42.604 --> 00:03:43.329
+Sure.
+
+86
+00:03:43.609 --> 00:03:47.151
+I'm a backend engineer with nine years of experience.
+
+87
+00:03:47.431 --> 00:03:53.447
+Right now I lead a team of five building a grocery delivery platform on Java and Kafka.
+
+88
+00:03:53.727 --> 00:03:55.263
+What did you do before that?
+
+89
+00:03:55.543 --> 00:04:02.113
+I spent six years in fintech, where I helped scale a payments system to two million transactions a day.
+
+90
+00:04:03.463 --> 00:04:05.063
+The conversation continues.
+
+91
+00:04:05.343 --> 00:04:07.306
+And why are you interested in this role?
+
+92
+00:04:07.586 --> 00:04:12.706
+I'd like to work on bigger distributed systems and grow into an architect role.
+
+93
+00:04:12.986 --> 00:04:15.418
+Your platform team does exactly that.
+
+94
+00:04:15.698 --> 00:04:16.637
+Great.
+
+95
+00:04:16.917 --> 00:04:20.031
+Tell me about a hard technical decision you made recently.
+
+96
+00:04:21.381 --> 00:04:22.917
+That's the end of this lesson.
+
+97
+00:04:23.197 --> 00:04:27.848
+Pick one script from it, say it out loud three times, and use it for real today.
+
+98
+00:04:28.128 --> 00:04:34.251
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

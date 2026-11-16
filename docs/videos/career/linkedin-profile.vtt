@@ -1,0 +1,534 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.609
+LinkedIn Profile.
+
+2
+00:00:01.889 --> 00:00:05.707
+Day 82 of the Soft Skill Playbook course, in the Career phase.
+
+3
+00:00:07.457 --> 00:00:08.481
+The key idea.
+
+4
+00:00:08.761 --> 00:00:20.495
+Today's goal: write a LinkedIn profile that tells recruiters in 10 seconds who you are and what you're good at, and learn to write connection requests, posts and messages that people actually answer.
+
+5
+00:00:21.845 --> 00:00:22.698
+Part 1.
+
+6
+00:00:22.978 --> 00:00:24.258
+The 10-second test.
+
+7
+00:00:25.508 --> 00:00:32.207
+A recruiter looks at your photo, headline and the first 2 lines of your About section, then decides whether to read on.
+
+8
+00:00:32.487 --> 00:00:33.980
+Get those three right first.
+
+9
+00:00:35.330 --> 00:00:36.247
+Step 1:
+
+10
+00:00:36.527 --> 00:00:41.989
+Photo and banner: clear face, plain background, smiling; a simple banner about your work.
+
+11
+00:00:42.269 --> 00:00:43.186
+Step 2:
+
+12
+00:00:43.466 --> 00:00:48.735
+Headline: role + key skills + what you deliver (not just Software Engineer at X).
+
+13
+00:00:49.015 --> 00:00:49.933
+Step 3:
+
+14
+00:00:50.213 --> 00:00:54.373
+About: a short story: what you do, your best results, what you're looking for.
+
+15
+00:00:54.653 --> 00:00:55.613
+Step 4:
+
+16
+00:00:55.893 --> 00:00:59.221
+Experience: results with numbers, not a list of duties.
+
+17
+00:00:59.501 --> 00:01:00.461
+Step 5:
+
+18
+00:01:00.741 --> 00:01:05.626
+Skills, recommendations, activity: proof from other people, and signs you're active.
+
+19
+00:01:06.976 --> 00:01:07.851
+Part 2.
+
+20
+00:01:08.131 --> 00:01:10.008
+Headline: formulas that work.
+
+21
+00:01:11.258 --> 00:01:12.623
+Here is a quick table:
+
+22
+00:01:12.903 --> 00:01:14.034
+Weak, and Strong.
+
+23
+00:01:14.314 --> 00:01:16.277
+Software Engineer at XYZ:
+
+24
+00:01:16.557 --> 00:01:23.618
+Senior Backend Engineer, Java, Kafka, AWS, Building payment systems for 2M+ daily transactions.
+
+25
+00:01:23.898 --> 00:01:25.327
+Looking for opportunities:
+
+26
+00:01:25.607 --> 00:01:31.175
+Full-Stack Developer (React, Node.js), Open to Bengaluru and Remote roles.
+
+27
+00:01:31.455 --> 00:01:32.309
+Fresher:
+
+28
+00:01:32.589 --> 00:01:39.138
+Computer Science Graduate, Java and Spring Boot, Built a grocery delivery app as a final-year project.
+
+29
+00:01:39.418 --> 00:01:40.293
+Tech Lead:
+
+30
+00:01:40.573 --> 00:01:46.290
+Engineering Lead, Grew a team from 3 to 12, Microservices, reliability, mentoring.
+
+31
+00:01:47.640 --> 00:01:48.536
+Part 3.
+
+32
+00:01:48.816 --> 00:01:50.928
+About section: a simple template.
+
+33
+00:01:52.178 --> 00:01:54.055
+Here is a template you can copy.
+
+34
+00:01:54.335 --> 00:01:58.623
+I'm a role with X years of experience building what for whom or industry.
+
+35
+00:01:58.903 --> 00:02:02.765
+Recently, I biggest achievement with a number, and second achievement.
+
+36
+00:02:03.045 --> 00:02:07.823
+I enjoy the kind of problems you like, and I'm known for a strength others. mention.
+
+37
+00:02:08.103 --> 00:02:08.935
+Skills:
+
+38
+00:02:09.215 --> 00:02:10.709
+5 to 8 key skills.
+
+39
+00:02:10.989 --> 00:02:15.789
+I'm currently open to or interested in type of role in location or remote.
+
+40
+00:02:16.069 --> 00:02:17.946
+Feel free to reach out at email.
+
+41
+00:02:20.796 --> 00:02:21.671
+Example.
+
+42
+00:02:21.951 --> 00:02:28.649
+I'm a backend engineer with nine years of experience building high-scale systems for fintech and e-commerce.
+
+43
+00:02:28.929 --> 00:02:39.745
+Recently, I led the re-architecture of a grocery checkout that cut failed orders by 60%, and I reduced our cloud costs by 35 lakh rupees a year.
+
+44
+00:02:40.025 --> 00:02:49.028
+I enjoy turning messy, slow systems into simple, reliable ones, and I'm known for clear incident communication and mentoring new engineers.
+
+45
+00:02:49.308 --> 00:02:50.140
+Skills:
+
+46
+00:02:50.420 --> 00:02:54.644
+Java, Spring Boot, Kafka, PostgreSQL, AWS, system design.
+
+47
+00:02:54.924 --> 00:02:58.636
+I'm open to Staff Engineer roles in Bengaluru or remote.
+
+48
+00:02:59.986 --> 00:03:00.903
+Part 4.
+
+49
+00:03:01.183 --> 00:03:03.551
+Experience: duties versus results.
+
+50
+00:03:04.801 --> 00:03:06.167
+Here is a quick table:
+
+51
+00:03:06.447 --> 00:03:07.769
+Duties, and Results.
+
+52
+00:03:08.049 --> 00:03:09.692
+Worked on the checkout service.:
+
+53
+00:03:09.972 --> 00:03:15.284
+Re-architected checkout with the outbox pattern, cutting failed orders by 60%.
+
+54
+00:03:15.564 --> 00:03:17.292
+Responsible for code reviews.:
+
+55
+00:03:17.572 --> 00:03:23.033
+Introduced review guidelines that halved review time (3 days, then 1.5 days).
+
+56
+00:03:23.313 --> 00:03:24.892
+Handled production issues.:
+
+57
+00:03:25.172 --> 00:03:31.700
+Led 20 plus incidents as incident commander; wrote post-mortems that removed 3 recurring failures.
+
+58
+00:03:33.050 --> 00:03:39.962
+Use action verbs: built, led, launched, reduced, improved, migrated, automated, mentored, designed, scaled.
+
+59
+00:03:41.312 --> 00:03:42.272
+Part 5.
+
+60
+00:03:42.552 --> 00:03:44.493
+Writing messages people answer.
+
+61
+00:03:45.743 --> 00:03:48.218
+Connection request (300 characters).
+
+62
+00:03:48.498 --> 00:03:50.375
+Here is a template you can copy.
+
+63
+00:03:50.655 --> 00:03:54.431
+Hi Neha, I enjoyed your talk on consumer lag at Kafka Summit.
+
+64
+00:03:54.711 --> 00:03:58.039
+I'm working on similar. problems in grocery delivery.
+
+65
+00:03:58.319 --> 00:04:00.367
+I'd love to connect and follow your work.
+
+66
+00:04:00.647 --> 00:04:01.479
+Ashish.
+
+67
+00:04:04.329 --> 00:04:08.959
+Why it works: personal, specific, short, and it doesn't ask for anything yet.
+
+68
+00:04:10.309 --> 00:04:11.631
+Asking for a referral.
+
+69
+00:04:11.911 --> 00:04:13.789
+Here is a template you can copy.
+
+70
+00:04:14.069 --> 00:04:15.775
+Hi Arjun, hope you're well!
+
+71
+00:04:16.055 --> 00:04:19.362
+I saw that Brightsoft is hiring a Senior Backend Engineer.
+
+72
+00:04:19.642 --> 00:04:22.607
+(job ID 4471).
+
+73
+00:04:22.887 --> 00:04:30.077
+I have 9 years in Java and Kafka, and I led a checkout re-architecture. that cut failures by 60%.
+
+74
+00:04:30.357 --> 00:04:32.213
+Would you be comfortable referring me?
+
+75
+00:04:32.493 --> 00:04:36.610
+I've attached my CV. and. a 3-line summary you can forward.
+
+76
+00:04:36.890 --> 00:04:39.066
+Totally fine if not, thanks either way!
+
+77
+00:04:41.916 --> 00:04:43.409
+Replying to a recruiter.
+
+78
+00:04:43.689 --> 00:04:45.567
+Here is a template you can copy.
+
+79
+00:04:45.847 --> 00:04:47.788
+Hi Riya, thanks for reaching out!
+
+80
+00:04:48.068 --> 00:04:49.583
+The role sounds interesting.
+
+81
+00:04:49.863 --> 00:04:54.812
+Could you share the. job description, the team I'd be working with, and the budgeted range?
+
+82
+00:04:55.092 --> 00:04:57.887
+I'm currently. on a 60-day notice period.
+
+83
+00:04:58.167 --> 00:05:03.479
+Happy to set up a call this week, Tuesday or Thursday. after 5 pm works for me.
+
+84
+00:05:06.329 --> 00:05:07.715
+Saying no politely.
+
+85
+00:05:07.995 --> 00:05:09.873
+Here is a template you can copy.
+
+86
+00:05:10.153 --> 00:05:12.137
+Hi Riya, thanks for thinking of me.
+
+87
+00:05:12.417 --> 00:05:17.259
+I'm not looking for a change right now, but I'd. be glad to stay in touch for the future.
+
+88
+00:05:17.539 --> 00:05:19.033
+All the best with the search!
+
+89
+00:05:21.883 --> 00:05:22.821
+Part 6.
+
+90
+00:05:23.101 --> 00:05:24.893
+Posting: share without bragging.
+
+91
+00:05:26.143 --> 00:05:28.021
+Here is a template you can copy.
+
+92
+00:05:28.301 --> 00:05:32.781
+Our checkout failed 1,200 orders in 40 minutes last year.
+
+93
+00:05:33.061 --> 00:05:34.362
+Here's what we changed.
+
+94
+00:05:34.642 --> 00:05:40.914
+The cause: a payment SDK timeout of 2s, under a bank latency of 2.6s at peak.
+
+95
+00:05:41.194 --> 00:05:45.674
+We fixed it with canary deploys, peak-hour deploy blocks and better alerts.
+
+96
+00:05:45.954 --> 00:05:50.434
+Biggest lesson: the fix was 20% code and 80% process.
+
+97
+00:05:50.714 --> 00:05:53.957
+How does your team stop risky deploys during peak traffic?
+
+98
+00:05:56.807 --> 00:05:57.553
+Warning:
+
+99
+00:05:57.833 --> 00:05:58.495
+Don't.
+
+100
+00:05:58.775 --> 00:06:11.361
+Share confidential numbers, customer names or internal screenshots, criticise your employer, post only OpenToWork with no details, send a referral request to a stranger as your first message.
+
+101
+00:06:12.711 --> 00:06:13.650
+Part 7.
+
+102
+00:06:13.930 --> 00:06:17.087
+Conversation: networking message turns into a call.
+
+103
+00:06:18.337 --> 00:06:20.364
+Here is how the conversation goes.
+
+104
+00:06:20.644 --> 00:06:22.692
+Hi Ashish, thanks for connecting!
+
+105
+00:06:22.972 --> 00:06:24.551
+Glad the talk was useful.
+
+106
+00:06:24.831 --> 00:06:26.047
+It really was.
+
+107
+00:06:26.327 --> 00:06:29.463
+We had the same consumer lag problem last month.
+
+108
+00:06:29.743 --> 00:06:32.111
+Could I ask you one question about it?
+
+109
+00:06:32.391 --> 00:06:33.607
+Sure, go ahead.
+
+110
+00:06:33.887 --> 00:06:38.367
+Did you increase partitions, or change the consumer batch size first?
+
+111
+00:06:39.717 --> 00:06:41.317
+The conversation continues.
+
+112
+00:06:41.597 --> 00:06:43.005
+Batch size first.
+
+113
+00:06:43.285 --> 00:06:46.207
+Partitions only helped after we fixed slow processing.
+
+114
+00:06:46.487 --> 00:06:48.621
+That's exactly what I suspected.
+
+115
+00:06:48.901 --> 00:06:49.818
+Thank you!
+
+116
+00:06:50.098 --> 00:06:52.871
+Would you be open to a 15-minute call sometime?
+
+117
+00:06:53.151 --> 00:06:55.178
+I'd love to hear how you scaled it.
+
+118
+00:06:55.458 --> 00:06:56.823
+Happy to.
+
+119
+00:06:57.103 --> 00:06:58.725
+How about Friday at 4?
+
+120
+00:06:59.005 --> 00:07:00.669
+Friday at 4 works.
+
+121
+00:07:00.949 --> 00:07:02.485
+I'll send an invite.
+
+122
+00:07:02.765 --> 00:07:03.959
+Thanks, Neha!
+
+123
+00:07:05.309 --> 00:07:06.184
+Part 8.
+
+124
+00:07:06.464 --> 00:07:07.381
+Practice.
+
+125
+00:07:08.631 --> 00:07:15.479
+Rewrite your headline using Role, Core skills, Result or domain, and write the first two lines of your About section.
+
+126
+00:07:16.829 --> 00:07:17.725
+Part 9.
+
+127
+00:07:18.005 --> 00:07:19.051
+Speak today.
+
+128
+00:07:20.301 --> 00:07:23.693
+Update your headline and the first two lines of your About section.
+
+129
+00:07:23.973 --> 00:07:27.791
+Rewrite one experience line from a duty to a result with a number.
+
+130
+00:07:28.071 --> 00:07:30.439
+Send one personalised connection request.
+
+131
+00:07:31.789 --> 00:07:33.325
+That's the end of this lesson.
+
+132
+00:07:33.605 --> 00:07:38.277
+Pick one script from it, say it out loud three times, and use it for real today.
+
+133
+00:07:38.557 --> 00:07:44.659
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

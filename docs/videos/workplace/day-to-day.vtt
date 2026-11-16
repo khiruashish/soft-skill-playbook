@@ -1,0 +1,546 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.886
+Day-to-Day Communication.
+
+2
+00:00:02.166 --> 00:00:06.155
+Day 59 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:07.905 --> 00:00:08.929
+The key idea.
+
+4
+00:00:09.209 --> 00:00:15.759
+People judge you on the small things you do every day: the stand-up, the Slack reply, the PR description.
+
+5
+00:00:16.039 --> 00:00:20.220
+These habits build your reputation faster than one big presentation.
+
+6
+00:00:21.570 --> 00:00:22.423
+Part 1.
+
+7
+00:00:22.703 --> 00:00:23.791
+Daily stand-up.
+
+8
+00:00:25.041 --> 00:00:25.852
+Format.
+
+9
+00:00:26.132 --> 00:00:28.009
+Here is a template you can copy.
+
+10
+00:00:28.289 --> 00:00:32.983
+Yesterday: finished the coupon API, PR 212 in review.
+
+11
+00:00:33.263 --> 00:00:35.567
+Today: integrate with cart, write tests.
+
+12
+00:00:35.847 --> 00:00:40.476
+Blockers: need staging DB access, @Ops, can you help after stand-up?
+
+13
+00:00:43.326 --> 00:00:44.179
+Rules:
+
+14
+00:00:44.459 --> 00:00:45.974
+30 to 60 seconds.
+
+15
+00:00:46.254 --> 00:00:47.833
+Outcomes, not activities.
+
+16
+00:00:48.113 --> 00:00:49.585
+Take blockers offline.
+
+17
+00:00:50.935 --> 00:00:52.236
+Weak versus strong.
+
+18
+00:00:52.516 --> 00:00:53.860
+Here is a quick table:
+
+19
+00:00:54.140 --> 00:00:55.271
+Weak, and Strong.
+
+20
+00:00:55.551 --> 00:00:58.665
+Yesterday I was working on the bug, still working on it.:
+
+21
+00:00:58.945 --> 00:01:01.847
+The login bug is narrowed to the token refresh.
+
+22
+00:01:02.127 --> 00:01:03.535
+Fix by noon today.
+
+23
+00:01:03.815 --> 00:01:04.903
+No blockers.
+
+24
+00:01:05.183 --> 00:01:06.164
+(when you're stuck):
+
+25
+00:01:06.444 --> 00:01:08.343
+I'm stuck on the PDF library.
+
+26
+00:01:08.623 --> 00:01:10.628
+10 minutes with anyone who's used it?
+
+27
+00:01:10.908 --> 00:01:12.871
+5-minute technical deep-dive:
+
+28
+00:01:13.151 --> 00:01:14.921
+Found an interesting caching issue.
+
+29
+00:01:15.201 --> 00:01:16.460
+I'll share in backend.
+
+30
+00:01:17.810 --> 00:01:18.685
+Part 2.
+
+31
+00:01:18.965 --> 00:01:20.607
+Slack or Teams messages.
+
+32
+00:01:21.857 --> 00:01:22.924
+Golden rules.
+
+33
+00:01:23.204 --> 00:01:24.441
+Don't just say Hi.
+
+34
+00:01:24.721 --> 00:01:26.791
+Write the whole question in one message.
+
+35
+00:01:27.071 --> 00:01:28.884
+Point first, details after.
+
+36
+00:01:29.164 --> 00:01:30.145
+Use threads.
+
+37
+00:01:30.425 --> 00:01:31.663
+Don't flood the channel.
+
+38
+00:01:31.943 --> 00:01:33.415
+Say how urgent it is:
+
+39
+00:01:33.695 --> 00:01:37.364
+FYI, When you get a chance, or Urgent: blocking the release.
+
+40
+00:01:37.644 --> 00:01:38.604
+Close the loop:
+
+41
+00:01:38.884 --> 00:01:41.828
+Resolved, thanks! so nobody else spends time on it.
+
+42
+00:01:43.178 --> 00:01:44.522
+Here is a quick table:
+
+43
+00:01:44.802 --> 00:01:46.061
+Instead of, and Write.
+
+44
+00:01:46.341 --> 00:01:47.087
+Hi...
+
+45
+00:01:47.367 --> 00:01:49.223
+(waits 10 min)... are you there?:
+
+46
+00:01:49.503 --> 00:01:55.391
+Hi Ravi, quick one: is the orders topic partitioned by customerId or orderId?
+
+47
+00:01:55.671 --> 00:01:58.146
+Writing a consumer and want to keep ordering.
+
+48
+00:01:58.426 --> 00:01:59.685
+The build is broken:
+
+49
+00:01:59.965 --> 00:02:06.023
+Main build failing since 11:20 on InventoryIT, looks like a Testcontainers timeout.
+
+50
+00:02:06.303 --> 00:02:08.202
+Looking into it; will update here.
+
+51
+00:02:08.482 --> 00:02:09.442
+Can we talk?:
+
+52
+00:02:09.722 --> 00:02:12.367
+Can we talk for 10 min today about the sprint scope?
+
+53
+00:02:12.647 --> 00:02:14.738
+Nothing urgent, just want to align.
+
+54
+00:02:16.088 --> 00:02:16.984
+Part 3.
+
+55
+00:02:17.264 --> 00:02:18.011
+Email.
+
+56
+00:02:19.261 --> 00:02:21.138
+Here is a template you can copy.
+
+57
+00:02:21.418 --> 00:02:22.293
+Subject:
+
+58
+00:02:22.573 --> 00:02:26.178
+Decision needed by Fri Choose payment provider for Q1.
+
+59
+00:02:26.458 --> 00:02:27.375
+Hi Priya.
+
+60
+00:02:27.655 --> 00:02:29.853
+Recommendation: go with Razorpay.
+
+61
+00:02:30.133 --> 00:02:35.530
+Cheaper fees (1.8% versus 2.2%) and the SDK we need.
+
+62
+00:02:35.810 --> 00:02:36.983
+Options compared:
+
+63
+00:02:37.263 --> 00:02:38.415
+(table or link).
+
+64
+00:02:38.695 --> 00:02:42.855
+Risk: migration takes ~2 weeks; I've planned it for early Dec.
+
+65
+00:02:43.135 --> 00:02:46.335
+Could you confirm by Friday so we can start the integration?
+
+66
+00:02:46.615 --> 00:02:47.362
+Thanks.
+
+67
+00:02:47.642 --> 00:02:48.474
+Ashish.
+
+68
+00:02:51.324 --> 00:02:54.503
+For more templates and tone guidance, see Email Writing.
+
+69
+00:02:54.783 --> 00:03:02.889
+Tips: the subject line says what you need, the first line gives the answer, under 150 words, one ask, a clear deadline.
+
+70
+00:03:04.239 --> 00:03:05.157
+Part 4.
+
+71
+00:03:05.437 --> 00:03:06.973
+Pull request descriptions.
+
+72
+00:03:08.223 --> 00:03:09.801
+Here is the MARKDOWN code.
+
+73
+00:03:10.081 --> 00:03:13.580
+It runs to 16 lines; the full listing is in the chapter.
+
+74
+00:03:16.430 --> 00:03:17.390
+Part 5.
+
+75
+00:03:17.670 --> 00:03:18.566
+Estimates.
+
+76
+00:03:19.816 --> 00:03:21.821
+Give ranges, not single numbers:
+
+77
+00:03:22.101 --> 00:03:23.360
+3 to 5 days.
+
+78
+00:03:23.640 --> 00:03:28.120
+Say what the estimate assumes:...assuming the API contract doesn't change.
+
+79
+00:03:28.400 --> 00:03:30.619
+Re-estimate out loud when things change:
+
+80
+00:03:30.899 --> 00:03:31.795
+New info.
+
+81
+00:03:32.075 --> 00:03:33.995
+It's now 7 days, here's why.
+
+82
+00:03:34.275 --> 00:03:35.384
+I don't know yet.
+
+83
+00:03:35.664 --> 00:03:39.803
+I'll spike for half a day and give you an estimate tomorrow is a good answer.
+
+84
+00:03:41.153 --> 00:03:42.091
+Part 6.
+
+85
+00:03:42.371 --> 00:03:43.971
+Useful everyday phrases.
+
+86
+00:03:45.221 --> 00:03:46.565
+Here is a quick table:
+
+87
+00:03:46.845 --> 00:03:48.232
+Situation, and Say.
+
+88
+00:03:48.512 --> 00:03:49.792
+You didn't understand:
+
+89
+00:03:50.072 --> 00:03:51.715
+Sorry, could you say that again?
+
+90
+00:03:51.995 --> 00:03:53.701
+I want to make sure I get it right.
+
+91
+00:03:53.981 --> 00:03:54.963
+Buying time:
+
+92
+00:03:55.243 --> 00:03:56.245
+Good question.
+
+93
+00:03:56.525 --> 00:03:58.723
+Let me check and get back to you by 3.
+
+94
+00:03:59.003 --> 00:04:00.176
+Polite reminder:
+
+95
+00:04:00.456 --> 00:04:01.779
+Gentle nudge on this.
+
+96
+00:04:02.059 --> 00:04:03.061
+Any update?
+
+97
+00:04:03.341 --> 00:04:04.429
+Saying you're busy:
+
+98
+00:04:04.709 --> 00:04:06.715
+I'm heads-down on the release till 4.
+
+99
+00:04:06.995 --> 00:04:08.296
+Can I look after that?
+
+100
+00:04:08.576 --> 00:04:09.472
+Agreeing:
+
+101
+00:04:09.752 --> 00:04:11.480
+Makes sense, let's go with that.
+
+102
+00:04:11.760 --> 00:04:12.933
+Partially agreeing:
+
+103
+00:04:13.213 --> 00:04:14.664
+I agree with the approach.
+
+104
+00:04:14.944 --> 00:04:16.693
+One concern about the timeline...
+
+105
+00:04:16.973 --> 00:04:18.189
+Ending a long call:
+
+106
+00:04:18.469 --> 00:04:19.792
+I think we've covered it.
+
+107
+00:04:20.072 --> 00:04:22.035
+I'll send a summary in 10 minutes.
+
+108
+00:04:22.315 --> 00:04:23.509
+Taking ownership:
+
+109
+00:04:23.789 --> 00:04:24.813
+I'll own this.
+
+110
+00:04:25.093 --> 00:04:27.013
+Expect an update by end of day.
+
+111
+00:04:28.363 --> 00:04:29.302
+Part 7.
+
+112
+00:04:29.582 --> 00:04:32.185
+End-of-day or weekly update (to manager).
+
+113
+00:04:33.435 --> 00:04:35.312
+Here is a template you can copy.
+
+114
+00:04:35.592 --> 00:04:36.808
+Week of 3 Nov.
+
+115
+00:04:37.088 --> 00:04:40.501
+Done: coupon validation (shipped), fixed 3 cart bugs.
+
+116
+00:04:40.781 --> 00:04:45.389
+In progress: delivery-slot API (60%), on track for Weds.
+
+117
+00:04:45.669 --> 00:04:48.379
+Risk: map vendor API key still pending.
+
+118
+00:04:48.659 --> 00:04:52.840
+Need: decision on slot-caching TTL (5 versus 15 min).
+
+119
+00:04:55.690 --> 00:04:56.565
+Part 8.
+
+120
+00:04:56.845 --> 00:04:58.231
+Practice conversation:
+
+121
+00:04:58.511 --> 00:04:59.727
+Stand-up update.
+
+122
+00:05:00.977 --> 00:05:03.004
+Here is how the conversation goes.
+
+123
+00:05:03.284 --> 00:05:04.713
+Ashish, your update?
+
+124
+00:05:04.993 --> 00:05:10.412
+Yesterday I finished the coupon validation API, and the PR is in review.
+
+125
+00:05:10.692 --> 00:05:12.719
+Today I'll connect it to the cart.
+
+126
+00:05:12.999 --> 00:05:14.193
+Any blockers?
+
+127
+00:05:14.473 --> 00:05:15.177
+One.
+
+128
+00:05:15.457 --> 00:05:18.167
+I need access to the staging database.
+
+129
+00:05:18.447 --> 00:05:20.836
+Ravi, could you help after the stand-up?
+
+130
+00:05:22.186 --> 00:05:23.786
+The conversation continues.
+
+131
+00:05:24.066 --> 00:05:25.837
+Sure, I'll add you in ten minutes.
+
+132
+00:05:26.117 --> 00:05:26.927
+Thanks.
+
+133
+00:05:27.207 --> 00:05:28.551
+That's all from me.
+
+134
+00:05:29.901 --> 00:05:31.437
+That's the end of this lesson.
+
+135
+00:05:31.717 --> 00:05:36.368
+Pick one script from it, say it out loud three times, and use it for real today.
+
+136
+00:05:36.648 --> 00:05:42.771
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

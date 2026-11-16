@@ -1,0 +1,390 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.331
+Storytelling.
+
+2
+00:00:01.611 --> 00:00:06.155
+Day 21 of the Soft Skill Playbook course, in the Communication phase.
+
+3
+00:00:07.905 --> 00:00:08.929
+The key idea.
+
+4
+00:00:09.209 --> 00:00:17.657
+Today's goal: turn facts into short stories people remember, for interviews, presentations, team updates and everyday conversation.
+
+5
+00:00:19.007 --> 00:00:19.861
+Part 1.
+
+6
+00:00:20.141 --> 00:00:21.442
+Why stories work.
+
+7
+00:00:22.692 --> 00:00:28.559
+People forget bullet points but remember stories: a person, a problem, a struggle and a result.
+
+8
+00:00:28.839 --> 00:00:34.236
+A 30-second story makes your point stick in an interview, a demo, or a request for budget.
+
+9
+00:00:35.586 --> 00:00:36.461
+Part 2.
+
+10
+00:00:36.741 --> 00:00:38.085
+The simple story arc.
+
+11
+00:00:39.335 --> 00:00:40.252
+Step 1:
+
+12
+00:00:40.532 --> 00:00:43.028
+Setting: when, where, who (Last Diwali sale...).
+
+13
+00:00:43.308 --> 00:00:44.225
+Step 2:
+
+14
+00:00:44.505 --> 00:00:46.831
+Problem: what went wrong or what was at stake.
+
+15
+00:00:47.111 --> 00:00:48.028
+Step 3:
+
+16
+00:00:48.308 --> 00:00:51.039
+Struggle: what you tried; tension and choices.
+
+17
+00:00:51.319 --> 00:00:52.279
+Step 4:
+
+18
+00:00:52.559 --> 00:00:54.991
+Turning point: the key action or insight.
+
+19
+00:00:55.271 --> 00:00:56.231
+Step 5:
+
+20
+00:00:56.511 --> 00:01:00.116
+Result and lesson: what changed, with a number, and what you learned.
+
+21
+00:01:01.466 --> 00:01:02.341
+Example:
+
+22
+00:01:02.621 --> 00:01:03.986
+From facts to story.
+
+23
+00:01:04.266 --> 00:01:05.055
+Facts:
+
+24
+00:01:05.335 --> 00:01:06.957
+We added canary deploys.
+
+25
+00:01:07.237 --> 00:01:08.538
+Outages went down.
+
+26
+00:01:08.818 --> 00:01:09.629
+Story:
+
+27
+00:01:09.909 --> 00:01:15.903
+Last Diwali, our biggest sales day, a deploy at 7 pm took checkout down for 40 minutes.
+
+28
+00:01:16.183 --> 00:01:18.743
+We lost about 1,200 orders.
+
+29
+00:01:19.023 --> 00:01:23.055
+The next morning, the team was exhausted and the CEO wanted answers.
+
+30
+00:01:23.335 --> 00:01:27.815
+We realised the problem wasn't the code; it was releasing to everyone at once.
+
+31
+00:01:28.095 --> 00:01:31.061
+So we started releasing to 5% of users first.
+
+32
+00:01:31.341 --> 00:01:35.245
+This Diwali, we deployed eleven times and had zero outages.
+
+33
+00:01:35.525 --> 00:01:38.021
+Small, careful steps beat big brave ones.
+
+34
+00:01:39.371 --> 00:01:40.267
+Part 3.
+
+35
+00:01:40.547 --> 00:01:41.592
+Story tools.
+
+36
+00:01:42.842 --> 00:01:44.186
+Here is a quick table:
+
+37
+00:01:44.466 --> 00:01:45.703
+Tool, and Example.
+
+38
+00:01:45.983 --> 00:01:47.050
+Start in the middle:
+
+39
+00:01:47.330 --> 00:01:49.805
+At 7:10 pm, the alerts started.
+
+40
+00:01:50.085 --> 00:01:53.605
+Use a real detail: ...the dashboard turned completely red.
+
+41
+00:01:53.885 --> 00:01:54.994
+Include dialogue:
+
+42
+00:01:55.274 --> 00:01:57.941
+My manager asked, 'How long until it's back?'.
+
+43
+00:01:58.221 --> 00:01:59.245
+Use numbers:
+
+44
+00:01:59.525 --> 00:02:03.450
+1,200 orders, 40 minutes, zero outages.
+
+45
+00:02:03.730 --> 00:02:05.031
+End with one lesson:
+
+46
+00:02:05.311 --> 00:02:07.807
+Small, careful steps beat big brave ones.
+
+47
+00:02:08.087 --> 00:02:09.090
+Keep it short:
+
+48
+00:02:09.370 --> 00:02:11.887
+30 to 90 seconds for most work stories.
+
+49
+00:02:13.237 --> 00:02:14.155
+Part 4.
+
+50
+00:02:14.435 --> 00:02:15.672
+Where to use stories.
+
+51
+00:02:16.922 --> 00:02:18.266
+Here is a quick table:
+
+52
+00:02:18.546 --> 00:02:20.423
+Situation, and Story type.
+
+53
+00:02:20.703 --> 00:02:21.535
+Interview:
+
+54
+00:02:21.815 --> 00:02:22.946
+A STAR story:
+
+55
+00:02:23.226 --> 00:02:26.405
+Situation, Task, Action, Result (see Interviews).
+
+56
+00:02:26.685 --> 00:02:27.751
+Presentation:
+
+57
+00:02:28.031 --> 00:02:31.146
+Open with a short story instead of an agenda slide.
+
+58
+00:02:31.426 --> 00:02:32.706
+Asking for budget:
+
+59
+00:02:32.986 --> 00:02:36.079
+The customer or team pain, in one real example.
+
+60
+00:02:36.359 --> 00:02:37.362
+Team update:
+
+61
+00:02:37.642 --> 00:02:40.095
+Here's what happened with one customer this week...
+
+62
+00:02:40.375 --> 00:02:41.378
+Small talk:
+
+63
+00:02:41.658 --> 00:02:44.410
+A funny or surprising travel or weekend story.
+
+64
+00:02:45.760 --> 00:02:46.720
+Part 5.
+
+65
+00:02:47.000 --> 00:02:48.195
+Useful phrases.
+
+66
+00:02:49.445 --> 00:02:51.109
+Let me tell you about the time we...
+
+67
+00:02:51.389 --> 00:02:52.711
+It all started when...
+
+68
+00:02:52.991 --> 00:02:55.487
+At first, we thought... but then we realised...
+
+69
+00:02:55.767 --> 00:02:57.239
+That's when we decided to...
+
+70
+00:02:57.519 --> 00:03:00.207
+In the end... / Looking back, the lesson was...
+
+71
+00:03:01.557 --> 00:03:02.496
+Part 6.
+
+72
+00:03:02.776 --> 00:03:05.357
+Conversation: telling a story in an interview.
+
+73
+00:03:06.607 --> 00:03:08.634
+Here is how the conversation goes.
+
+74
+00:03:08.914 --> 00:03:11.026
+Tell me about a time you made a mistake.
+
+75
+00:03:11.306 --> 00:03:12.031
+Sure.
+
+76
+00:03:12.311 --> 00:03:19.885
+Two years ago, I ran a database migration on a Friday evening without testing it on a copy of production data.
+
+77
+00:03:20.165 --> 00:03:21.210
+What happened?
+
+78
+00:03:21.490 --> 00:03:24.093
+It locked the orders table for twelve minutes.
+
+79
+00:03:24.373 --> 00:03:28.085
+Customers couldn't place orders, and my phone started ringing.
+
+80
+00:03:29.435 --> 00:03:31.035
+The conversation continues.
+
+81
+00:03:31.315 --> 00:03:32.723
+How did you handle it?
+
+82
+00:03:33.003 --> 00:03:37.440
+I rolled it back first, then told my manager exactly what I'd done.
+
+83
+00:03:37.720 --> 00:03:44.376
+The next week, I added a rule to CI: every migration runs on a production snapshot first.
+
+84
+00:03:44.656 --> 00:03:45.787
+And the result?
+
+85
+00:03:46.067 --> 00:03:48.819
+We haven't had a migration outage since then.
+
+86
+00:03:49.099 --> 00:03:54.645
+The lesson for me was: own the mistake quickly, then fix the system, not just the bug.
+
+87
+00:03:55.995 --> 00:03:56.934
+Part 7.
+
+88
+00:03:57.214 --> 00:03:58.131
+Practice.
+
+89
+00:03:59.381 --> 00:04:04.224
+Write a 60-second story about a problem you solved at work, using the 5-step arc.
+
+90
+00:04:04.504 --> 00:04:05.997
+Tell it aloud and time it.
+
+91
+00:04:07.347 --> 00:04:08.222
+Part 8.
+
+92
+00:04:08.502 --> 00:04:09.547
+Speak today.
+
+93
+00:04:10.797 --> 00:04:14.979
+Prepare one work story and one personal story you can tell in under a minute.
+
+94
+00:04:15.259 --> 00:04:19.760
+Start your next update or presentation with a short story instead of an agenda.
+
+95
+00:04:21.110 --> 00:04:22.646
+That's the end of this lesson.
+
+96
+00:04:22.926 --> 00:04:27.577
+Pick one script from it, say it out loud three times, and use it for real today.
+
+97
+00:04:27.857 --> 00:04:33.979
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+
