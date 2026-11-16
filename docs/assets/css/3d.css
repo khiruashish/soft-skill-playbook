@@ -465,3 +465,23 @@ body::before {
 @media (prefers-reduced-motion: reduce) {
   .ssp-day, .ssp-day-badge, .ssp-msg:hover { transform: none !important; }
 }
+
+/* ---------- Lesson videos (hooks/videos.py, docs/videos/index.md) ---------- */
+.ssp-video {
+  margin: 1.2rem 0 1.6rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: var(--md-default-bg-color);
+  box-shadow: var(--ssp-depth-2);
+}
+.ssp-video video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #1e1a30; }
+.ssp-video figcaption {
+  margin: 0; padding: .6rem .9rem; font-size: .72rem; text-align: left;
+  color: var(--md-default-fg-color--light);
+}
+.ssp-video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+  gap: 1rem;
+}
+.ssp-video-grid .ssp-video { margin: 0; }

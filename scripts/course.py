@@ -161,6 +161,8 @@ def rel(from_file: str, to_file: str) -> str:
 def gen_nav() -> str:
     lines = ["nav:", "  - Home: index.md", "  - Start Here:",
              "      - course/index.md", "      - Master Prompt: master-prompt.md"]
+    if (ROOT / "docs" / "videos" / "index.md").exists():  # lesson videos (tools/videos)
+        lines.append("      - Videos: videos/index.md")
     numbered = {f: n for n, _, (f, _, _) in days()}
     for key, tab, _full, _icon, _blurb, items in PHASES:
         lines.append(f'  - "{tab}":')

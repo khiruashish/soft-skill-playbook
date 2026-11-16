@@ -45,6 +45,7 @@ theme:
 
 hooks:
   - hooks/course.py
+  - hooks/videos.py
 
 extra_css:
   - assets/css/3d.css
