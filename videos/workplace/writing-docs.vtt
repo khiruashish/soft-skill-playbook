@@ -1,0 +1,358 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:02.078
+Writing Docs and Proposals.
+
+2
+00:00:02.358 --> 00:00:06.454
+Day 66 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:08.204 --> 00:00:09.228
+The key idea.
+
+4
+00:00:09.508 --> 00:00:19.556
+Today's goal: write design docs, proposals and READMEs that busy people actually read, so you can get decisions made and influence without being in every meeting.
+
+5
+00:00:20.906 --> 00:00:21.759
+Part 1.
+
+6
+00:00:22.039 --> 00:00:23.981
+Why writing matters for engineers.
+
+7
+00:00:25.231 --> 00:00:27.641
+Senior engineers influence through writing.
+
+8
+00:00:27.921 --> 00:00:31.633
+A clear one-page proposal reaches more people than any meeting.
+
+9
+00:00:31.913 --> 00:00:35.284
+It's also how remote and global teams make decisions.
+
+10
+00:00:36.634 --> 00:00:37.509
+Part 2.
+
+11
+00:00:37.789 --> 00:00:39.239
+The one-page proposal.
+
+12
+00:00:40.489 --> 00:00:41.407
+Step 1:
+
+13
+00:00:41.687 --> 00:00:46.785
+Summary (TL;DR): the problem, your recommendation and the ask, in 3 lines.
+
+14
+00:00:47.065 --> 00:00:47.983
+Step 2:
+
+15
+00:00:48.263 --> 00:00:52.572
+Problem: what's wrong today, with evidence (numbers, incidents, user pain).
+
+16
+00:00:52.852 --> 00:00:53.769
+Step 3:
+
+17
+00:00:54.049 --> 00:00:54.924
+Options:
+
+18
+00:00:55.204 --> 00:00:58.617
+2 to 3 options with pros, cons, cost and risk.
+
+19
+00:00:58.897 --> 00:00:59.857
+Step 4:
+
+20
+00:01:00.137 --> 00:01:02.569
+Recommendation: which option, and why.
+
+21
+00:01:02.849 --> 00:01:03.809
+Step 5:
+
+22
+00:01:04.089 --> 00:01:08.015
+Plan and ask: timeline, people, the decision you need, and by when.
+
+23
+00:01:09.365 --> 00:01:10.261
+Part 3.
+
+24
+00:01:10.541 --> 00:01:11.970
+Design doc template.
+
+25
+00:01:13.220 --> 00:01:14.799
+Here is the MARKDOWN code.
+
+26
+00:01:15.079 --> 00:01:18.748
+It runs to 32 lines; the full listing is in the chapter.
+
+27
+00:01:19.028 --> 00:01:19.903
+Design:
+
+28
+00:01:20.183 --> 00:01:21.889
+Delivery slot reservation.
+
+29
+00:01:22.169 --> 00:01:22.895
+Author:
+
+30
+00:01:23.175 --> 00:01:24.497
+Ashish, Reviewers:
+
+31
+00:01:24.777 --> 00:01:26.249
+Meena, Arun, Status:
+
+32
+00:01:26.529 --> 00:01:27.873
+Draft, Decision by:
+
+33
+00:01:28.153 --> 00:01:29.113
+20 Nov.
+
+34
+00:01:29.393 --> 00:01:30.801
+Context and problem.
+
+35
+00:01:33.651 --> 00:01:34.569
+Part 4.
+
+36
+00:01:34.849 --> 00:01:35.915
+Writing tips.
+
+37
+00:01:37.165 --> 00:01:38.531
+Here is a quick table:
+
+38
+00:01:38.811 --> 00:01:39.835
+Do, and Avoid.
+
+39
+00:01:40.115 --> 00:01:41.480
+Put the summary first:
+
+40
+00:01:41.760 --> 00:01:43.744
+Building up to the point on page 3.
+
+41
+00:01:44.024 --> 00:01:45.901
+Use headings, bullets, tables:
+
+42
+00:01:46.181 --> 00:01:47.312
+Long paragraphs.
+
+43
+00:01:47.592 --> 00:01:50.067
+Show evidence: numbers, links, quotes:
+
+44
+00:01:50.347 --> 00:01:51.904
+Everyone knows this is slow.
+
+45
+00:01:52.184 --> 00:01:53.848
+Be explicit about trade-offs:
+
+46
+00:01:54.128 --> 00:01:56.240
+Presenting only your favourite option.
+
+47
+00:01:56.520 --> 00:01:59.229
+End with open questions and a decision date:
+
+48
+00:01:59.509 --> 00:02:01.301
+Docs that never get decided.
+
+49
+00:02:01.581 --> 00:02:03.501
+Write for someone new to the topic:
+
+50
+00:02:03.781 --> 00:02:06.491
+Unexplained acronyms and internal jargon.
+
+51
+00:02:07.841 --> 00:02:08.801
+Part 5.
+
+52
+00:02:09.081 --> 00:02:11.491
+Asking for and handling review comments.
+
+53
+00:02:12.741 --> 00:02:15.707
+Could you review the slot-reservation doc by Thursday?
+
+54
+00:02:15.987 --> 00:02:19.912
+I'm mainly looking for feedback on the Redis option and the rollout plan.
+
+55
+00:02:20.192 --> 00:02:21.429
+Reply to comments:
+
+56
+00:02:21.709 --> 00:02:26.317
+Good point, I've added it to Risks. / I considered that, but chose B because...
+
+57
+00:02:26.597 --> 00:02:30.203
+What do you think? / Let's discuss this one in the review meeting.
+
+58
+00:02:31.553 --> 00:02:32.491
+Part 6.
+
+59
+00:02:32.771 --> 00:02:35.673
+Conversation: getting a decision from a proposal.
+
+60
+00:02:36.923 --> 00:02:38.949
+Here is how the conversation goes.
+
+61
+00:02:39.229 --> 00:02:40.616
+Thanks for joining.
+
+62
+00:02:40.896 --> 00:02:43.541
+Did everyone get a chance to read the proposal?
+
+63
+00:02:43.821 --> 00:02:44.675
+Yes.
+
+64
+00:02:44.955 --> 00:02:48.261
+I like option B, but I'm worried about Redis going down.
+
+65
+00:02:48.541 --> 00:02:49.480
+Good point.
+
+66
+00:02:49.760 --> 00:02:55.029
+If Redis is down, we fall back to no reservation, which is how it works today.
+
+67
+00:02:55.309 --> 00:02:57.443
+I've added that to the Risks section.
+
+68
+00:02:57.723 --> 00:02:58.853
+What's the cost?
+
+69
+00:03:00.203 --> 00:03:01.803
+The conversation continues.
+
+70
+00:03:02.083 --> 00:03:07.694
+Two engineers for two sprints, and about 6,000 rupeesa month for the Redis cluster.
+
+71
+00:03:07.974 --> 00:03:09.659
+And the expected impact?
+
+72
+00:03:09.939 --> 00:03:19.113
+We expect slot failures to drop from 8% to under 1%, which is roughly 1,500 more successful orders a week.
+
+73
+00:03:19.393 --> 00:03:20.481
+Sounds good.
+
+74
+00:03:20.761 --> 00:03:22.062
+Any objections?...
+
+75
+00:03:22.342 --> 00:03:23.195
+No?
+
+76
+00:03:23.475 --> 00:03:25.246
+Then let's go with option B.
+
+77
+00:03:26.596 --> 00:03:28.196
+The conversation continues.
+
+78
+00:03:28.476 --> 00:03:29.223
+Great.
+
+79
+00:03:29.503 --> 00:03:33.535
+I'll update the doc status to Approved and create the tickets today.
+
+80
+00:03:34.885 --> 00:03:35.823
+Part 7.
+
+81
+00:03:36.103 --> 00:03:37.021
+Practice.
+
+82
+00:03:38.271 --> 00:03:45.033
+Write the 3-line TL;DR for a change you'd like to make in your team: problem, recommendation, ask.
+
+83
+00:03:46.383 --> 00:03:47.258
+Part 8.
+
+84
+00:03:47.538 --> 00:03:48.583
+Speak today.
+
+85
+00:03:49.833 --> 00:03:53.460
+Add a TL;DR to the top of one document you've written.
+
+86
+00:03:53.740 --> 00:03:56.812
+Ask one colleague for review with a specific question.
+
+87
+00:03:58.162 --> 00:03:59.698
+That's the end of this lesson.
+
+88
+00:03:59.978 --> 00:04:04.650
+Pick one script from it, say it out loud three times, and use it for real today.
+
+89
+00:04:04.930 --> 00:04:11.031
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

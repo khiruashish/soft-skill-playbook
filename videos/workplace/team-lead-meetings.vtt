@@ -1,0 +1,978 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.523
+Team Lead Meetings.
+
+2
+00:00:01.803 --> 00:00:05.899
+Day 69 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:07.649 --> 00:00:08.673
+The key idea.
+
+4
+00:00:08.953 --> 00:00:10.639
+Two sides of the same table.
+
+5
+00:00:10.919 --> 00:00:15.121
+If you report to a team lead, this page shows how to use your time with them well.
+
+6
+00:00:15.401 --> 00:00:23.999
+If you are the team lead, it shows how to run one-on-ones, stand-ups, sprint planning and retros that people find useful rather than tiring.
+
+7
+00:00:25.349 --> 00:00:26.671
+Meeting your team lead.
+
+8
+00:00:26.951 --> 00:00:27.805
+Part 1.
+
+9
+00:00:28.085 --> 00:00:29.770
+What your team lead needs from you.
+
+10
+00:00:31.020 --> 00:00:32.364
+Here is a quick table:
+
+11
+00:00:32.644 --> 00:00:34.073
+They need, and You give.
+
+12
+00:00:34.353 --> 00:00:35.292
+Visibility:
+
+13
+00:00:35.572 --> 00:00:37.983
+Short, regular status, before they ask.
+
+14
+00:00:38.263 --> 00:00:39.265
+Early risks:
+
+15
+00:00:39.545 --> 00:00:41.913
+This might slip on day 2, not day 10.
+
+16
+00:00:42.193 --> 00:00:43.409
+Technical judgement:
+
+17
+00:00:43.689 --> 00:00:46.164
+Options and trade-offs, not just it's hard.
+
+18
+00:00:46.444 --> 00:00:47.297
+Ownership:
+
+19
+00:00:47.577 --> 00:00:49.369
+I'll handle it and follow-through.
+
+20
+00:00:49.649 --> 00:00:50.737
+Honest feedback:
+
+21
+00:00:51.017 --> 00:00:53.193
+What's working and what isn't in the team.
+
+22
+00:00:54.543 --> 00:00:55.418
+Part 2.
+
+23
+00:00:55.698 --> 00:00:57.533
+Your one-on-one with the team lead.
+
+24
+00:00:58.783 --> 00:01:02.452
+Here is a template you can copy. one-on-one, Team lead, Date.
+
+25
+00:01:02.732 --> 00:01:03.372
+1.
+
+26
+00:01:03.652 --> 00:01:07.023
+Progress: search filters done; sorting 70%.
+
+27
+00:01:07.303 --> 00:01:08.007
+2.
+
+28
+00:01:08.287 --> 00:01:12.255
+Blocker: need decision on pagination (cursor versus offset).
+
+29
+00:01:12.535 --> 00:01:13.281
+3.
+
+30
+00:01:13.561 --> 00:01:16.463
+Tech question: should we cache category tree in Redis?
+
+31
+00:01:16.743 --> 00:01:17.447
+4.
+
+32
+00:01:17.727 --> 00:01:20.073
+Growth: can I lead the next design review?
+
+33
+00:01:20.353 --> 00:01:21.121
+5.
+
+34
+00:01:21.401 --> 00:01:24.665
+Team: onboarding docs are outdated, happy to fix.
+
+35
+00:01:27.515 --> 00:01:28.411
+Part 3.
+
+36
+00:01:28.691 --> 00:01:29.481
+Scripts.
+
+37
+00:01:30.731 --> 00:01:32.373
+Getting a technical decision.
+
+38
+00:01:32.653 --> 00:01:33.592
+You could say:
+
+39
+00:01:33.872 --> 00:01:35.877
+I need a decision on pagination.
+
+40
+00:01:36.157 --> 00:01:40.445
+Option A: offset, which is simple but slow past page 100.
+
+41
+00:01:40.725 --> 00:01:45.205
+Option B: cursor, which is fast but can't jump to an arbitrary page.
+
+42
+00:01:45.485 --> 00:01:49.795
+Product says users rarely go past page 5, so I recommend cursor.
+
+43
+00:01:50.075 --> 00:01:51.269
+Okay to go ahead?
+
+44
+00:01:52.619 --> 00:01:54.454
+Asking for more responsibility.
+
+45
+00:01:54.734 --> 00:01:55.673
+You could say:
+
+46
+00:01:55.953 --> 00:01:57.915
+I'd like to grow toward a senior role.
+
+47
+00:01:58.195 --> 00:02:02.483
+Could I own the delivery-slot service end to end, from design to on-call?
+
+48
+00:02:02.763 --> 00:02:05.430
+I'd check in with you on the design before building.
+
+49
+00:02:06.780 --> 00:02:07.761
+Too much work.
+
+50
+00:02:08.041 --> 00:02:08.980
+You could say:
+
+51
+00:02:09.260 --> 00:02:13.249
+I have the search work, two production bugs and the interview loop this week.
+
+52
+00:02:13.529 --> 00:02:14.980
+I can't do all of it well.
+
+53
+00:02:15.260 --> 00:02:17.308
+Which should I drop or push to next week?
+
+54
+00:02:18.658 --> 00:02:20.194
+Giving feedback to your lead.
+
+55
+00:02:20.474 --> 00:02:21.413
+You could say:
+
+56
+00:02:21.693 --> 00:02:23.207
+Can I share some feedback?
+
+57
+00:02:23.487 --> 00:02:26.986
+When requirements change mid-sprint, it'd help to know the reason.
+
+58
+00:02:27.266 --> 00:02:33.005
+Last week the team rewrote the cart API twice without context, and people felt frustrated.
+
+59
+00:02:33.285 --> 00:02:35.973
+A quick note on the 'why' would make a big difference.
+
+60
+00:02:37.323 --> 00:02:38.773
+Concern about a teammate.
+
+61
+00:02:39.053 --> 00:02:39.992
+You could say:
+
+62
+00:02:40.272 --> 00:02:42.128
+I want to raise something carefully.
+
+63
+00:02:42.408 --> 00:02:48.701
+I've noticed the integration tests have been skipped on the last few PRs, and it caused yesterday's staging break.
+
+64
+00:02:48.981 --> 00:02:50.816
+I've mentioned it to Arun directly.
+
+65
+00:02:51.096 --> 00:02:54.573
+Could we talk about a team-wide rule so it doesn't feel personal?
+
+66
+00:02:55.923 --> 00:02:57.459
+Talk to the person first.
+
+67
+00:02:57.739 --> 00:02:59.830
+Escalate the pattern, not the person.
+
+68
+00:03:01.180 --> 00:03:02.097
+Part 4.
+
+69
+00:03:02.377 --> 00:03:03.679
+Mistakes to avoid.
+
+70
+00:03:04.929 --> 00:03:05.782
+Avoid:
+
+71
+00:03:06.062 --> 00:03:08.857
+Showing up to the one-on-one with nothing to discuss.
+
+72
+00:03:09.137 --> 00:03:09.990
+Avoid:
+
+73
+00:03:10.270 --> 00:03:13.065
+Bringing problems without any proposed solution.
+
+74
+00:03:13.345 --> 00:03:14.198
+Avoid:
+
+75
+00:03:14.478 --> 00:03:17.081
+Agreeing in the meeting and complaining after it.
+
+76
+00:03:17.361 --> 00:03:18.214
+Avoid:
+
+77
+00:03:18.494 --> 00:03:22.398
+Using the one-on-one only for status (that's what stand-up is for).
+
+78
+00:03:23.748 --> 00:03:25.775
+Running meetings as a team lead.
+
+79
+00:03:26.055 --> 00:03:27.015
+Part 5.
+
+80
+00:03:27.295 --> 00:03:28.511
+The meeting toolkit.
+
+81
+00:03:29.761 --> 00:03:31.105
+Here is a quick table:
+
+82
+00:03:31.385 --> 00:03:33.838
+Meeting, and Frequency, and Length, and Goal.
+
+83
+00:03:34.118 --> 00:03:35.206
+Daily stand-up.
+
+84
+00:03:35.486 --> 00:03:36.425
+Frequency:
+
+85
+00:03:36.705 --> 00:03:37.451
+Daily.
+
+86
+00:03:37.731 --> 00:03:38.435
+Length:
+
+87
+00:03:38.715 --> 00:03:39.761
+15 min.
+
+88
+00:03:40.041 --> 00:03:40.745
+Goal:
+
+89
+00:03:41.025 --> 00:03:43.051
+Sync and unblock. one-on-one.
+
+90
+00:03:43.331 --> 00:03:44.270
+Frequency:
+
+91
+00:03:44.550 --> 00:03:46.043
+Weekly or bi-weekly.
+
+92
+00:03:46.323 --> 00:03:47.027
+Length:
+
+93
+00:03:47.307 --> 00:03:48.246
+30 min.
+
+94
+00:03:48.526 --> 00:03:49.230
+Goal:
+
+95
+00:03:49.510 --> 00:03:51.409
+Trust, growth, early warnings.
+
+96
+00:03:51.689 --> 00:03:52.755
+Sprint planning.
+
+97
+00:03:53.035 --> 00:03:53.974
+Frequency:
+
+98
+00:03:54.254 --> 00:03:55.278
+Every sprint.
+
+99
+00:03:55.558 --> 00:03:56.262
+Length:
+
+100
+00:03:56.542 --> 00:03:57.971
+60 to 90 min.
+
+101
+00:03:58.251 --> 00:03:58.955
+Goal:
+
+102
+00:03:59.235 --> 00:04:00.729
+Commit to realistic scope.
+
+103
+00:04:01.009 --> 00:04:02.310
+Backlog refinement.
+
+104
+00:04:02.590 --> 00:04:03.529
+Frequency:
+
+105
+00:04:03.809 --> 00:04:04.598
+Weekly.
+
+106
+00:04:04.878 --> 00:04:05.582
+Length:
+
+107
+00:04:05.862 --> 00:04:07.057
+45 min.
+
+108
+00:04:07.337 --> 00:04:08.041
+Goal:
+
+109
+00:04:08.321 --> 00:04:10.518
+Clarify and estimate upcoming work.
+
+110
+00:04:10.798 --> 00:04:11.950
+Retrospective.
+
+111
+00:04:12.230 --> 00:04:13.169
+Frequency:
+
+112
+00:04:13.449 --> 00:04:14.473
+Every sprint.
+
+113
+00:04:14.753 --> 00:04:15.457
+Length:
+
+114
+00:04:15.737 --> 00:04:17.358
+45 to 60 min.
+
+115
+00:04:17.638 --> 00:04:18.342
+Goal:
+
+116
+00:04:18.622 --> 00:04:19.987
+Improve how we work.
+
+117
+00:04:20.267 --> 00:04:21.697
+Tech or design review.
+
+118
+00:04:21.977 --> 00:04:22.915
+Frequency:
+
+119
+00:04:23.195 --> 00:04:24.113
+As needed.
+
+120
+00:04:24.393 --> 00:04:25.097
+Length:
+
+121
+00:04:25.377 --> 00:04:26.571
+45 min.
+
+122
+00:04:26.851 --> 00:04:27.555
+Goal:
+
+123
+00:04:27.835 --> 00:04:30.011
+Make good technical decisions together.
+
+124
+00:04:31.361 --> 00:04:33.985
+Part 6. one-on-ones with your team members.
+
+125
+00:04:35.235 --> 00:04:36.771
+Their meeting, not yours.
+
+126
+00:04:37.051 --> 00:04:40.891
+Let them set most of the agenda; you listen 70% of the time.
+
+127
+00:04:41.171 --> 00:04:42.814
+Great one-on-one questions:
+
+128
+00:04:43.094 --> 00:04:44.566
+What's on your mind this week?
+
+129
+00:04:44.846 --> 00:04:47.043
+What's blocking you or slowing you down?
+
+130
+00:04:47.323 --> 00:04:49.819
+What's one thing I could do to make your work easier?
+
+131
+00:04:50.099 --> 00:04:51.913
+What are you enjoying most right now?
+
+132
+00:04:52.193 --> 00:04:52.982
+Least?
+
+133
+00:04:53.262 --> 00:04:54.755
+Where do you want to be in a year?
+
+134
+00:04:55.035 --> 00:04:56.187
+What could get you there?
+
+135
+00:04:57.537 --> 00:05:01.079
+Is there anything in the team that bothers you that I might not see?
+
+136
+00:05:02.429 --> 00:05:03.069
+Tip:
+
+137
+00:05:03.349 --> 00:05:04.842
+Never cancel one-on-ones.
+
+138
+00:05:05.122 --> 00:05:06.573
+Reschedule if you must.
+
+139
+00:05:06.853 --> 00:05:09.989
+Cancelling repeatedly tells people they're not a priority.
+
+140
+00:05:11.339 --> 00:05:12.277
+Part 7.
+
+141
+00:05:12.557 --> 00:05:14.136
+Stand-up: keep it tight.
+
+142
+00:05:15.386 --> 00:05:16.325
+You could say:
+
+143
+00:05:16.605 --> 00:05:17.906
+Morning, everyone!
+
+144
+00:05:18.186 --> 00:05:20.554
+Same format: done, doing, blockers.
+
+145
+00:05:20.834 --> 00:05:23.181
+Let's keep detailed discussions for after.
+
+146
+00:05:23.461 --> 00:05:24.869
+Kavya, want to start?
+
+147
+00:05:26.219 --> 00:05:27.861
+Redirect long discussions:
+
+148
+00:05:28.141 --> 00:05:29.101
+Great point.
+
+149
+00:05:29.381 --> 00:05:32.112
+Ravi and Meena, can you two take that right after?
+
+150
+00:05:33.462 --> 00:05:34.337
+Part 8.
+
+151
+00:05:34.617 --> 00:05:35.683
+Sprint planning.
+
+152
+00:05:36.933 --> 00:05:37.872
+You could say:
+
+153
+00:05:38.152 --> 00:05:41.267
+Our sprint goal: launch delivery-slot booking in Pune.
+
+154
+00:05:41.547 --> 00:05:48.160
+Last 3 sprints we averaged 34 points, and 2 people are on leave, so let's commit to about 26.
+
+155
+00:05:48.440 --> 00:05:51.491
+Anything that doesn't serve the goal goes to the stretch list.
+
+156
+00:05:52.841 --> 00:05:54.953
+Start with the goal, then pick stories.
+
+157
+00:05:55.233 --> 00:05:58.795
+Plan around real capacity (leave, on-call, interviews).
+
+158
+00:05:59.075 --> 00:06:02.105
+Make sure every story has clear acceptance criteria.
+
+159
+00:06:02.385 --> 00:06:03.750
+Ask the quiet people:
+
+160
+00:06:04.030 --> 00:06:06.377
+Arun, does that estimate feel right to you?
+
+161
+00:06:07.727 --> 00:06:08.623
+Part 9.
+
+162
+00:06:08.903 --> 00:06:11.399
+Retrospectives that actually change things.
+
+163
+00:06:12.649 --> 00:06:13.438
+Format:
+
+164
+00:06:13.718 --> 00:06:18.155
+Start or Stop or Continue (or Went well or Didn't go well or Ideas).
+
+165
+00:06:19.505 --> 00:06:20.444
+You could say:
+
+166
+00:06:20.724 --> 00:06:23.881
+The goal is to improve the system, not to blame anyone.
+
+167
+00:06:24.161 --> 00:06:26.636
+What happens in the retro is safe to say here.
+
+168
+00:06:26.916 --> 00:06:29.817
+Let's take 5 minutes to write silently, then share.
+
+169
+00:06:31.167 --> 00:06:33.791
+Pick at most 2 action items, each with an owner.
+
+170
+00:06:34.071 --> 00:06:37.399
+Start the next retro by reviewing last retro's actions.
+
+171
+00:06:37.679 --> 00:06:40.538
+Rotate the facilitator so everyone gets a turn.
+
+172
+00:06:41.888 --> 00:06:42.741
+Part 10.
+
+173
+00:06:43.021 --> 00:06:44.152
+Design reviews.
+
+174
+00:06:45.402 --> 00:06:48.325
+Ask the author to share the doc 24 hours before.
+
+175
+00:06:48.605 --> 00:06:51.357
+Speak last as the lead, so you don't anchor the room.
+
+176
+00:06:51.637 --> 00:06:52.298
+Ask:
+
+177
+00:06:52.578 --> 00:06:54.455
+What alternatives did we consider?
+
+178
+00:06:54.735 --> 00:06:56.143
+What's the riskiest part?
+
+179
+00:06:56.423 --> 00:06:57.661
+How do we roll back?
+
+180
+00:06:57.941 --> 00:07:01.525
+End with a decision, or with exactly what's needed to make one.
+
+181
+00:07:02.875 --> 00:07:03.877
+Part 11.
+
+182
+00:07:04.157 --> 00:07:06.248
+Handling team dynamics in meetings.
+
+183
+00:07:07.498 --> 00:07:08.842
+Here is a quick table:
+
+184
+00:07:09.122 --> 00:07:10.914
+Situation, and What to say.
+
+185
+00:07:11.194 --> 00:07:12.623
+One person dominates:
+
+186
+00:07:12.903 --> 00:07:13.991
+Thanks, Rahul.
+
+187
+00:07:14.271 --> 00:07:16.618
+Let's hear from someone who hasn't spoken yet.
+
+188
+00:07:16.898 --> 00:07:17.602
+Priya?
+
+189
+00:07:17.882 --> 00:07:19.247
+Someone stays silent:
+
+190
+00:07:19.527 --> 00:07:22.621
+(Later, one-on-one) I'd love to hear your view in meetings.
+
+191
+00:07:22.901 --> 00:07:24.799
+Would it help if I asked you directly?
+
+192
+00:07:25.079 --> 00:07:26.295
+Two people argue:
+
+193
+00:07:26.575 --> 00:07:28.154
+You both have valid points.
+
+194
+00:07:28.434 --> 00:07:31.271
+Let's write down the trade-offs and decide with data.
+
+195
+00:07:31.551 --> 00:07:33.151
+Meeting going off-topic:
+
+196
+00:07:33.431 --> 00:07:34.541
+Let's park that.
+
+197
+00:07:34.821 --> 00:07:36.677
+I'll add it to the next refinement.
+
+198
+00:07:36.957 --> 00:07:38.023
+Blame starts:
+
+199
+00:07:38.303 --> 00:07:41.333
+Let's focus on what in the process allowed this, not who.
+
+200
+00:07:41.613 --> 00:07:42.893
+Bad news for the team:
+
+201
+00:07:43.173 --> 00:07:46.117
+I'll be straight with you: the deadline moved up 2 weeks.
+
+202
+00:07:46.397 --> 00:07:48.957
+Here's what I know and what I'm pushing back on.
+
+203
+00:07:50.307 --> 00:07:51.245
+Part 12.
+
+204
+00:07:51.525 --> 00:07:53.040
+Communicating up and down.
+
+205
+00:07:54.290 --> 00:07:55.634
+Here is a quick table:
+
+206
+00:07:55.914 --> 00:07:58.495
+To the team, and To your manager or leadership.
+
+207
+00:07:58.775 --> 00:08:00.567
+Context: why we're doing this:
+
+208
+00:08:00.847 --> 00:08:03.087
+Outcomes, risks, decisions needed.
+
+209
+00:08:03.367 --> 00:08:04.946
+Shield from noise and churn:
+
+210
+00:08:05.226 --> 00:08:07.167
+Advocate for the team's capacity.
+
+211
+00:08:07.447 --> 00:08:09.197
+Credit individuals publicly:
+
+212
+00:08:09.477 --> 00:08:11.909
+Report problems with your plan to fix them.
+
+213
+00:08:12.189 --> 00:08:13.874
+Be honest about uncertainty:
+
+214
+00:08:14.154 --> 00:08:15.797
+Escalate early with options.
+
+215
+00:08:17.147 --> 00:08:18.192
+Part 13.
+
+216
+00:08:18.472 --> 00:08:20.605
+New team lead: first 30 days.
+
+217
+00:08:21.855 --> 00:08:23.733
+one-on-one with every team member:
+
+218
+00:08:24.013 --> 00:08:25.101
+What should I keep?
+
+219
+00:08:25.381 --> 00:08:26.554
+What should I change?
+
+220
+00:08:26.834 --> 00:08:29.522
+Learn the current processes before changing any.
+
+221
+00:08:29.802 --> 00:08:32.981
+Meet key stakeholders (PM, QA, other leads).
+
+222
+00:08:33.261 --> 00:08:35.671
+Agree on expectations with your manager.
+
+223
+00:08:35.951 --> 00:08:38.810
+Fix one small irritation quickly to build trust.
+
+224
+00:08:39.090 --> 00:08:40.669
+Shift from I did to we did.
+
+225
+00:08:40.949 --> 00:08:43.210
+Your success is now the team's success.
+
+226
+00:08:44.560 --> 00:08:45.605
+Part 14.
+
+227
+00:08:45.885 --> 00:08:47.272
+Practice conversation:
+
+228
+00:08:47.552 --> 00:08:49.451
+Asking your team lead for a decision.
+
+229
+00:08:50.701 --> 00:08:52.727
+Here is how the conversation goes.
+
+230
+00:08:53.007 --> 00:08:57.167
+I need a quick decision on pagination for the search API.
+
+231
+00:08:57.447 --> 00:08:59.175
+Okay, what are the options?
+
+232
+00:08:59.455 --> 00:09:03.871
+Offset pagination is simple but slow after page 100.
+
+233
+00:09:04.151 --> 00:09:08.525
+Cursor pagination is fast but users can't jump to a page number.
+
+234
+00:09:08.805 --> 00:09:10.554
+What do users actually do?
+
+235
+00:09:11.904 --> 00:09:13.504
+The conversation continues.
+
+236
+00:09:13.784 --> 00:09:18.029
+Product data says 98% never go past page 5.
+
+237
+00:09:18.309 --> 00:09:20.101
+So I recommend cursor.
+
+238
+00:09:20.381 --> 00:09:21.427
+Makes sense.
+
+239
+00:09:21.707 --> 00:09:24.779
+Go with cursor, and note the decision in the design doc.
+
+240
+00:09:25.059 --> 00:09:26.019
+Will do.
+
+241
+00:09:26.299 --> 00:09:27.109
+Thanks.
+
+242
+00:09:28.459 --> 00:09:29.995
+That's the end of this lesson.
+
+243
+00:09:30.275 --> 00:09:34.926
+Pick one script from it, say it out loud three times, and use it for real today.
+
+244
+00:09:35.206 --> 00:09:41.329
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

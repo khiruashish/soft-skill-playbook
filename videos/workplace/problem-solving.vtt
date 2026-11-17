@@ -1,0 +1,502 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:02.099
+Problem Solving and Decisions.
+
+2
+00:00:02.379 --> 00:00:06.454
+Day 67 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:08.204 --> 00:00:09.228
+The key idea.
+
+4
+00:00:09.508 --> 00:00:19.087
+Today's goal: talk through problems clearly: define the problem, think out loud, compare options, make a decision with others, and explain why you decided.
+
+5
+00:00:20.437 --> 00:00:21.290
+Part 1.
+
+6
+00:00:21.570 --> 00:00:23.426
+A simple problem-solving flow.
+
+7
+00:00:24.676 --> 00:00:25.593
+Step 1:
+
+8
+00:00:25.873 --> 00:00:28.113
+Define: what exactly is the problem?
+
+9
+00:00:28.393 --> 00:00:29.609
+Who does it affect?
+
+10
+00:00:29.889 --> 00:00:30.892
+How do we know?
+
+11
+00:00:31.172 --> 00:00:32.089
+Step 2:
+
+12
+00:00:32.369 --> 00:00:35.569
+Find the cause: ask why until you reach the root cause.
+
+13
+00:00:35.849 --> 00:00:36.767
+Step 3:
+
+14
+00:00:37.047 --> 00:00:39.841
+Options: at least 2 to 3 possible solutions.
+
+15
+00:00:40.121 --> 00:00:41.081
+Step 4:
+
+16
+00:00:41.361 --> 00:00:44.668
+Decide: compare by impact, effort, risk and time.
+
+17
+00:00:44.948 --> 00:00:45.908
+Step 5:
+
+18
+00:00:46.188 --> 00:00:48.727
+Act and review: try it, measure it, adjust.
+
+19
+00:00:50.077 --> 00:00:50.951
+Part 2.
+
+20
+00:00:51.231 --> 00:00:52.362
+The 5 Whys.
+
+21
+00:00:53.612 --> 00:00:54.487
+Problem:
+
+22
+00:00:54.767 --> 00:00:56.047
+The release was late.
+
+23
+00:00:56.327 --> 00:00:57.009
+Why?
+
+24
+00:00:57.289 --> 00:00:59.913
+Testing took 3 extra days. then Why?
+
+25
+00:01:00.193 --> 00:01:02.753
+We found 12 bugs at the end. then Why?
+
+26
+00:01:03.033 --> 00:01:05.807
+Features weren't tested until the end. then Why?
+
+27
+00:01:06.087 --> 00:01:09.073
+QA joined only in the last week. then Why?
+
+28
+00:01:09.353 --> 00:01:12.553
+We don't plan QA in sprint planning. then Root cause:
+
+29
+00:01:12.833 --> 00:01:14.476
+QA isn't part of planning.
+
+30
+00:01:14.756 --> 00:01:16.783
+Fix: add QA to sprint planning.
+
+31
+00:01:18.133 --> 00:01:19.029
+Part 3.
+
+32
+00:01:19.309 --> 00:01:21.058
+Phrases for thinking out loud.
+
+33
+00:01:22.308 --> 00:01:23.652
+Here is a quick table:
+
+34
+00:01:23.932 --> 00:01:25.255
+Stage, and Phrases.
+
+35
+00:01:25.535 --> 00:01:26.409
+Defining:
+
+36
+00:01:26.689 --> 00:01:30.593
+Let's be clear about the problem first. / What do we know for sure?
+
+37
+00:01:30.873 --> 00:01:31.855
+Exploring:
+
+38
+00:01:32.135 --> 00:01:35.932
+What if...? / Another option could be... / Have we considered...?
+
+39
+00:01:36.212 --> 00:01:37.151
+Evaluating:
+
+40
+00:01:37.431 --> 00:01:41.975
+The trade-off is... / The biggest risk here is... / This is quicker, but...
+
+41
+00:01:42.255 --> 00:01:43.129
+Deciding:
+
+42
+00:01:43.409 --> 00:01:49.276
+Given the deadline, I'd go with... / Let's decide by Friday. / Can we live with this risk?
+
+43
+00:01:49.556 --> 00:01:50.580
+Disagreeing:
+
+44
+00:01:50.860 --> 00:01:54.807
+I see it differently, because... / What evidence would change your mind?
+
+45
+00:01:55.087 --> 00:01:55.855
+Committing:
+
+46
+00:01:56.135 --> 00:01:58.545
+I'm not fully convinced, but I'll commit to it.
+
+47
+00:01:58.825 --> 00:02:00.276
+Let's review in two weeks.
+
+48
+00:02:01.626 --> 00:02:02.543
+Part 4.
+
+49
+00:02:02.823 --> 00:02:05.341
+Compare options: a quick decision table.
+
+50
+00:02:06.591 --> 00:02:07.935
+Here is a quick table:
+
+51
+00:02:08.215 --> 00:02:11.031
+Option, and Impact, and Effort, and Risk, and Time.
+
+52
+00:02:11.311 --> 00:02:11.929
+A.
+
+53
+00:02:12.209 --> 00:02:13.361
+Add more servers.
+
+54
+00:02:13.641 --> 00:02:14.431
+Impact:
+
+55
+00:02:14.711 --> 00:02:15.521
+Medium.
+
+56
+00:02:15.801 --> 00:02:16.591
+Effort:
+
+57
+00:02:16.871 --> 00:02:17.596
+Low.
+
+58
+00:02:17.876 --> 00:02:18.580
+Risk:
+
+59
+00:02:18.860 --> 00:02:19.585
+Low.
+
+60
+00:02:19.865 --> 00:02:20.612
+Time:
+
+61
+00:02:20.892 --> 00:02:21.681
+1 day.
+
+62
+00:02:21.961 --> 00:02:22.644
+B.
+
+63
+00:02:22.924 --> 00:02:23.905
+Add caching.
+
+64
+00:02:24.185 --> 00:02:24.975
+Impact:
+
+65
+00:02:25.255 --> 00:02:25.937
+High.
+
+66
+00:02:26.217 --> 00:02:27.007
+Effort:
+
+67
+00:02:27.287 --> 00:02:28.097
+Medium.
+
+68
+00:02:28.377 --> 00:02:29.081
+Risk:
+
+69
+00:02:29.361 --> 00:02:30.172
+Medium.
+
+70
+00:02:30.452 --> 00:02:31.199
+Time:
+
+71
+00:02:31.479 --> 00:02:32.332
+1 week.
+
+72
+00:02:32.612 --> 00:02:33.295
+C.
+
+73
+00:02:33.575 --> 00:02:34.769
+Rewrite the service.
+
+74
+00:02:35.049 --> 00:02:35.839
+Impact:
+
+75
+00:02:36.119 --> 00:02:36.801
+High.
+
+76
+00:02:37.081 --> 00:02:37.871
+Effort:
+
+77
+00:02:38.151 --> 00:02:38.833
+High.
+
+78
+00:02:39.113 --> 00:02:39.817
+Risk:
+
+79
+00:02:40.097 --> 00:02:40.780
+High.
+
+80
+00:02:41.060 --> 00:02:41.807
+Time:
+
+81
+00:02:42.087 --> 00:02:42.983
+2 months.
+
+82
+00:02:44.333 --> 00:02:45.271
+You could say:
+
+83
+00:02:45.551 --> 00:02:46.789
+I recommend B.
+
+84
+00:02:47.069 --> 00:02:49.735
+It has the highest impact for reasonable effort.
+
+85
+00:02:50.015 --> 00:02:53.258
+We can do A today as a short-term fix while we build B.
+
+86
+00:02:53.538 --> 00:02:55.309
+C isn't worth the risk right now.
+
+87
+00:02:56.659 --> 00:02:57.619
+Part 5.
+
+88
+00:02:57.899 --> 00:02:59.179
+Explaining a decision.
+
+89
+00:03:00.429 --> 00:03:01.367
+You could say:
+
+90
+00:03:01.647 --> 00:03:08.538
+We've decided to use Postgres instead of Mongo because our data is highly relational and we need transactions.
+
+91
+00:03:08.818 --> 00:03:12.850
+We considered Mongo for flexibility, but reporting would be much harder.
+
+92
+00:03:13.130 --> 00:03:16.799
+We'll revisit if we start storing large unstructured documents.
+
+93
+00:03:18.149 --> 00:03:19.088
+Part 6.
+
+94
+00:03:19.368 --> 00:03:22.099
+Conversation: solving a problem as a team.
+
+95
+00:03:23.349 --> 00:03:25.375
+Here is how the conversation goes.
+
+96
+00:03:25.655 --> 00:03:27.554
+The checkout page is slow again.
+
+97
+00:03:27.834 --> 00:03:28.773
+Ideas?
+
+98
+00:03:29.053 --> 00:03:32.253
+Before we jump to solutions, can we define slow?
+
+99
+00:03:32.533 --> 00:03:38.975
+The dashboard shows p95 went from 800 ms to 2.4 seconds since Tuesday.
+
+100
+00:03:39.255 --> 00:03:42.391
+Tuesday was the release with the new recommendations widget.
+
+101
+00:03:42.671 --> 00:03:44.890
+So the widget is a likely cause.
+
+102
+00:03:45.170 --> 00:03:46.578
+Do we know for sure?
+
+103
+00:03:46.858 --> 00:03:51.039
+I checked: the widget makes three extra API calls, one after another.
+
+104
+00:03:52.389 --> 00:03:53.989
+The conversation continues.
+
+105
+00:03:54.269 --> 00:04:01.331
+Okay, three options: remove the widget, make the calls in parallel, or load the widget after the page.
+
+106
+00:04:01.611 --> 00:04:02.955
+Which do you recommend?
+
+107
+00:04:03.235 --> 00:04:04.856
+Load it after the page.
+
+108
+00:04:05.136 --> 00:04:07.995
+It's quick to build, and the widget still works.
+
+109
+00:04:08.275 --> 00:04:11.709
+Parallel calls help, but they don't fix the root issue.
+
+110
+00:04:11.989 --> 00:04:12.864
+Agreed.
+
+111
+00:04:13.144 --> 00:04:14.872
+Meena, can you do that today?
+
+112
+00:04:16.222 --> 00:04:17.822
+The conversation continues.
+
+113
+00:04:18.102 --> 00:04:18.955
+Yes.
+
+114
+00:04:19.235 --> 00:04:23.673
+I'll watch the p95 tomorrow and share the numbers in the channel.
+
+115
+00:04:25.023 --> 00:04:25.961
+Part 7.
+
+116
+00:04:26.241 --> 00:04:27.159
+Practice.
+
+117
+00:04:28.409 --> 00:04:32.206
+Take one recurring problem in your team and apply the 5 Whys.
+
+118
+00:04:32.486 --> 00:04:36.966
+Then write 3 options and a recommendation in the decision-table format.
+
+119
+00:04:38.316 --> 00:04:39.191
+Part 8.
+
+120
+00:04:39.471 --> 00:04:40.516
+Speak today.
+
+121
+00:04:41.766 --> 00:04:45.073
+In your next discussion, say Let's define the problem first.
+
+122
+00:04:45.353 --> 00:04:49.875
+Explain one decision using: decision, then why, then what we considered.
+
+123
+00:04:51.225 --> 00:04:52.761
+That's the end of this lesson.
+
+124
+00:04:53.041 --> 00:04:57.692
+Pick one script from it, say it out loud three times, and use it for real today.
+
+125
+00:04:57.972 --> 00:05:04.095
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+
