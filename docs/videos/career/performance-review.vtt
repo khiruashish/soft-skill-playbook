@@ -1,0 +1,754 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.545
+Performance Review.
+
+2
+00:00:01.825 --> 00:00:05.729
+Day 86 of the Soft Skill Playbook course, in the Career phase.
+
+3
+00:00:07.479 --> 00:00:08.503
+The key idea.
+
+4
+00:00:08.783 --> 00:00:11.663
+Your rating is mostly decided before the meeting.
+
+5
+00:00:11.943 --> 00:00:16.039
+It depends on what you did all year and how well your manager knows about it.
+
+6
+00:00:16.319 --> 00:00:22.655
+Track your wins, write a strong self-review, and treat the conversation as planning for next year, not a verdict.
+
+7
+00:00:24.005 --> 00:00:24.858
+Part 1.
+
+8
+00:00:25.138 --> 00:00:26.226
+The review cycle.
+
+9
+00:00:27.476 --> 00:00:28.393
+Step 1:
+
+10
+00:00:28.673 --> 00:00:33.260
+All year: keep a wins file; align on goals; ask for feedback every quarter.
+
+11
+00:00:33.540 --> 00:00:34.457
+Step 2:
+
+12
+00:00:34.737 --> 00:00:37.767
+Self-assessment: write it with impact and numbers.
+
+13
+00:00:38.047 --> 00:00:38.964
+Step 3:
+
+14
+00:00:39.244 --> 00:00:43.297
+Peer feedback: choose reviewers wisely; write good reviews for others.
+
+15
+00:00:43.577 --> 00:00:44.537
+Step 4:
+
+16
+00:00:44.817 --> 00:00:48.572
+Review meeting: listen, clarify, discuss, agree on goals.
+
+17
+00:00:48.852 --> 00:00:49.812
+Step 5:
+
+18
+00:00:50.092 --> 00:00:54.316
+After: follow-up in writing; act on feedback; check in at 3 months.
+
+19
+00:00:55.666 --> 00:00:56.541
+Part 2.
+
+20
+00:00:56.821 --> 00:00:58.421
+All year: the wins file.
+
+21
+00:00:59.671 --> 00:01:02.700
+A simple note you update every Friday (5 minutes):
+
+22
+00:01:04.050 --> 00:01:05.927
+Here is a template you can copy.
+
+23
+00:01:06.207 --> 00:01:25.151
+Nov 2026. - Shipped coupon validation, then stopped ~40 thousand rupees or week leakage (PR 212). - Led incident response for checkout outage; wrote post-mortem; 2 fixes shipped. - Mentored Kavya on Kafka; she now owns the consumer service. - Praise:
+
+24
+00:01:25.431 --> 00:01:29.655
+Clearest incident updates I've seen, VP Eng, Slack, 12 Nov.
+
+25
+00:01:32.505 --> 00:01:33.145
+Tip:
+
+26
+00:01:33.425 --> 00:01:35.559
+No surprises, in either direction.
+
+27
+00:01:35.839 --> 00:01:37.567
+Ask your manager every quarter:
+
+28
+00:01:37.847 --> 00:01:41.217
+If reviews were today, where would I land, and what would move me up?
+
+29
+00:01:41.497 --> 00:01:43.865
+That way, the review meeting doesn't surprise you.
+
+30
+00:01:45.215 --> 00:01:46.111
+Part 3.
+
+31
+00:01:46.391 --> 00:01:48.055
+Writing your self-assessment.
+
+32
+00:01:49.305 --> 00:01:52.761
+Use Action, then Impact, then Evidence for every point:
+
+33
+00:01:54.111 --> 00:01:55.455
+Here is a quick table:
+
+34
+00:01:55.735 --> 00:01:56.866
+Weak, and Strong.
+
+35
+00:01:57.146 --> 00:01:58.789
+Worked on the checkout service.:
+
+36
+00:01:59.069 --> 00:02:05.533
+Re-architected checkout to use the outbox pattern, cutting failed orders by 60% (dashboard link).
+
+37
+00:02:05.813 --> 00:02:06.943
+Helped juniors.:
+
+38
+00:02:07.223 --> 00:02:12.343
+Mentored 3 engineers with weekly sessions; 2 now independently own services.
+
+39
+00:02:12.623 --> 00:02:13.818
+Fixed many bugs.:
+
+40
+00:02:14.098 --> 00:02:19.687
+Closed 48 bugs, including 5 P1s; reduced support tickets by 30%.
+
+41
+00:02:19.967 --> 00:02:21.098
+Good team player.:
+
+42
+00:02:21.378 --> 00:02:26.690
+Unblocked the payments team twice by building a shared test harness, saving ~2 weeks.
+
+43
+00:02:28.040 --> 00:02:29.533
+Self-assessment template.
+
+44
+00:02:29.813 --> 00:02:31.392
+Here is the MARKDOWN code.
+
+45
+00:02:31.672 --> 00:02:35.299
+It runs to 21 lines; the full listing is in the chapter.
+
+46
+00:02:35.579 --> 00:02:37.371
+Key achievements (3 to 5).
+
+47
+00:02:37.651 --> 00:02:39.059
+Goals from last cycle.
+
+48
+00:02:39.339 --> 00:02:40.469
+Growth and learning.
+
+49
+00:02:43.319 --> 00:02:44.066
+Warning:
+
+50
+00:02:44.346 --> 00:02:45.967
+Common self-review mistakes.
+
+51
+00:02:46.247 --> 00:02:57.767
+Listing tasks instead of impact, being too modest (I just helped a bit), being vague about misses, forgetting work from early in the year (that's what the wins file is for), writing 10 pages.
+
+52
+00:02:58.047 --> 00:02:59.370
+Keep it to 1 to 2.
+
+53
+00:03:00.720 --> 00:03:01.637
+Part 4.
+
+54
+00:03:01.917 --> 00:03:02.963
+Peer reviews.
+
+55
+00:03:04.213 --> 00:03:05.471
+Giving peer feedback.
+
+56
+00:03:05.751 --> 00:03:07.799
+Be specific, balanced and useful:
+
+57
+00:03:09.149 --> 00:03:11.027
+Here is a template you can copy.
+
+58
+00:03:11.307 --> 00:03:12.160
+Strengths:
+
+59
+00:03:12.440 --> 00:03:16.579
+Meena's incident leadership during the October outage was outstanding.
+
+60
+00:03:16.859 --> 00:03:22.917
+Clear updates every 20 minutes kept leadership calm, and the post-mortem led to. real fixes.
+
+61
+00:03:23.197 --> 00:03:24.029
+To grow:
+
+62
+00:03:24.309 --> 00:03:29.771
+In design reviews she sometimes moves to a solution before the. problem is fully discussed.
+
+63
+00:03:30.051 --> 00:03:34.467
+Pausing to ask what else could we do? would bring. in more ideas from the team.
+
+64
+00:03:37.317 --> 00:03:38.618
+Choosing your reviewers.
+
+65
+00:03:38.898 --> 00:03:40.882
+People who saw your best work closely.
+
+66
+00:03:41.162 --> 00:03:44.853
+At least one person from another team (shows cross-team impact).
+
+67
+00:03:45.133 --> 00:03:47.074
+Ask them nicely, with context:
+
+68
+00:03:47.354 --> 00:03:49.082
+Would you be open to reviewing me?
+
+69
+00:03:49.362 --> 00:03:52.946
+It'd help if you could mention the search migration we did together.
+
+70
+00:03:54.296 --> 00:03:55.256
+Part 5.
+
+71
+00:03:55.536 --> 00:03:56.581
+The review meeting.
+
+72
+00:03:57.831 --> 00:03:58.706
+Mindset.
+
+73
+00:03:58.986 --> 00:04:00.458
+Go in calm and curious.
+
+74
+00:04:00.738 --> 00:04:05.602
+Your goal is to understand the feedback and agree on a plan, not to win an argument.
+
+75
+00:04:06.952 --> 00:04:07.741
+Scripts.
+
+76
+00:04:08.021 --> 00:04:08.789
+Opening.
+
+77
+00:04:09.069 --> 00:04:10.008
+You could say:
+
+78
+00:04:10.288 --> 00:04:11.760
+Thanks for taking the time.
+
+79
+00:04:12.040 --> 00:04:17.992
+I'd like to hear your feedback first, and then I'd love to talk about goals and what the next level looks like for me.
+
+80
+00:04:19.342 --> 00:04:20.259
+Good review.
+
+81
+00:04:20.539 --> 00:04:21.478
+You could say:
+
+82
+00:04:21.758 --> 00:04:23.379
+Thank you, that means a lot.
+
+83
+00:04:23.659 --> 00:04:26.497
+What would it take to get to the next level over the next cycle?
+
+84
+00:04:26.777 --> 00:04:29.209
+I'd like to make sure I'm working on the right things.
+
+85
+00:04:30.559 --> 00:04:33.737
+Even with a great rating, ask for one thing to improve.
+
+86
+00:04:35.087 --> 00:04:36.410
+Asking for clarity.
+
+87
+00:04:36.690 --> 00:04:37.629
+You could say:
+
+88
+00:04:37.909 --> 00:04:43.711
+You mentioned I need to 'show more ownership.' Could you give me an example where I could have done that differently?
+
+89
+00:04:43.991 --> 00:04:46.573
+I want to make sure I understand what it looks like.
+
+90
+00:04:47.923 --> 00:04:49.395
+Disagreeing with the rating.
+
+91
+00:04:49.675 --> 00:04:50.613
+You could say:
+
+92
+00:04:50.893 --> 00:04:52.472
+I appreciate the feedback.
+
+93
+00:04:52.752 --> 00:04:55.589
+I see some of it differently, and I'd like to share why.
+
+94
+00:04:55.869 --> 00:05:03.037
+I led the checkout migration end to end, which was one of the team's top goals, and it reduced failures by 60%.
+
+95
+00:05:03.317 --> 00:05:05.685
+Could you help me understand how that was weighed?
+
+96
+00:05:07.035 --> 00:05:08.785
+Then, if it still feels unfair:
+
+97
+00:05:10.135 --> 00:05:11.073
+You could say:
+
+98
+00:05:11.353 --> 00:05:13.337
+I'd like some time to reflect on this.
+
+99
+00:05:13.617 --> 00:05:15.303
+Could we follow up later this week?
+
+100
+00:05:15.583 --> 00:05:18.633
+And what's the process if I'd like the rating reconsidered?
+
+101
+00:05:19.983 --> 00:05:20.901
+Watch out:
+
+102
+00:05:21.181 --> 00:05:21.842
+Don't.
+
+103
+00:05:22.122 --> 00:05:29.162
+Raise your voice, compare yourself to named colleagues (But Rahul got...), threaten to quit, cry foul in team channels.
+
+104
+00:05:29.442 --> 00:05:32.301
+Stay factual and calm, and put things in writing.
+
+105
+00:05:33.651 --> 00:05:35.507
+Unexpected negative feedback.
+
+106
+00:05:35.787 --> 00:05:36.939
+Pause and breathe.
+
+107
+00:05:37.219 --> 00:05:39.096
+You don't need to respond instantly.
+
+108
+00:05:39.376 --> 00:05:40.869
+Thank you for being direct.
+
+109
+00:05:41.149 --> 00:05:43.645
+This is hard to hear, but I want to understand.
+
+110
+00:05:43.925 --> 00:05:45.717
+Can you share specific examples?
+
+111
+00:05:45.997 --> 00:05:48.131
+What would 'good' look like in the next 3 months?
+
+112
+00:05:48.411 --> 00:05:50.117
+Can we check in monthly on this?
+
+113
+00:05:51.467 --> 00:05:52.897
+Asking about promotion.
+
+114
+00:05:53.177 --> 00:05:54.115
+You could say:
+
+115
+00:05:54.395 --> 00:05:57.382
+I'd like to be considered for promotion to Staff Engineer.
+
+116
+00:05:57.662 --> 00:06:00.265
+What gaps do you see between my work and that level?
+
+117
+00:06:00.545 --> 00:06:05.643
+Could we write down 2 to 3 concrete goals and a timeline, and check progress quarterly?
+
+118
+00:06:06.993 --> 00:06:08.572
+Asking about compensation.
+
+119
+00:06:08.852 --> 00:06:09.791
+You could say:
+
+120
+00:06:10.071 --> 00:06:12.972
+How does this rating translate into my compensation?
+
+121
+00:06:13.252 --> 00:06:19.311
+Given my impact this year and the market for my role, I'd like to discuss whether there's room for an adjustment.
+
+122
+00:06:20.661 --> 00:06:23.157
+See Salary Negotiation for full scripts.
+
+123
+00:06:24.507 --> 00:06:26.533
+Questions to ask in every review.
+
+124
+00:06:26.813 --> 00:06:30.269
+What's the one thing that would most increase my impact next year?
+
+125
+00:06:30.549 --> 00:06:33.899
+What do you see as my biggest strength, and am I using it enough?
+
+126
+00:06:34.179 --> 00:06:36.909
+How do others (peers, stakeholders) see my work?
+
+127
+00:06:37.189 --> 00:06:39.387
+What does the next level look like in practice?
+
+128
+00:06:39.667 --> 00:06:41.437
+How can you support me in getting there?
+
+129
+00:06:42.787 --> 00:06:43.726
+Part 6.
+
+130
+00:06:44.006 --> 00:06:45.115
+After the review.
+
+131
+00:06:46.365 --> 00:06:51.613
+Send a short summary email within 24 hours (feedback, goals, agreed support).
+
+132
+00:06:51.893 --> 00:06:55.541
+Turn feedback into 2 to 3 goals with measurable outcomes.
+
+133
+00:06:55.821 --> 00:06:57.805
+Put a 3-month check-in in the calendar.
+
+134
+00:06:58.085 --> 00:07:00.027
+Start next year's wins file today.
+
+135
+00:07:01.377 --> 00:07:03.254
+Here is a template you can copy.
+
+136
+00:07:03.534 --> 00:07:04.409
+Subject:
+
+137
+00:07:04.689 --> 00:07:06.673
+Summary of our performance review.
+
+138
+00:07:06.953 --> 00:07:09.150
+Hi Priya, thanks for the review today.
+
+139
+00:07:09.430 --> 00:07:10.475
+To summarise:
+
+140
+00:07:10.755 --> 00:07:13.081
+Strengths: incident leadership, mentoring.
+
+141
+00:07:13.361 --> 00:07:17.819
+Focus areas: earlier risk communication, more design-doc writing.
+
+142
+00:07:18.099 --> 00:07:22.345
+Goals: lead 2 design docs; flag schedule risks within 2 days.
+
+143
+00:07:22.625 --> 00:07:27.211
+Next step: check-in on 15 Feb; promotion discussion in the next cycle.
+
+144
+00:07:27.491 --> 00:07:29.155
+Let me know if I've missed anything.
+
+145
+00:07:32.005 --> 00:07:32.944
+Part 7.
+
+146
+00:07:33.224 --> 00:07:35.891
+When you're the reviewer (team leads and managers).
+
+147
+00:07:37.141 --> 00:07:37.951
+Prepare:
+
+148
+00:07:38.231 --> 00:07:41.815
+Gather evidence across the whole year, not just the last month.
+
+149
+00:07:42.095 --> 00:07:43.781
+Read their self-review first.
+
+150
+00:07:44.061 --> 00:07:45.170
+No surprises:
+
+151
+00:07:45.450 --> 00:07:47.221
+Nothing in the review should be news.
+
+152
+00:07:47.501 --> 00:07:50.189
+Hard feedback belongs in regular one-on-ones.
+
+153
+00:07:50.469 --> 00:07:51.685
+Specific and fair:
+
+154
+00:07:51.965 --> 00:07:54.610
+Use SBI (Situation-Behaviour-Impact).
+
+155
+00:07:54.890 --> 00:07:57.791
+Judge outcomes and behaviour, not personality.
+
+156
+00:07:58.071 --> 00:07:59.095
+Forward-looking:
+
+157
+00:07:59.375 --> 00:08:02.213
+Spend half the time on growth and next-cycle goals.
+
+158
+00:08:03.563 --> 00:08:04.501
+You could say:
+
+159
+00:08:04.781 --> 00:08:07.576
+Your rating this cycle is Meets Expectations.
+
+160
+00:08:07.856 --> 00:08:12.677
+Strength: your code quality and reliability work, especially the retry framework.
+
+161
+00:08:12.957 --> 00:08:14.408
+To grow to the next level:
+
+162
+00:08:14.688 --> 00:08:18.891
+I'd like to see you drive decisions in design reviews, not just contribute.
+
+163
+00:08:19.171 --> 00:08:22.029
+Let's set one goal around that and check in every month.
+
+164
+00:08:22.309 --> 00:08:23.568
+What support would help?
+
+165
+00:08:24.918 --> 00:08:25.793
+Part 8.
+
+166
+00:08:26.073 --> 00:08:27.459
+Practice conversation:
+
+167
+00:08:27.739 --> 00:08:30.022
+Asking about a rating you disagree with.
+
+168
+00:08:31.272 --> 00:08:33.299
+Here is how the conversation goes.
+
+169
+00:08:33.579 --> 00:08:36.096
+Your rating this year is Meets Expectations.
+
+170
+00:08:36.376 --> 00:08:37.315
+Thank you.
+
+171
+00:08:37.595 --> 00:08:40.432
+I'll be honest, I expected a higher rating.
+
+172
+00:08:40.712 --> 00:08:43.421
+Could you help me understand how it was decided?
+
+173
+00:08:43.701 --> 00:08:47.840
+Your delivery was strong, but we expected more leadership in design reviews.
+
+174
+00:08:48.120 --> 00:08:49.059
+I see.
+
+175
+00:08:49.339 --> 00:08:54.075
+I did lead the checkout migration, which was one of the team's top goals.
+
+176
+00:08:54.355 --> 00:08:55.741
+How was that weighed?
+
+177
+00:08:57.091 --> 00:08:58.691
+The conversation continues.
+
+178
+00:08:58.971 --> 00:09:00.379
+It was a big factor.
+
+179
+00:09:00.659 --> 00:09:02.558
+That's why the rating isn't lower.
+
+180
+00:09:02.838 --> 00:09:03.777
+Okay.
+
+181
+00:09:04.057 --> 00:09:06.745
+What would Exceeds look like next year, specifically?
+
+182
+00:09:07.025 --> 00:09:10.267
+Leading two major designs and mentoring one engineer.
+
+183
+00:09:10.547 --> 00:09:11.571
+That's clear.
+
+184
+00:09:11.851 --> 00:09:15.457
+Could we write those goals down and review them every quarter?
+
+185
+00:09:15.737 --> 00:09:16.867
+Absolutely.
+
+186
+00:09:18.217 --> 00:09:19.753
+That's the end of this lesson.
+
+187
+00:09:20.033 --> 00:09:24.684
+Pick one script from it, say it out loud three times, and use it for real today.
+
+188
+00:09:24.964 --> 00:09:31.087
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

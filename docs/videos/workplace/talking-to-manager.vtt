@@ -1,0 +1,578 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.673
+Talking to Your Manager.
+
+2
+00:00:01.953 --> 00:00:06.049
+Day 62 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:07.799 --> 00:00:08.823
+The key idea.
+
+4
+00:00:09.103 --> 00:00:15.012
+Your manager's three wishes: no surprises, clear status, and problems that arrive with options.
+
+5
+00:00:15.292 --> 00:00:17.660
+Give them those three things and they'll trust you.
+
+6
+00:00:19.010 --> 00:00:19.863
+Part 1.
+
+7
+00:00:20.143 --> 00:00:21.999
+What your manager actually needs.
+
+8
+00:00:23.249 --> 00:00:24.593
+Here is a quick table:
+
+9
+00:00:24.873 --> 00:00:26.516
+They need, and So you should.
+
+10
+00:00:26.796 --> 00:00:27.884
+Predictability:
+
+11
+00:00:28.164 --> 00:00:29.871
+Share status before they ask.
+
+12
+00:00:30.151 --> 00:00:31.153
+Early warning:
+
+13
+00:00:31.433 --> 00:00:34.676
+Raise risks the moment you see them, not on deadline day.
+
+14
+00:00:34.956 --> 00:00:36.684
+Options, not just problems:
+
+15
+00:00:36.964 --> 00:00:39.652
+Bring 2 possible solutions with every problem.
+
+16
+00:00:39.932 --> 00:00:41.383
+Something to tell their boss:
+
+17
+00:00:41.663 --> 00:00:44.756
+Summarise in 1 to 2 sentences they can forward.
+
+18
+00:00:45.036 --> 00:00:46.188
+To know you're growing:
+
+19
+00:00:46.468 --> 00:00:48.644
+Talk about goals and ask for feedback.
+
+20
+00:00:49.994 --> 00:00:50.869
+Part 2.
+
+21
+00:00:51.149 --> 00:00:52.514
+The one-on-one meeting.
+
+22
+00:00:53.764 --> 00:00:56.175
+A simple agenda (send it the day before).
+
+23
+00:00:56.455 --> 00:00:59.911
+Here is a template you can copy. one-on-one agenda, Date.
+
+24
+00:01:00.191 --> 00:01:00.831
+1.
+
+25
+00:01:01.111 --> 00:01:03.521
+Wins this week: shipped X, fixed Y.
+
+26
+00:01:03.801 --> 00:01:04.505
+2.
+
+27
+00:01:04.785 --> 00:01:06.151
+In progress or risks:
+
+28
+00:01:06.431 --> 00:01:07.924
+Z is at risk because...
+
+29
+00:01:08.204 --> 00:01:08.951
+3.
+
+30
+00:01:09.231 --> 00:01:12.431
+Need from you: decision on A or intro to team B.
+
+31
+00:01:12.711 --> 00:01:13.415
+4.
+
+32
+00:01:13.695 --> 00:01:15.892
+Growth: feedback on my design review?
+
+33
+00:01:18.742 --> 00:01:19.382
+Tip:
+
+34
+00:01:19.662 --> 00:01:21.262
+The one-on-one belongs to you.
+
+35
+00:01:21.542 --> 00:01:23.846
+Don't let it turn into another status meeting.
+
+36
+00:01:24.126 --> 00:01:26.878
+Keep 10 minutes for growth, feedback, and career.
+
+37
+00:01:28.228 --> 00:01:29.124
+Part 3.
+
+38
+00:01:29.404 --> 00:01:31.260
+Scripts for common situations.
+
+39
+00:01:32.510 --> 00:01:33.982
+Giving a status update.
+
+40
+00:01:34.262 --> 00:01:35.201
+You could say:
+
+41
+00:01:35.481 --> 00:01:38.894
+Quick update on the payments API: on track for Friday.
+
+42
+00:01:39.174 --> 00:01:41.947
+Endpoints are done, tests are 80% done.
+
+43
+00:01:42.227 --> 00:01:45.705
+One risk: we're still waiting on the bank sandbox credentials.
+
+44
+00:01:45.985 --> 00:01:48.609
+If they don't arrive by Wednesday, we slip a day.
+
+45
+00:01:48.889 --> 00:01:50.446
+I've followed up with their team.
+
+46
+00:01:51.796 --> 00:01:52.905
+Asking for help.
+
+47
+00:01:53.185 --> 00:01:54.124
+You could say:
+
+48
+00:01:54.404 --> 00:01:57.881
+I've been stuck on the Kafka consumer lag for about 4 hours.
+
+49
+00:01:58.161 --> 00:02:01.511
+I've tried increasing partitions and tuning the batch size.
+
+50
+00:02:01.791 --> 00:02:05.119
+Could you suggest someone who's worked on this, or spare 15 minutes?
+
+51
+00:02:06.469 --> 00:02:07.215
+Note:
+
+52
+00:02:07.495 --> 00:02:09.245
+The 2-hour rule (beginners).
+
+53
+00:02:09.525 --> 00:02:13.685
+Struggle alone for up to ~2 hours, then ask, with what you tried.
+
+54
+00:02:13.965 --> 00:02:16.610
+Asking too late costs more than asking too early.
+
+55
+00:02:17.960 --> 00:02:19.581
+Raising a risk or delay.
+
+56
+00:02:19.861 --> 00:02:20.800
+You could say:
+
+57
+00:02:21.080 --> 00:02:22.723
+I want to flag a risk early.
+
+58
+00:02:23.003 --> 00:02:25.349
+The search feature may slip by about 1 week.
+
+59
+00:02:25.629 --> 00:02:29.213
+The OpenSearch mapping needs a reindex we didn't plan for.
+
+60
+00:02:29.493 --> 00:02:30.475
+Two options:
+
+61
+00:02:30.755 --> 00:02:33.891
+A) Ship on time without fuzzy search, add it next sprint.
+
+62
+00:02:34.171 --> 00:02:36.517
+B) Keep full scope, ship next Friday.
+
+63
+00:02:36.797 --> 00:02:37.992
+I'd recommend A.
+
+64
+00:02:38.272 --> 00:02:39.467
+Which would you prefer?
+
+65
+00:02:40.817 --> 00:02:42.331
+Pushing back on a deadline.
+
+66
+00:02:42.611 --> 00:02:43.550
+You could say:
+
+67
+00:02:43.830 --> 00:02:46.881
+I want to hit this date, so let me be realistic about it.
+
+68
+00:02:47.161 --> 00:02:50.297
+With the current scope, my estimate is 3 weeks, not 2.
+
+69
+00:02:50.577 --> 00:02:55.761
+To make 2 weeks, we could drop the export feature, or add one more developer for the UI.
+
+70
+00:02:56.041 --> 00:02:57.790
+What matters most for this release?
+
+71
+00:02:59.140 --> 00:03:00.356
+Admitting a mistake.
+
+72
+00:03:00.636 --> 00:03:01.575
+You could say:
+
+73
+00:03:01.855 --> 00:03:07.721
+I made a mistake: my migration yesterday dropped an index, and that's why the reports were slow.
+
+74
+00:03:08.001 --> 00:03:10.924
+I've already restored it and reports are back to normal.
+
+75
+00:03:11.204 --> 00:03:15.129
+To prevent it happening again, I'm adding a migration check to CI.
+
+76
+00:03:15.409 --> 00:03:16.647
+Sorry for the trouble.
+
+77
+00:03:17.997 --> 00:03:19.319
+Asking for feedback.
+
+78
+00:03:19.599 --> 00:03:20.538
+You could say:
+
+79
+00:03:20.818 --> 00:03:22.653
+I'm working on my communication.
+
+80
+00:03:22.933 --> 00:03:25.791
+What's one thing I could do differently in design reviews?
+
+81
+00:03:27.141 --> 00:03:29.019
+Asking for a promotion or raise.
+
+82
+00:03:29.299 --> 00:03:30.237
+You could say:
+
+83
+00:03:30.517 --> 00:03:32.203
+I'd like to talk about my growth.
+
+84
+00:03:32.483 --> 00:03:39.245
+Over the last year I led the checkout migration, cut deploy time by 80%, and mentored two new joiners.
+
+85
+00:03:39.525 --> 00:03:44.709
+I believe I'm working at the senior level, and I'd like to be considered for promotion this cycle.
+
+86
+00:03:44.989 --> 00:03:47.869
+What gaps do you see, and what would make the case clear?
+
+87
+00:03:49.219 --> 00:03:49.859
+Tip.
+
+88
+00:03:50.139 --> 00:03:51.825
+Bring your wins file with numbers.
+
+89
+00:03:52.105 --> 00:03:53.683
+Ask for the gaps in writing.
+
+90
+00:03:53.963 --> 00:03:55.265
+Agree on a timeline.
+
+91
+00:03:56.615 --> 00:03:58.129
+Disagreeing with a decision.
+
+92
+00:03:58.409 --> 00:03:59.348
+You could say:
+
+93
+00:03:59.628 --> 00:04:01.676
+Can I share a concern before we commit?
+
+94
+00:04:01.956 --> 00:04:06.116
+Building our own auth will take 6 to 8 weeks and gives us security risk.
+
+95
+00:04:06.396 --> 00:04:08.977
+Keycloak gets us 90% of it in a week.
+
+96
+00:04:09.257 --> 00:04:14.420
+If you still prefer custom, I'll commit to it fully, I just want to make sure we've weighed this.
+
+97
+00:04:15.770 --> 00:04:20.271
+This is disagree and commit: voice it once, clearly, then support the decision.
+
+98
+00:04:21.621 --> 00:04:22.539
+Part 4.
+
+99
+00:04:22.819 --> 00:04:24.120
+Mistakes to avoid.
+
+100
+00:04:25.370 --> 00:04:26.223
+Avoid:
+
+101
+00:04:26.503 --> 00:04:28.679
+Hiding bad news until the deadline.
+
+102
+00:04:28.959 --> 00:04:29.813
+Avoid:
+
+103
+00:04:30.093 --> 00:04:35.085
+It's almost done for 3 weeks running (give percentages or remaining tasks instead).
+
+104
+00:04:35.365 --> 00:04:36.218
+Avoid:
+
+105
+00:04:36.498 --> 00:04:39.015
+Complaining about teammates without a suggestion.
+
+106
+00:04:39.295 --> 00:04:40.149
+Avoid:
+
+107
+00:04:40.429 --> 00:04:43.010
+Treating every one-on-one as a status report.
+
+108
+00:04:43.290 --> 00:04:44.143
+Avoid:
+
+109
+00:04:44.423 --> 00:04:47.026
+Waiting for your manager to bring up your career.
+
+110
+00:04:48.376 --> 00:04:49.336
+Part 5.
+
+111
+00:04:49.616 --> 00:04:51.387
+Beginner versus experienced.
+
+112
+00:04:52.637 --> 00:04:53.469
+Beginner.
+
+113
+00:04:53.749 --> 00:04:55.285
+Over-communicate status.
+
+114
+00:04:55.565 --> 00:04:57.250
+Silence makes people worry.
+
+115
+00:04:57.530 --> 00:05:01.242
+Write down what your manager asks so you don't have to ask twice.
+
+116
+00:05:01.522 --> 00:05:03.143
+Before a one-on-one, prepare:
+
+117
+00:05:03.423 --> 00:05:05.685
+1 win, 1 blocker, 1 question.
+
+118
+00:05:07.035 --> 00:05:08.123
+Experienced.
+
+119
+00:05:08.403 --> 00:05:12.669
+Manage up: learn your manager's goals and pressures, and help them succeed.
+
+120
+00:05:12.949 --> 00:05:15.147
+Bring proposals, not just problems:
+
+121
+00:05:15.427 --> 00:05:17.603
+I'd like to own the reliability roadmap.
+
+122
+00:05:17.883 --> 00:05:19.568
+Give your manager feedback too:
+
+123
+00:05:19.848 --> 00:05:22.280
+It would help me if decisions came with the 'why'.
+
+124
+00:05:23.630 --> 00:05:24.569
+Part 6.
+
+125
+00:05:24.849 --> 00:05:26.235
+Practice conversation:
+
+126
+00:05:26.515 --> 00:05:27.881
+Raising a risk early.
+
+127
+00:05:29.131 --> 00:05:31.157
+Here is how the conversation goes.
+
+128
+00:05:31.437 --> 00:05:33.059
+Do you have five minutes?
+
+129
+00:05:33.339 --> 00:05:35.323
+I want to flag a risk early.
+
+130
+00:05:35.603 --> 00:05:36.819
+Sure, go ahead.
+
+131
+00:05:37.099 --> 00:05:39.275
+The search feature may slip by a week.
+
+132
+00:05:39.555 --> 00:05:42.541
+We need a full reindex that we didn't plan for.
+
+133
+00:05:42.821 --> 00:05:43.440
+Hmm.
+
+134
+00:05:43.720 --> 00:05:45.064
+What are our options?
+
+135
+00:05:46.414 --> 00:05:48.014
+The conversation continues.
+
+136
+00:05:48.294 --> 00:05:53.265
+Option A: we release on time without fuzzy search and add it next sprint.
+
+137
+00:05:53.545 --> 00:05:56.958
+Option B: we release the full feature a week later.
+
+138
+00:05:57.238 --> 00:05:58.753
+I'd recommend A.
+
+139
+00:05:59.033 --> 00:06:00.270
+I agree with A.
+
+140
+00:06:00.550 --> 00:06:02.299
+Can you update the product team?
+
+141
+00:06:02.579 --> 00:06:05.246
+Yes, I'll message them today and copy you.
+
+142
+00:06:06.596 --> 00:06:08.132
+That's the end of this lesson.
+
+143
+00:06:08.412 --> 00:06:13.063
+Pick one script from it, say it out loud three times, and use it for real today.
+
+144
+00:06:13.343 --> 00:06:19.465
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

@@ -1,0 +1,478 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.545
+Talking to Juniors.
+
+2
+00:00:01.825 --> 00:00:05.899
+Day 64 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:07.649 --> 00:00:08.673
+The key idea.
+
+4
+00:00:08.953 --> 00:00:11.961
+Your job isn't to be the smartest person in the room.
+
+5
+00:00:12.241 --> 00:00:13.777
+It's to make the room smarter.
+
+6
+00:00:14.057 --> 00:00:18.601
+How you treat juniors decides whether they come to you with problems or hide them from you.
+
+7
+00:00:19.951 --> 00:00:20.805
+Part 1.
+
+8
+00:00:21.085 --> 00:00:22.002
+Principles.
+
+9
+00:00:23.252 --> 00:00:25.129
+Psychological safety first.
+
+10
+00:00:25.409 --> 00:00:27.649
+Juniors who are scared to ask hide bugs.
+
+11
+00:00:27.929 --> 00:00:29.935
+Explain the why, not just the what.
+
+12
+00:00:30.215 --> 00:00:33.799
+Use a transaction here because two writes must succeed together.
+
+13
+00:00:34.079 --> 00:00:35.337
+Ask before telling.
+
+14
+00:00:35.617 --> 00:00:37.964
+What do you think is happening? builds thinking.
+
+15
+00:00:38.244 --> 00:00:40.121
+Giving the answer builds dependence.
+
+16
+00:00:40.401 --> 00:00:42.556
+Praise in public, correct in private.
+
+17
+00:00:42.836 --> 00:00:43.881
+Be specific.
+
+18
+00:00:44.161 --> 00:00:45.676
+Good job teaches nothing.
+
+19
+00:00:45.956 --> 00:00:49.497
+Your test for the null-cart case caught a real bug, nice does.
+
+20
+00:00:50.847 --> 00:00:51.722
+Part 2.
+
+21
+00:00:52.002 --> 00:00:54.477
+Teaching: the I do, we do, you do model.
+
+22
+00:00:55.727 --> 00:00:58.585
+I do: you demo while explaining your thinking out loud.
+
+23
+00:00:58.865 --> 00:01:01.447
+We do: pair programming; they drive, you guide.
+
+24
+00:01:01.727 --> 00:01:04.607
+You do: they do it alone; you review afterward.
+
+25
+00:01:05.957 --> 00:01:06.853
+Part 3.
+
+26
+00:01:07.133 --> 00:01:07.922
+Scripts.
+
+27
+00:01:09.172 --> 00:01:10.623
+Onboarding a new junior.
+
+28
+00:01:10.903 --> 00:01:11.841
+You could say:
+
+29
+00:01:12.121 --> 00:01:12.911
+Welcome!
+
+30
+00:01:13.191 --> 00:01:16.711
+For the first two weeks, nobody expects you to ship big features.
+
+31
+00:01:16.991 --> 00:01:19.785
+Your only job is to learn and ask questions.
+
+32
+00:01:20.065 --> 00:01:21.601
+There are no stupid ones here.
+
+33
+00:01:21.881 --> 00:01:25.977
+Let's do 15 minutes every day at 4 pm for whatever came up.
+
+34
+00:01:27.327 --> 00:01:28.586
+Code-review feedback.
+
+35
+00:01:28.866 --> 00:01:31.959
+Use labels so they know how serious each comment is:
+
+36
+00:01:33.309 --> 00:01:35.677
+Here is a template you can copy. nit:
+
+37
+00:01:35.957 --> 00:01:40.885
+(optional, style) nit: could rename d to deliveryDate for clarity. suggestion:
+
+38
+00:01:41.165 --> 00:01:46.861
+(better approach) suggestion: a Map lookup would make this O(1) instead. of O(n). question:
+
+39
+00:01:47.141 --> 00:01:51.835
+(curious, not a demand) question: what happens if the list is empty? blocker:
+
+40
+00:01:52.115 --> 00:01:57.128
+(must fix) blocker: this SQL is built by string concat, injection risk.
+
+41
+00:01:57.408 --> 00:02:03.232
+Use. a parameter. praise: praise: really clean separation of the domain logic here.
+
+42
+00:02:06.082 --> 00:02:07.853
+Feedback on a bigger problem.
+
+43
+00:02:08.133 --> 00:02:09.242
+Use SBI:
+
+44
+00:02:09.522 --> 00:02:12.850
+Situation, then Behaviour, then Impact, then (then ask).
+
+45
+00:02:14.200 --> 00:02:15.139
+You could say:
+
+46
+00:02:15.419 --> 00:02:20.560
+In yesterday's release (situation), the PR was merged without tests (behaviour).
+
+47
+00:02:20.840 --> 00:02:24.616
+A bug reached production and took 2 hours to roll back (impact).
+
+48
+00:02:24.896 --> 00:02:26.667
+What got in the way of adding tests?
+
+49
+00:02:26.947 --> 00:02:28.397
+How can I help next time?
+
+50
+00:02:29.747 --> 00:02:31.070
+Delegating a task.
+
+51
+00:02:31.350 --> 00:02:32.289
+You could say:
+
+52
+00:02:32.569 --> 00:02:35.214
+I'd like you to own the coupon-validation endpoint.
+
+53
+00:02:35.494 --> 00:02:38.353
+Goal: reject expired and over-used coupons.
+
+54
+00:02:38.633 --> 00:02:41.790
+Done means: endpoint + unit tests + docs.
+
+55
+00:02:42.070 --> 00:02:42.902
+Deadline:
+
+56
+00:02:43.182 --> 00:02:44.057
+Thursday.
+
+57
+00:02:44.337 --> 00:02:46.107
+Check-in: let's sync Tuesday.
+
+58
+00:02:46.387 --> 00:02:49.033
+You decide the design; I'm here if you get stuck.
+
+59
+00:02:50.383 --> 00:02:52.004
+When they're stuck but won't ask.
+
+60
+00:02:52.284 --> 00:02:53.223
+You could say:
+
+61
+00:02:53.503 --> 00:02:55.380
+Hey, how's the migration going?
+
+62
+00:02:55.660 --> 00:02:58.263
+Getting stuck is completely normal on this one.
+
+63
+00:02:58.543 --> 00:03:00.377
+It took me two days the first time.
+
+64
+00:03:00.657 --> 00:03:02.407
+Want to walk me through where you are?
+
+65
+00:03:03.757 --> 00:03:05.101
+When they make a mistake.
+
+66
+00:03:05.381 --> 00:03:06.319
+You could say:
+
+67
+00:03:06.599 --> 00:03:08.050
+This happens to everyone.
+
+68
+00:03:08.330 --> 00:03:10.911
+I once took down staging for a whole afternoon.
+
+69
+00:03:11.191 --> 00:03:14.434
+Let's fix it together first, then talk about how to prevent it.
+
+70
+00:03:15.784 --> 00:03:17.917
+Saying no to their idea (kindly).
+
+71
+00:03:18.197 --> 00:03:19.136
+You could say:
+
+72
+00:03:19.416 --> 00:03:21.549
+I like that you're thinking about performance.
+
+73
+00:03:21.829 --> 00:03:27.547
+Right now, the bottleneck is the database, not the JSON parsing, so a rewrite wouldn't help much.
+
+74
+00:03:27.827 --> 00:03:30.493
+Can you profile it and show me where the time goes?
+
+75
+00:03:30.773 --> 00:03:33.056
+If the data says otherwise, let's do it.
+
+76
+00:03:34.406 --> 00:03:35.323
+Part 4.
+
+77
+00:03:35.603 --> 00:03:36.905
+Mistakes to avoid.
+
+78
+00:03:38.155 --> 00:03:39.008
+Avoid:
+
+79
+00:03:39.288 --> 00:03:42.189
+This is easy, just do X (it isn't easy for them).
+
+80
+00:03:42.469 --> 00:03:43.323
+Avoid:
+
+81
+00:03:43.603 --> 00:03:45.971
+Taking the keyboard and fixing it yourself.
+
+82
+00:03:46.251 --> 00:03:47.104
+Avoid:
+
+83
+00:03:47.384 --> 00:03:49.069
+Sarcasm in code reviews.
+
+84
+00:03:49.349 --> 00:03:50.203
+Avoid:
+
+85
+00:03:50.483 --> 00:03:52.893
+Only giving feedback when something goes wrong.
+
+86
+00:03:53.173 --> 00:03:54.027
+Avoid:
+
+87
+00:03:54.307 --> 00:03:57.251
+Answering in jargon without checking they understand.
+
+88
+00:03:58.601 --> 00:03:59.561
+Part 5.
+
+89
+00:03:59.841 --> 00:04:01.953
+Questions to ask juniors regularly.
+
+90
+00:04:03.203 --> 00:04:04.888
+What's one thing you learned this week?
+
+91
+00:04:05.168 --> 00:04:08.304
+What's confusing about our codebase that nobody explains?
+
+92
+00:04:08.584 --> 00:04:10.205
+What would you like to work on next?
+
+93
+00:04:10.485 --> 00:04:12.341
+How can I be a better mentor for you?
+
+94
+00:04:13.691 --> 00:04:14.630
+Part 6.
+
+95
+00:04:14.910 --> 00:04:16.297
+Practice conversation:
+
+96
+00:04:16.577 --> 00:04:18.347
+Feedback on a junior's PR.
+
+97
+00:04:19.597 --> 00:04:21.624
+Here is how the conversation goes.
+
+98
+00:04:21.904 --> 00:04:24.528
+Hi Kavya, I've reviewed your PR.
+
+99
+00:04:24.808 --> 00:04:26.323
+Have you got ten minutes?
+
+100
+00:04:26.603 --> 00:04:27.456
+Yes.
+
+101
+00:04:27.736 --> 00:04:29.037
+Is it bad?
+
+102
+00:04:29.317 --> 00:04:30.512
+Not at all.
+
+103
+00:04:30.792 --> 00:04:33.117
+The logic is clean and easy to read.
+
+104
+00:04:33.397 --> 00:04:35.808
+There are two things to fix before we merge.
+
+105
+00:04:36.088 --> 00:04:37.197
+Okay.
+
+106
+00:04:38.547 --> 00:04:40.147
+The conversation continues.
+
+107
+00:04:40.427 --> 00:04:43.286
+First, there are no tests for the empty-cart case.
+
+108
+00:04:43.566 --> 00:04:46.425
+What do you think happens if the cart is empty?
+
+109
+00:04:46.705 --> 00:04:48.283
+Oh... it might throw an error.
+
+110
+00:04:48.563 --> 00:04:49.609
+Exactly.
+
+111
+00:04:49.889 --> 00:04:53.707
+And second, the SQL is built with string concatenation.
+
+112
+00:04:53.987 --> 00:04:56.185
+Can you use a parameter instead?
+
+113
+00:04:56.465 --> 00:04:58.193
+Yes, I'll fix both today.
+
+114
+00:04:59.543 --> 00:05:01.143
+The conversation continues.
+
+115
+00:05:01.423 --> 00:05:02.169
+Great.
+
+116
+00:05:02.449 --> 00:05:05.372
+Ping me when it's ready, and I'll approve it quickly.
+
+117
+00:05:06.722 --> 00:05:08.258
+That's the end of this lesson.
+
+118
+00:05:08.538 --> 00:05:13.189
+Pick one script from it, say it out loud three times, and use it for real today.
+
+119
+00:05:13.469 --> 00:05:19.591
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

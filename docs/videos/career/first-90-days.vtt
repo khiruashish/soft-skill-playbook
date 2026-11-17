@@ -1,0 +1,462 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:02.227
+First 90 Days at a New Job.
+
+2
+00:00:02.507 --> 00:00:06.539
+Day 85 of the Soft Skill Playbook course, in the Career phase.
+
+3
+00:00:08.289 --> 00:00:09.313
+The key idea.
+
+4
+00:00:09.593 --> 00:00:12.729
+First impressions are formed in weeks and last for years.
+
+5
+00:00:13.009 --> 00:00:18.812
+Spend the first 90 days listening, building relationships, and delivering one visible early win.
+
+6
+00:00:20.162 --> 00:00:21.015
+Part 1.
+
+7
+00:00:21.295 --> 00:00:23.322
+The 30 to 60 to 90 plan.
+
+8
+00:00:24.572 --> 00:00:25.831
+Days 1 to 30:
+
+9
+00:00:26.111 --> 00:00:29.524
+Learn: people, product, codebase, how decisions get made.
+
+10
+00:00:29.804 --> 00:00:31.447
+Days 31 to 60:
+
+11
+00:00:31.727 --> 00:00:35.695
+Contribute: ship real work, join discussions, own something small.
+
+12
+00:00:35.975 --> 00:00:37.617
+Days 61 to 90:
+
+13
+00:00:37.897 --> 00:00:41.545
+Lead: propose improvements, own a feature, mentor where you can.
+
+14
+00:00:42.895 --> 00:00:43.770
+Part 2.
+
+15
+00:00:44.050 --> 00:00:45.351
+Introducing yourself.
+
+16
+00:00:46.601 --> 00:00:48.884
+To the team (stand-up or first meeting).
+
+17
+00:00:49.164 --> 00:00:50.103
+You could say:
+
+18
+00:00:50.383 --> 00:00:52.004
+Hi everyone, I'm Ashish.
+
+19
+00:00:52.284 --> 00:00:54.737
+I've joined as a senior backend engineer.
+
+20
+00:00:55.017 --> 00:00:59.177
+Before this, I spent 6 years building payment systems at XYZ.
+
+21
+00:00:59.457 --> 00:01:01.868
+Outside work, I love cricket and cooking.
+
+22
+00:01:02.148 --> 00:01:06.756
+I'm looking forward to learning how things work here, so please bear with my questions!
+
+23
+00:01:08.106 --> 00:01:09.557
+Slack or Teams intro.
+
+24
+00:01:09.837 --> 00:01:11.714
+Here is a template you can copy.
+
+25
+00:01:11.994 --> 00:01:12.890
+Hi all!
+
+26
+00:01:13.170 --> 00:01:17.095
+I'm Ashish, joining the Checkout team as a Senior Backend Engineer.
+
+27
+00:01:17.375 --> 00:01:18.314
+Previously:
+
+28
+00:01:18.594 --> 00:01:22.434
+6 yrs on payments at XYZ (Java, Kafka, Postgres).
+
+29
+00:01:22.714 --> 00:01:23.653
+Fun fact:
+
+30
+00:01:23.933 --> 00:01:26.343
+I've visited 14 states on train journeys.
+
+31
+00:01:26.623 --> 00:01:29.205
+Would love a 15-min coffee chat with anyone.
+
+32
+00:01:29.485 --> 00:01:31.298
+Happy to learn how your team works!
+
+33
+00:01:34.148 --> 00:01:36.324
+To your new manager (first one-on-one).
+
+34
+00:01:36.604 --> 00:01:40.209
+What does success look like for me at 30, 60 and 90 days?
+
+35
+00:01:40.489 --> 00:01:42.196
+How do you prefer to communicate:
+
+36
+00:01:42.476 --> 00:01:44.097
+Slack, email, one-on-ones?
+
+37
+00:01:44.377 --> 00:01:46.063
+How often do you want updates?
+
+38
+00:01:46.343 --> 00:01:49.201
+Who are the key people I should meet in my first month?
+
+39
+00:01:49.481 --> 00:01:52.127
+What's the biggest challenge the team faces right now?
+
+40
+00:01:52.407 --> 00:01:55.969
+Is there a small, valuable task I could pick up as a first win?
+
+41
+00:01:57.319 --> 00:01:58.215
+Part 3.
+
+42
+00:01:58.495 --> 00:02:00.394
+Questions to ask in your first month.
+
+43
+00:02:01.644 --> 00:02:02.988
+Here is a quick table:
+
+44
+00:02:03.268 --> 00:02:04.591
+Area, and Questions.
+
+45
+00:02:04.871 --> 00:02:05.745
+Product:
+
+46
+00:02:06.025 --> 00:02:07.220
+Who are our users?
+
+47
+00:02:07.500 --> 00:02:09.185
+What do they complain about most?
+
+48
+00:02:09.465 --> 00:02:10.383
+Codebase:
+
+49
+00:02:10.663 --> 00:02:12.028
+Which parts are fragile?
+
+50
+00:02:12.308 --> 00:02:13.865
+Where is the documentation?
+
+51
+00:02:14.145 --> 00:02:15.105
+Process:
+
+52
+00:02:15.385 --> 00:02:17.753
+How does code go from PR to production?
+
+53
+00:02:18.033 --> 00:02:19.441
+What's the on-call setup?
+
+54
+00:02:19.721 --> 00:02:20.511
+People:
+
+55
+00:02:20.791 --> 00:02:23.969
+Who's the go-to person for payments or infra or data?
+
+56
+00:02:24.249 --> 00:02:25.060
+Culture:
+
+57
+00:02:25.340 --> 00:02:26.684
+How are decisions made?
+
+58
+00:02:26.964 --> 00:02:28.607
+How do people disagree here?
+
+59
+00:02:28.887 --> 00:02:29.719
+History:
+
+60
+00:02:29.999 --> 00:02:31.556
+Why was it built this way?
+
+61
+00:02:31.836 --> 00:02:34.119
+(ask out of curiosity, not to judge).
+
+62
+00:02:35.469 --> 00:02:36.386
+Part 4.
+
+63
+00:02:36.666 --> 00:02:39.162
+Senior hires: avoid the classic trap.
+
+64
+00:02:40.412 --> 00:02:41.159
+Warning:
+
+65
+00:02:41.439 --> 00:02:45.599
+Don't start with \At my last company we did it better...\.
+
+66
+00:02:45.879 --> 00:02:48.439
+Even when you're right, it sounds like criticism.
+
+67
+00:02:48.719 --> 00:02:49.465
+Try:
+
+68
+00:02:49.745 --> 00:02:52.369
+Help me understand why we chose this approach.
+
+69
+00:02:52.649 --> 00:02:55.209
+I've seen a pattern that worked well for this problem.
+
+70
+00:02:55.489 --> 00:02:57.260
+Would it be useful if I wrote it up?
+
+71
+00:02:57.540 --> 00:03:02.063
+Earn trust with small wins first; propose big changes after 60 days.
+
+72
+00:03:03.413 --> 00:03:04.373
+Part 5.
+
+73
+00:03:04.653 --> 00:03:06.509
+Habits for the first 90 days.
+
+74
+00:03:07.759 --> 00:03:11.961
+Take notes in every meeting; start a personal how things work here doc.
+
+75
+00:03:12.241 --> 00:03:13.265
+Coffee chats:
+
+76
+00:03:13.545 --> 00:03:15.636
+2 per week with people across teams.
+
+77
+00:03:15.916 --> 00:03:20.161
+Fix the onboarding docs wherever you hit a gap (an easy first PR).
+
+78
+00:03:20.441 --> 00:03:23.556
+Ship your first PR in week 1, even if it's tiny.
+
+79
+00:03:23.836 --> 00:03:27.079
+Send a weekly update to your manager for the first 2 months.
+
+80
+00:03:27.359 --> 00:03:29.065
+Ask for feedback at day 30:
+
+81
+00:03:29.345 --> 00:03:30.476
+How am I doing?
+
+82
+00:03:30.756 --> 00:03:32.164
+Anything I should adjust?
+
+83
+00:03:32.444 --> 00:03:36.476
+Remember names: say them back when introduced, and write them down after.
+
+84
+00:03:37.826 --> 00:03:38.765
+Part 6.
+
+85
+00:03:39.045 --> 00:03:41.562
+Day-90 conversation with your manager.
+
+86
+00:03:42.812 --> 00:03:43.751
+You could say:
+
+87
+00:03:44.031 --> 00:03:46.953
+It's been 90 days, and I'd like to reflect together.
+
+88
+00:03:47.233 --> 00:03:51.201
+Here's what I've delivered: the coupon validator and the on-call runbook.
+
+89
+00:03:51.481 --> 00:03:53.167
+Here's what I've learned about the team.
+
+90
+00:03:53.447 --> 00:03:57.415
+What's your feedback, and what should my priorities be for the next 6 months?
+
+91
+00:03:58.765 --> 00:03:59.703
+Part 7.
+
+92
+00:03:59.983 --> 00:04:01.370
+Practice conversation:
+
+93
+00:04:01.650 --> 00:04:03.869
+First one-on-one with your new manager.
+
+94
+00:04:05.119 --> 00:04:07.145
+Here is how the conversation goes.
+
+95
+00:04:07.425 --> 00:04:08.513
+Welcome!
+
+96
+00:04:08.793 --> 00:04:10.457
+How's the first week going?
+
+97
+00:04:10.737 --> 00:04:12.103
+Really well, thanks.
+
+98
+00:04:12.383 --> 00:04:14.345
+Everyone's been very helpful.
+
+99
+00:04:14.625 --> 00:04:15.884
+Glad to hear it.
+
+100
+00:04:16.164 --> 00:04:17.743
+What questions do you have?
+
+101
+00:04:18.023 --> 00:04:22.396
+What would success look like for me after 30, 60 and 90 days?
+
+102
+00:04:22.676 --> 00:04:25.684
+In 30 days, learn the codebase and ship a small fix.
+
+103
+00:04:25.964 --> 00:04:28.268
+By 90 days, own the coupon service.
+
+104
+00:04:29.618 --> 00:04:31.218
+The conversation continues.
+
+105
+00:04:31.498 --> 00:04:32.522
+That's clear.
+
+106
+00:04:32.802 --> 00:04:34.871
+How do you prefer to get updates:
+
+107
+00:04:35.151 --> 00:04:37.157
+Slack, email or one-on-ones?
+
+108
+00:04:37.437 --> 00:04:40.786
+Slack for quick things, and a short written update every Friday.
+
+109
+00:04:41.066 --> 00:04:41.962
+Perfect.
+
+110
+00:04:42.242 --> 00:04:44.994
+Who are the key people I should meet this month?
+
+111
+00:04:45.274 --> 00:04:47.791
+Meena in payments and Arun in DevOps.
+
+112
+00:04:48.071 --> 00:04:49.415
+I'll introduce you.
+
+113
+00:04:50.765 --> 00:04:52.301
+That's the end of this lesson.
+
+114
+00:04:52.581 --> 00:04:57.232
+Pick one script from it, say it out loud three times, and use it for real today.
+
+115
+00:04:57.512 --> 00:05:03.635
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

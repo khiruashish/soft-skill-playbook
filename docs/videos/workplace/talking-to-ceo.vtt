@@ -1,0 +1,578 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:02.547
+Talking to the CEO and Executives.
+
+2
+00:00:02.827 --> 00:00:06.667
+Day 70 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:08.417 --> 00:00:09.441
+The key idea.
+
+4
+00:00:09.721 --> 00:00:15.375
+Executives have 30 seconds of attention for your topic and 100 other problems waiting.
+
+5
+00:00:15.655 --> 00:00:20.817
+Lead with the answer, translate tech into business, and make the decision easy for them.
+
+6
+00:00:22.167 --> 00:00:23.021
+Part 1.
+
+7
+00:00:23.301 --> 00:00:24.943
+What executives care about.
+
+8
+00:00:26.193 --> 00:00:26.876
+Money:
+
+9
+00:00:27.156 --> 00:00:28.564
+Revenue, cost, ROI.
+
+10
+00:00:28.844 --> 00:00:31.617
+This saves 12 lakh rupees a year in cloud spend.
+
+11
+00:00:31.897 --> 00:00:32.793
+Customers:
+
+12
+00:00:33.073 --> 00:00:35.164
+Experience, churn, NPS.
+
+13
+00:00:35.444 --> 00:00:37.620
+Checkout failures dropped 60%.
+
+14
+00:00:37.900 --> 00:00:38.604
+Risk:
+
+15
+00:00:38.884 --> 00:00:41.999
+Security, compliance, outages, reputation.
+
+16
+00:00:42.279 --> 00:00:43.132
+Speed:
+
+17
+00:00:43.412 --> 00:00:45.417
+Time-to-market, competitive edge.
+
+18
+00:00:46.767 --> 00:00:47.642
+Part 2.
+
+19
+00:00:47.922 --> 00:00:49.394
+The executive formula.
+
+20
+00:00:50.644 --> 00:00:51.561
+Step 1:
+
+21
+00:00:51.841 --> 00:00:54.679
+Headline: the answer or the ask in one sentence.
+
+22
+00:00:54.959 --> 00:00:55.876
+Step 2:
+
+23
+00:00:56.156 --> 00:00:58.865
+Impact: money, customers, risk, in numbers.
+
+24
+00:00:59.145 --> 00:01:00.063
+Step 3:
+
+25
+00:01:00.343 --> 00:01:01.217
+Options:
+
+26
+00:01:01.497 --> 00:01:03.588
+2 or 3, with your recommendation.
+
+27
+00:01:03.868 --> 00:01:04.828
+Step 4:
+
+28
+00:01:05.108 --> 00:01:07.881
+Ask: the exact decision you need, and by when.
+
+29
+00:01:09.231 --> 00:01:10.127
+Part 3.
+
+30
+00:01:10.407 --> 00:01:11.986
+Translate tech into business.
+
+31
+00:01:13.236 --> 00:01:14.601
+Here is a quick table:
+
+32
+00:01:14.881 --> 00:01:17.868
+Engineer says, and CEO hears, and Say instead.
+
+33
+00:01:18.148 --> 00:01:19.919
+We need to refactor the monolith.
+
+34
+00:01:20.199 --> 00:01:21.265
+CEO hears:
+
+35
+00:01:21.545 --> 00:01:23.380
+Engineers want to play with code.
+
+36
+00:01:23.660 --> 00:01:24.620
+Say instead:
+
+37
+00:01:24.900 --> 00:01:27.524
+Every new feature takes 3 weeks instead of 1.
+
+38
+00:01:27.804 --> 00:01:30.257
+Splitting the system doubles our release speed.
+
+39
+00:01:30.537 --> 00:01:31.689
+We have tech debt.
+
+40
+00:01:31.969 --> 00:01:33.036
+CEO hears:
+
+41
+00:01:33.316 --> 00:01:34.425
+Vague complaint.
+
+42
+00:01:34.705 --> 00:01:35.665
+Say instead:
+
+43
+00:01:35.945 --> 00:01:45.631
+Fixing 3 fragile areas cuts outages by about half, and each outage costs us ~4 lakh rupees. p99 latency is 3 seconds.
+
+44
+00:01:45.911 --> 00:01:47.020
+CEO hears: ?
+
+45
+00:01:47.300 --> 00:01:48.260
+Say instead:
+
+46
+00:01:48.540 --> 00:01:54.385
+1 in 100 customers waits 3 seconds at checkout, and 20% of those abandon.
+
+47
+00:01:54.665 --> 00:01:55.988
+We need Kubernetes.
+
+48
+00:01:56.268 --> 00:01:57.335
+CEO hears:
+
+49
+00:01:57.615 --> 00:01:58.980
+Expensive buzzword.
+
+50
+00:01:59.260 --> 00:02:00.220
+Say instead:
+
+51
+00:02:00.500 --> 00:02:05.727
+We can handle sale-day traffic without manual work, and stop over-paying for idle servers.
+
+52
+00:02:06.007 --> 00:02:08.289
+The DB is a single point of failure.
+
+53
+00:02:08.569 --> 00:02:09.679
+CEO hears: ?
+
+54
+00:02:09.959 --> 00:02:10.919
+Say instead:
+
+55
+00:02:11.199 --> 00:02:14.356
+If one server dies, the whole site is down for hours.
+
+56
+00:02:14.636 --> 00:02:17.196
+A backup costs 30 thousand rupees per month.
+
+57
+00:02:18.546 --> 00:02:19.463
+Part 4.
+
+58
+00:02:19.743 --> 00:02:20.533
+Scripts.
+
+59
+00:02:21.783 --> 00:02:23.809
+30-second elevator update.
+
+60
+00:02:24.089 --> 00:02:25.028
+You could say:
+
+61
+00:02:25.308 --> 00:02:27.996
+The new delivery-tracking feature launches Monday.
+
+62
+00:02:28.276 --> 00:02:32.244
+Early tests show 25% fewer 'where is my order' calls.
+
+63
+00:02:32.524 --> 00:02:37.793
+One risk: map API costs may rise 15%, and we have a fallback ready.
+
+64
+00:02:38.073 --> 00:02:39.716
+No decision needed today.
+
+65
+00:02:41.066 --> 00:02:42.325
+Explaining an outage.
+
+66
+00:02:42.605 --> 00:02:43.543
+You could say:
+
+67
+00:02:43.823 --> 00:02:49.178
+Yesterday, checkout was down for 40 minutes, from 7:10 to 7:50 pm.
+
+68
+00:02:49.458 --> 00:02:54.215
+About 1,200 orders failed, roughly 9 lakh rupees in sales.
+
+69
+00:02:54.495 --> 00:02:57.482
+Cause: a database update ran during peak hours.
+
+70
+00:02:57.762 --> 00:03:03.714
+We've recovered, and 70% of affected customers have already re-ordered after our coupon email.
+
+71
+00:03:03.994 --> 00:03:10.138
+To prevent repeats, all DB changes now go through an automated check and run only off-peak.
+
+72
+00:03:10.418 --> 00:03:13.319
+I'd like approval for 2 sprints of reliability work.
+
+73
+00:03:13.599 --> 00:03:14.858
+Can I count on that?
+
+74
+00:03:16.208 --> 00:03:18.192
+Asking for budget or headcount.
+
+75
+00:03:18.472 --> 00:03:19.411
+You could say:
+
+76
+00:03:19.691 --> 00:03:22.741
+I'm asking for 2 more backend engineers for Q1.
+
+77
+00:03:23.021 --> 00:03:29.357
+Right now the team spends 40% of its time on support tickets, so the loyalty program slips to Q3.
+
+78
+00:03:29.637 --> 00:03:37.253
+With 2 hires, it ships in Q2, which product estimates adds 1.5 crore rupees in annual repeat revenue.
+
+79
+00:03:37.533 --> 00:03:39.880
+Cost is about 60 lakh rupees a year.
+
+80
+00:03:40.160 --> 00:03:43.381
+Can we approve this by the 15th so we can start hiring?
+
+81
+00:03:44.731 --> 00:03:47.249
+Answering \Why is this late?\.
+
+82
+00:03:47.529 --> 00:03:48.467
+You could say:
+
+83
+00:03:48.747 --> 00:03:53.227
+It's 2 weeks late because the payment partner changed their API mid-project.
+
+84
+00:03:53.507 --> 00:03:58.094
+We've finished the rework, and the new date is the 22nd, with high confidence.
+
+85
+00:03:58.374 --> 00:04:01.574
+Going forward, we're adding partner-change checks to our planning.
+
+86
+00:04:02.924 --> 00:04:04.673
+No blame, no long story.
+
+87
+00:04:04.953 --> 00:04:07.449
+Cause, new date, and the fix for next time.
+
+88
+00:04:08.799 --> 00:04:10.143
+When you don't know the answer.
+
+89
+00:04:10.423 --> 00:04:11.362
+You could say:
+
+90
+00:04:11.642 --> 00:04:13.391
+I don't have that number right now.
+
+91
+00:04:13.671 --> 00:04:15.719
+I'll get it to you by 3 pm today.
+
+92
+00:04:17.069 --> 00:04:19.608
+Never guess numbers in front of executives.
+
+93
+00:04:20.958 --> 00:04:21.918
+Part 5.
+
+94
+00:04:22.198 --> 00:04:23.947
+Before you walk in: checklist.
+
+95
+00:04:25.197 --> 00:04:27.523
+Can I say my main point in one sentence?
+
+96
+00:04:27.803 --> 00:04:30.853
+Do I have numbers (₹, %, users, hours)?
+
+97
+00:04:31.133 --> 00:04:33.992
+Do I have 2 to 3 options and a recommendation?
+
+98
+00:04:34.272 --> 00:04:36.768
+Do I know the exact decision I'm asking for?
+
+99
+00:04:37.048 --> 00:04:40.376
+Have I pre-wired it with my manager and other key people?
+
+100
+00:04:40.656 --> 00:04:43.429
+Is there a 1-page summary I can leave behind?
+
+101
+00:04:43.709 --> 00:04:47.336
+Have I prepared answers for What if we do nothing? and What's the risk?
+
+102
+00:04:48.686 --> 00:04:49.625
+Part 6.
+
+103
+00:04:49.905 --> 00:04:51.206
+Mistakes to avoid.
+
+104
+00:04:52.456 --> 00:04:53.309
+Avoid:
+
+105
+00:04:53.589 --> 00:04:58.965
+Starting with background (So, in 2023 we chose MongoDB because...).
+
+106
+00:04:59.245 --> 00:05:00.099
+Avoid:
+
+107
+00:05:00.379 --> 00:05:02.107
+Jargon without translation.
+
+108
+00:05:02.387 --> 00:05:03.240
+Avoid:
+
+109
+00:05:03.520 --> 00:05:05.589
+Showing 30 slides when 3 will do.
+
+110
+00:05:05.869 --> 00:05:06.723
+Avoid:
+
+111
+00:05:07.003 --> 00:05:09.883
+Surprising your manager by going over their head.
+
+112
+00:05:10.163 --> 00:05:11.016
+Avoid:
+
+113
+00:05:11.296 --> 00:05:13.259
+Getting defensive when interrupted.
+
+114
+00:05:13.539 --> 00:05:14.947
+Interruptions are normal.
+
+115
+00:05:15.227 --> 00:05:16.443
+Answer and move on.
+
+116
+00:05:17.793 --> 00:05:18.731
+Part 7.
+
+117
+00:05:19.011 --> 00:05:20.590
+For experienced engineers.
+
+118
+00:05:21.840 --> 00:05:26.405
+Learn the company's top 3 goals this year and tie every proposal to one of them.
+
+119
+00:05:26.685 --> 00:05:27.581
+Say less.
+
+120
+00:05:27.861 --> 00:05:31.381
+Yes, it's on track is a complete answer if that's what was asked.
+
+121
+00:05:31.661 --> 00:05:37.656
+Build relationships before you need them: a coffee chat with a VP is worth more than a slide deck.
+
+122
+00:05:37.936 --> 00:05:41.136
+Bring the so what for the business, not just the technical what.
+
+123
+00:05:42.486 --> 00:05:43.361
+Part 8.
+
+124
+00:05:43.641 --> 00:05:45.027
+Practice conversation:
+
+125
+00:05:45.307 --> 00:05:47.611
+The 30-second update in a corridor.
+
+126
+00:05:48.861 --> 00:05:50.888
+Here is how the conversation goes.
+
+127
+00:05:51.168 --> 00:05:52.363
+Ashish, right?
+
+128
+00:05:52.643 --> 00:05:54.840
+How's the delivery tracking project?
+
+129
+00:05:55.120 --> 00:05:56.699
+It launches on Monday.
+
+130
+00:05:56.979 --> 00:06:01.331
+In testing, where is my order calls dropped by 25%.
+
+131
+00:06:01.611 --> 00:06:02.528
+Excellent.
+
+132
+00:06:02.808 --> 00:06:03.832
+Any risks?
+
+133
+00:06:04.112 --> 00:06:07.184
+One: map costs may go up about 15%.
+
+134
+00:06:07.464 --> 00:06:10.216
+We already have a cheaper backup provider ready.
+
+135
+00:06:11.566 --> 00:06:13.166
+The conversation continues.
+
+136
+00:06:13.446 --> 00:06:14.193
+Good.
+
+137
+00:06:14.473 --> 00:06:15.987
+Anything you need from me?
+
+138
+00:06:16.267 --> 00:06:18.059
+No decision needed today.
+
+139
+00:06:18.339 --> 00:06:21.091
+I'll share the launch results next Friday.
+
+140
+00:06:21.371 --> 00:06:22.417
+Great work.
+
+141
+00:06:22.697 --> 00:06:23.977
+Keep me posted.
+
+142
+00:06:25.327 --> 00:06:26.863
+That's the end of this lesson.
+
+143
+00:06:27.143 --> 00:06:31.815
+Pick one script from it, say it out loud three times, and use it for real today.
+
+144
+00:06:32.095 --> 00:06:38.196
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+

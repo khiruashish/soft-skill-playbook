@@ -1,0 +1,530 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:01.566
+Explaining an Issue.
+
+2
+00:00:01.846 --> 00:00:05.963
+Day 65 of the Soft Skill Playbook course, in the Workplace phase.
+
+3
+00:00:07.713 --> 00:00:08.737
+The key idea.
+
+4
+00:00:09.017 --> 00:00:11.172
+A well-explained problem is half-solved.
+
+5
+00:00:11.452 --> 00:00:18.471
+Use these templates for bug reports, incidents, root-cause analysis, and explaining tech to people who aren't technical.
+
+6
+00:00:19.821 --> 00:00:20.674
+Part 1.
+
+7
+00:00:20.954 --> 00:00:22.405
+The universal structure.
+
+8
+00:00:23.655 --> 00:00:24.572
+Step 1:
+
+9
+00:00:24.852 --> 00:00:27.263
+What's happening: the symptom, in one line.
+
+10
+00:00:27.543 --> 00:00:28.460
+Step 2:
+
+11
+00:00:28.740 --> 00:00:32.452
+Who or what is affected: users, revenue, systems, scale.
+
+12
+00:00:32.732 --> 00:00:33.649
+Step 3:
+
+13
+00:00:33.929 --> 00:00:36.297
+Since when: start time, trigger if known.
+
+14
+00:00:36.577 --> 00:00:37.537
+Step 4:
+
+15
+00:00:37.817 --> 00:00:41.017
+What we know or don't know: facts versus hypotheses.
+
+16
+00:00:41.297 --> 00:00:42.257
+Step 5:
+
+17
+00:00:42.537 --> 00:00:44.799
+What we're doing: actions + owners.
+
+18
+00:00:45.079 --> 00:00:46.017
+Step 6:
+
+19
+00:00:46.297 --> 00:00:50.073
+What's needed + next update: your ask and when you'll report back.
+
+20
+00:00:51.423 --> 00:00:52.298
+Part 2.
+
+21
+00:00:52.578 --> 00:00:53.431
+Templates.
+
+22
+00:00:54.681 --> 00:00:56.495
+Bug report (to a developer).
+
+23
+00:00:56.775 --> 00:00:58.353
+Here is the MARKDOWN code.
+
+24
+00:00:58.633 --> 00:00:59.465
+Title:
+
+25
+00:00:59.745 --> 00:01:02.391
+Cart total ignores coupon when quantity 10.
+
+26
+00:01:02.671 --> 00:01:03.929
+Steps to reproduce.
+
+27
+00:01:04.209 --> 00:01:05.169
+Expected:
+
+28
+00:01:05.449 --> 00:01:07.327
+Total reduced by 10%.
+
+29
+00:01:10.177 --> 00:01:12.246
+Incident update (Slack or status).
+
+30
+00:01:12.526 --> 00:01:14.403
+Here is a template you can copy.
+
+31
+00:01:14.683 --> 00:01:17.222
+INCIDENT, Checkout errors (SEV-2).
+
+32
+00:01:17.502 --> 00:01:18.398
+Status:
+
+33
+00:01:18.678 --> 00:01:20.150
+Investigating Started:
+
+34
+00:01:20.430 --> 00:01:22.734
+19:10 IST Next update:
+
+35
+00:01:23.014 --> 00:01:24.209
+19:40.
+
+36
+00:01:24.489 --> 00:01:28.841
+Impact: ~8% of checkout attempts failing with payment timeout.
+
+37
+00:01:29.121 --> 00:01:33.494
+Known: began after 19:00 payment-SDK deploy.
+
+38
+00:01:33.774 --> 00:01:35.950
+Doing: rolling back SDK (owner:
+
+39
+00:01:36.230 --> 00:01:38.406
+Ravi), monitoring error rate (owner:
+
+40
+00:01:38.686 --> 00:01:39.454
+Meena).
+
+41
+00:01:39.734 --> 00:01:41.057
+Need: nothing yet.
+
+42
+00:01:43.907 --> 00:01:47.213
+Then keep updating on schedule, even if there's no news:
+
+43
+00:01:47.493 --> 00:01:48.432
+No change.
+
+44
+00:01:48.712 --> 00:01:50.568
+Rollback 60% complete.
+
+45
+00:01:50.848 --> 00:01:53.045
+Next update 20:00.
+
+46
+00:01:54.395 --> 00:01:56.465
+Root-cause summary (post-mortem).
+
+47
+00:01:56.745 --> 00:01:58.323
+Here is the MARKDOWN code.
+
+48
+00:01:58.603 --> 00:02:02.145
+It runs to 19 lines; the full listing is in the chapter.
+
+49
+00:02:02.425 --> 00:02:03.363
+Root cause.
+
+50
+00:02:03.643 --> 00:02:05.222
+What went well or what didn't.
+
+51
+00:02:08.072 --> 00:02:08.712
+Tip:
+
+52
+00:02:08.992 --> 00:02:10.229
+Blameless language.
+
+53
+00:02:10.509 --> 00:02:15.544
+Write The deploy pipeline allowed a peak-hour release, not Ravi deployed at peak time.
+
+54
+00:02:15.824 --> 00:02:17.765
+Fix the system, not the person.
+
+55
+00:02:19.115 --> 00:02:21.099
+SBAR (spoken, to a manager).
+
+56
+00:02:21.379 --> 00:02:22.318
+You could say:
+
+57
+00:02:22.598 --> 00:02:23.622
+Situation:
+
+58
+00:02:23.902 --> 00:02:25.822
+Order emails aren't being sent.
+
+59
+00:02:26.102 --> 00:02:27.019
+Background:
+
+60
+00:02:27.299 --> 00:02:31.822
+Since 10 am, after the email provider rotated our API key.
+
+61
+00:02:32.102 --> 00:02:33.019
+Assessment:
+
+62
+00:02:33.299 --> 00:02:36.670
+About 3,000 customers haven't got confirmations.
+
+63
+00:02:36.950 --> 00:02:38.273
+No orders are lost.
+
+64
+00:02:38.553 --> 00:02:39.705
+Recommendation:
+
+65
+00:02:39.985 --> 00:02:42.502
+I've requested a new key; ETA 30 min.
+
+66
+00:02:42.782 --> 00:02:44.915
+Meanwhile, should support post a banner?
+
+67
+00:02:46.265 --> 00:02:47.161
+Part 3.
+
+68
+00:02:47.441 --> 00:02:49.447
+Explaining tech to non-tech people.
+
+69
+00:02:50.697 --> 00:02:53.918
+Use one analogy + one number + one action.
+
+70
+00:02:55.268 --> 00:02:56.633
+Here is a quick table:
+
+71
+00:02:56.913 --> 00:02:58.492
+Concept, and Analogy.
+
+72
+00:02:58.772 --> 00:02:59.497
+Cache:
+
+73
+00:02:59.777 --> 00:03:03.980
+A sticky note on your desk, so you don't walk to the filing cabinet every time.
+
+74
+00:03:04.260 --> 00:03:05.561
+Database index:
+
+75
+00:03:05.841 --> 00:03:07.527
+The index at the back of a book.
+
+76
+00:03:07.807 --> 00:03:09.663
+Without it, you read every page.
+
+77
+00:03:09.943 --> 00:03:11.073
+Load balancer:
+
+78
+00:03:11.353 --> 00:03:15.385
+A restaurant host seating guests across all the waiters, not just one.
+
+79
+00:03:15.665 --> 00:03:17.052
+Message queue (Kafka):
+
+80
+00:03:17.332 --> 00:03:18.377
+A post office.
+
+81
+00:03:18.657 --> 00:03:22.220
+Senders drop letters; receivers collect them at their own pace.
+
+82
+00:03:22.500 --> 00:03:23.375
+Tech debt:
+
+83
+00:03:23.655 --> 00:03:25.169
+Skipping car servicing.
+
+84
+00:03:25.449 --> 00:03:28.436
+Fine for a while, then a big expensive breakdown.
+
+85
+00:03:28.716 --> 00:03:29.953
+Microservices:
+
+86
+00:03:30.233 --> 00:03:33.199
+Separate shops in a mall instead of one giant store.
+
+87
+00:03:33.479 --> 00:03:36.337
+One can close for repairs without shutting the mall.
+
+88
+00:03:36.617 --> 00:03:37.535
+API:
+
+89
+00:03:37.815 --> 00:03:41.335
+A waiter: you order from the menu; you don't walk into the kitchen.
+
+90
+00:03:41.615 --> 00:03:42.511
+Encryption:
+
+91
+00:03:42.791 --> 00:03:45.500
+A locked box only the receiver has the key to.
+
+92
+00:03:46.850 --> 00:03:47.959
+Race condition:
+
+93
+00:03:48.239 --> 00:03:51.311
+Two people booking the last train seat at the same second.
+
+94
+00:03:52.661 --> 00:03:53.536
+Example:
+
+95
+00:03:53.816 --> 00:03:54.904
+Putting it together.
+
+96
+00:03:55.184 --> 00:04:03.013
+The site was slow because our 'sticky note' (cache) got wiped during the update, so every page went to the 'filing cabinet' (database).
+
+97
+00:04:03.293 --> 00:04:05.619
+Pages took 6 seconds instead of 1.
+
+98
+00:04:05.899 --> 00:04:09.717
+We've refilled it, and we're adding a check so updates don't wipe it again.
+
+99
+00:04:11.067 --> 00:04:11.985
+Part 4.
+
+100
+00:04:12.265 --> 00:04:14.035
+Mistakes when explaining issues.
+
+101
+00:04:15.285 --> 00:04:16.139
+Avoid:
+
+102
+00:04:16.419 --> 00:04:18.872
+It's broken (what is? for whom? since when?).
+
+103
+00:04:19.152 --> 00:04:20.005
+Avoid:
+
+104
+00:04:20.285 --> 00:04:21.821
+Mixing guesses with facts.
+
+105
+00:04:22.101 --> 00:04:23.936
+Say We know... and We suspect...
+
+106
+00:04:24.216 --> 00:04:25.069
+Avoid:
+
+107
+00:04:25.349 --> 00:04:27.227
+Going silent during an incident.
+
+108
+00:04:27.507 --> 00:04:29.469
+Silence feels worse than bad news.
+
+109
+00:04:29.749 --> 00:04:30.603
+Avoid:
+
+110
+00:04:30.883 --> 00:04:33.080
+Blaming a person or team in public.
+
+111
+00:04:33.360 --> 00:04:34.213
+Avoid:
+
+112
+00:04:34.493 --> 00:04:37.437
+Too much detail for the audience (see altitude rule).
+
+113
+00:04:38.787 --> 00:04:39.747
+Part 5.
+
+114
+00:04:40.027 --> 00:04:41.414
+Practice conversation:
+
+115
+00:04:41.694 --> 00:04:44.318
+Explaining an outage to a non-tech manager.
+
+116
+00:04:45.568 --> 00:04:47.595
+Here is how the conversation goes.
+
+117
+00:04:47.875 --> 00:04:50.200
+Customers say the app was slow this morning.
+
+118
+00:04:50.480 --> 00:04:51.525
+What happened?
+
+119
+00:04:51.805 --> 00:04:57.117
+Between 9 and 9:40, pages took six seconds to load instead of one.
+
+120
+00:04:57.397 --> 00:05:00.149
+About 15% of users were affected.
+
+121
+00:05:00.429 --> 00:05:01.219
+Why?
+
+122
+00:05:01.499 --> 00:05:09.051
+Our cache, which is like a sticky note so we don't go to the filing cabinet every time, was cleared during an update.
+
+123
+00:05:10.401 --> 00:05:12.001
+The conversation continues.
+
+124
+00:05:12.281 --> 00:05:13.390
+Is it fixed?
+
+125
+00:05:13.670 --> 00:05:14.374
+Yes.
+
+126
+00:05:14.654 --> 00:05:19.134
+We refilled the cache at 9:40, and everything is normal now.
+
+127
+00:05:19.414 --> 00:05:20.758
+Will it happen again?
+
+128
+00:05:21.038 --> 00:05:24.067
+We're adding a check so updates can't clear the cache.
+
+129
+00:05:24.347 --> 00:05:25.969
+It'll be done by Friday.
+
+130
+00:05:27.319 --> 00:05:28.855
+That's the end of this lesson.
+
+131
+00:05:29.135 --> 00:05:33.807
+Pick one script from it, say it out loud three times, and use it for real today.
+
+132
+00:05:34.087 --> 00:05:40.188
+For extra practice, paste the Master Prompt into an AI assistant and role-play the conversation.
+
